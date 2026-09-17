@@ -1,0 +1,473 @@
+Source_Row,Reject_Reasons,Payment_ID,Invoice_ID,Customer_ID,Payment_Date,Payment_Method,Payment_Amount,Payment_Fee,Payment_Status
+251,Invalid Foreign Key: Invoice_ID,PAY0000250,INV0000250,C000251,2026-05-29,Bank Transfer,9350.0,168.3,Successful
+751,Invalid Foreign Key: Invoice_ID,PAY0000750,INV0000750,C000751,2025-10-11,Card,21050.0,378.9,Successful
+787,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0000786,INV0000786,C000787,2025-11-16,Card,25262.0,454.72,Successful
+997,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0000996,INV0000996,C000997,2026-06-14,Card,26432.0,475.78,Successful
+1251,Invalid Foreign Key: Invoice_ID,PAY0001250,INV0001250,C001251,2026-02-23,Wallet,9350.0,168.3,Successful
+1574,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0001573,INV0001573,C001574,2026-01-12,Bank Transfer,23741.0,427.34,Successful
+1751,Invalid Foreign Key: Invoice_ID,PAY0001750,INV0001750,C001751,2026-07-08,Bank Transfer,21050.0,378.9,Successful
+1778,Invalid Foreign Key: Invoice_ID,PAY0001777,INV0001777,C001778,2026-08-04,UPI,24209.0,435.76,Successful
+1994,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0001993,INV0001993,C001994,2026-03-08,Card,26081.0,469.46,Successful
+2202,Invalid Foreign Key: Invoice_ID,PAY0002201,INV0002201,C002202,2025-10-02,Wallet,3617.0,65.11,Successful
+2251,Invalid Foreign Key: Invoice_ID,PAY0002250,INV0002250,C002251,2025-11-20,Bank Transfer,9350.0,168.3,Successful
+2361,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0002360,INV0002360,C002361,2026-03-10,Card,22220.0,399.96,Successful
+2751,Invalid Foreign Key: Invoice_ID,PAY0002750,INV0002750,C002751,2026-04-04,Wallet,21050.0,378.9,Successful
+2991,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0002990,INV0002990,C002991,2025-11-30,UPI,25730.0,463.14,Successful
+3148,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0003147,INV0003147,C003148,2026-05-06,Card,20699.0,372.58,Successful
+3251,Invalid Foreign Key: Invoice_ID,PAY0003250,INV0003250,C003251,2026-08-17,Card,9350.0,168.3,Successful
+3332,Invalid Foreign Key: Invoice_ID,PAY0003331,INV0003331,C003332,2025-11-06,Card,18827.0,338.89,Successful
+3555,Invalid Foreign Key: Invoice_ID,PAY0003554,INV0003554,C003555,2026-06-17,Card,21518.0,387.32,Successful
+3751,Invalid Foreign Key: Invoice_ID,PAY0003750,INV0003750,C003751,2025-12-30,UPI,21050.0,378.9,Successful
+3935,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0003934,INV0003934,C003935,2026-07-02,Bank Transfer,19178.0,345.2,Successful
+3988,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0003987,INV0003987,C003988,2026-08-24,UPI,25379.0,456.82,Successful
+4251,Invalid Foreign Key: Invoice_ID,PAY0004250,INV0004250,C004251,2026-05-14,Wallet,9350.0,168.3,Failed
+4403,Invalid Foreign Key: Invoice_ID,PAY0004402,INV0004402,C004403,2025-10-13,UPI,3734.0,67.21,Successful
+4722,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0004721,INV0004721,C004722,2026-08-28,Wallet,17657.0,317.83,Successful
+4751,Invalid Foreign Key: Invoice_ID,PAY0004750,INV0004750,C004751,2025-09-26,Bank Transfer,21050.0,378.9,Successful
+4985,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0004984,INV0004984,C004985,2026-05-18,Card,25028.0,450.5,Successful
+5004,Future Date: Payment_Date,PAY0005003,INV0005003,C005004,2027-06-01,Card,3851.0,69.32,Successful
+5251,Invalid Foreign Key: Invoice_ID,PAY0005250,INV0005250,C005251,2026-02-08,UPI,9350.0,168.3,Successful
+5332,Invalid Foreign Key: Invoice_ID,PAY0005331,INV0005331,C005332,2026-04-30,UPI,18827.0,338.89,Successful
+5509,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0005508,INV0005508,C005509,2025-10-24,Card,16136.0,290.45,Failed
+5751,Invalid Foreign Key: Invoice_ID,PAY0005750,INV0005750,C005751,2026-06-23,Card,21050.0,378.9,Successful
+5982,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0005981,INV0005981,C005982,2026-02-09,Card,24677.0,444.19,Successful
+6251,Invalid Foreign Key: Invoice_ID,PAY0006250,INV0006250,C006251,2025-11-05,Card,9350.0,168.3,Successful
+6296,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0006295,INV0006295,C006296,2025-12-20,UPI,14615.0,263.07,Successful
+6604,Invalid Foreign Key: Invoice_ID,PAY0006603,INV0006603,C006604,2025-10-24,Card,3851.0,69.32,Successful
+6663,Invalid Foreign Key: Invoice_ID,PAY0006662,INV0006662,C006663,2025-12-22,Card,10754.0,193.57,Successful
+6751,Invalid Foreign Key: Invoice_ID,PAY0006750,INV0006750,C006751,2026-03-20,Card,21050.0,378.9,Successful
+6979,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0006978,INV0006978,C006979,2025-11-03,Bank Transfer,24326.0,437.87,Successful
+7002,Invalid Foreign Key: Invoice_ID,PAY0007001,INV9999999,C007002,2025-11-26,Bank Transfer,3617.0,65.11,Successful
+7083,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0007082,INV0007082,C007083,2026-02-15,UPI,13094.0,235.69,Successful
+7109,Invalid Foreign Key: Invoice_ID,PAY0007108,INV0007108,C007109,2026-03-13,UPI,16136.0,290.45,Successful
+7251,Invalid Foreign Key: Invoice_ID,PAY0007250,INV0007250,C007251,2026-08-02,UPI,9350.0,168.3,Successful
+7751,Invalid Foreign Key: Invoice_ID,PAY0007750,INV0007750,C007751,2025-12-15,Wallet,21050.0,378.9,Successful
+7870,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0007869,INV0007869,C007870,2026-04-13,Card,11573.0,208.31,Successful
+7976,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0007975,INV0007975,C007976,2026-07-28,Card,23975.0,431.55,Successful
+8251,Invalid Foreign Key: Invoice_ID,PAY0008250,INV0008250,C008251,2026-04-29,Wallet,9350.0,168.3,Successful
+8657,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0008656,INV0008656,C008657,2026-06-09,Wallet,10052.0,180.94,Successful
+8751,Invalid Foreign Key: Invoice_ID,PAY0008750,INV0008750,C008751,2025-09-11,Card,21050.0,378.9,Successful
+8805,Invalid Foreign Key: Invoice_ID,PAY0008804,INV0008804,C008805,2025-11-04,UPI,3968.0,71.42,Successful
+8886,Invalid Foreign Key: Invoice_ID,PAY0008885,INV0008885,C008886,2026-01-24,Wallet,13445.0,242.01,Successful
+8973,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0008972,INV0008972,C008973,2026-04-21,Card,23624.0,425.23,Successful
+9251,Invalid Foreign Key: Invoice_ID,PAY0009250,INV0009250,C009251,2026-01-24,Card,9350.0,168.3,Successful
+9444,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0009443,INV0009443,C009444,2026-08-05,Bank Transfer,8531.0,153.56,Successful
+9751,Invalid Foreign Key: Invoice_ID,PAY0009750,INV0009750,C009751,2026-06-08,Wallet,21050.0,378.9,Successful
+9970,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0009969,INV0009969,C009970,2026-01-13,UPI,23273.0,418.91,Successful
+9994,Invalid Foreign Key: Invoice_ID,PAY0009993,INV0009993,C009994,2026-02-06,Wallet,26081.0,469.46,Successful
+10007,Future Date: Payment_Date,PAY0010006,INV0010006,C010007,2027-06-01,Card,4202.0,75.64,Successful
+10008,Invalid Foreign Key: Invoice_ID,PAY0010007,INV0010007,C010008,2026-02-20,Bank Transfer,4319.0,77.74,Successful
+10010,Invalid Foreign Key: Invoice_ID,PAY0010009,INV0010009,C010010,2026-02-22,Wallet,4553.0,81.95,Successful
+10231,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0010230,INV0010230,C010231,2025-10-01,UPI,7010.0,126.18,Successful
+10251,Invalid Foreign Key: Invoice_ID,PAY0010250,INV0010250,C010251,2025-10-21,UPI,9350.0,168.3,Successful
+10663,Invalid Foreign Key: Invoice_ID,PAY0010662,INV0010662,C010663,2025-12-07,Wallet,10754.0,193.57,Successful
+10751,Invalid Foreign Key: Invoice_ID,PAY0010750,INV0010750,C010751,2026-03-05,Card,21050.0,378.9,Successful
+10967,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0010966,INV0010966,C010967,2025-10-07,UPI,22922.0,412.6,Successful
+11004,Duplicate Primary Key,PAY0011002,INV0011003,C011004,2025-11-13,Card,3851.0,69.32,Successful
+11006,Invalid Foreign Key: Invoice_ID,PAY0011005,INV0011005,C011006,2025-11-15,UPI,4085.0,73.53,Successful
+11018,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0011017,INV0011017,C011018,2025-11-27,Card,5489.0,98.8,Successful
+11251,Invalid Foreign Key: Invoice_ID,PAY0011250,INV0011250,C011251,2026-07-18,Wallet,9350.0,168.3,Successful
+11751,Invalid Foreign Key: Invoice_ID,PAY0011750,INV0011750,C011751,2025-11-30,Card,21050.0,378.9,Successful
+11805,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0011804,INV0011804,C011805,2026-01-23,Card,3968.0,71.42,Successful
+11964,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0011963,INV0011963,C011964,2026-07-01,Card,22571.0,406.28,Successful
+12251,Invalid Foreign Key: Invoice_ID,PAY0012250,INV0012250,C012251,2026-04-14,Card,9350.0,168.3,Successful
+12440,Invalid Foreign Key: Invoice_ID,PAY0012439,INV0012439,C012440,2025-10-20,UPI,8063.0,145.13,Successful
+12592,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0012591,INV0012591,C012592,2026-03-21,Wallet,25847.0,465.25,Successful
+12751,Invalid Foreign Key: Invoice_ID,PAY0012750,INV0012750,C012751,2026-08-27,Bank Transfer,21050.0,378.9,Failed
+12961,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0012960,INV0012960,C012961,2026-03-25,Bank Transfer,22220.0,399.96,Successful
+13207,Invalid Foreign Key: Invoice_ID,PAY0013206,INV0013206,C013207,2025-11-26,UPI,4202.0,75.64,Successful
+13251,Invalid Foreign Key: Invoice_ID,PAY0013250,INV0013250,C013251,2026-01-09,Bank Transfer,9350.0,168.3,Successful
+13325,Invalid Foreign Key: Invoice_ID,PAY0013324,INV0013324,C013325,2026-03-24,Card,18008.0,324.14,Successful
+13379,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0013378,INV0013378,C013379,2026-05-17,Card,24326.0,437.87,Successful
+13751,Invalid Foreign Key: Invoice_ID,PAY0013750,INV0013750,C013751,2026-05-24,Bank Transfer,21050.0,378.9,Successful
+13958,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0013957,INV0013957,C013958,2025-12-17,Bank Transfer,21869.0,393.64,Failed
+14003,Invalid Foreign Key: Invoice_ID,PAY0014002,INV9999999,C014003,2026-01-31,Card,3734.0,67.21,Successful
+14166,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0014165,INV0014165,C014166,2026-07-13,Wallet,22805.0,410.49,Successful
+14217,Invalid Foreign Key: Invoice_ID,PAY0014216,INV0014216,C014217,2025-09-02,UPI,5372.0,96.7,Successful
+14251,Invalid Foreign Key: Invoice_ID,PAY0014250,INV0014250,C014251,2025-10-06,Bank Transfer,9350.0,168.3,Successful
+14751,Invalid Foreign Key: Invoice_ID,PAY0014750,INV0014750,C014751,2026-02-18,Bank Transfer,21050.0,378.9,Successful
+14953,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0014952,INV0014952,C014953,2025-09-08,Wallet,21284.0,383.11,Successful
+14955,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0014954,INV0014954,C014955,2025-09-10,Card,21518.0,387.32,Successful
+15010,Future Date: Payment_Date,PAY0015009,INV0015009,C015010,2027-06-01,Card,4553.0,81.95,Successful
+15251,Invalid Foreign Key: Invoice_ID,PAY0015250,INV0015250,C015251,2026-07-03,Bank Transfer,9350.0,168.3,Successful
+15408,Invalid Foreign Key: Invoice_ID,PAY0015407,INV0015407,C015408,2025-12-07,Card,4319.0,77.74,Successful
+15740,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0015739,INV0015739,C015740,2025-11-04,Card,19763.0,355.73,Successful
+15751,Invalid Foreign Key: Invoice_ID,PAY0015750,INV0015750,C015751,2025-11-15,UPI,21050.0,378.9,Successful
+15952,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0015951,INV0015951,C015952,2026-06-04,Wallet,21167.0,381.01,Successful
+15994,Invalid Foreign Key: Invoice_ID,PAY0015993,INV0015993,C015994,2026-07-16,Wallet,26081.0,469.46,Successful
+16251,Invalid Foreign Key: Invoice_ID,PAY0016250,INV0016250,C016251,2026-03-30,Card,9350.0,168.3,Successful
+16527,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0016526,INV0016526,C016527,2025-12-31,UPI,18242.0,328.36,Successful
+16656,Invalid Foreign Key: Invoice_ID,PAY0016655,INV0016655,C016656,2026-05-09,UPI,9935.0,178.83,Successful
+16751,Invalid Foreign Key: Invoice_ID,PAY0016750,INV0016750,C016751,2026-08-12,Bank Transfer,21050.0,378.9,Successful
+16949,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0016948,INV0016948,C016949,2026-02-26,Wallet,20816.0,374.69,Successful
+17251,Invalid Foreign Key: Invoice_ID,PAY0017250,INV0017250,C017251,2025-12-25,Bank Transfer,9350.0,168.3,Successful
+17314,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0017313,INV0017313,C017314,2026-02-26,Wallet,16721.0,300.98,Successful
+17609,Invalid Foreign Key: Invoice_ID,PAY0017608,INV0017608,C017609,2025-12-18,UPI,4436.0,79.85,Successful
+17751,Invalid Foreign Key: Invoice_ID,PAY0017750,INV0017750,C017751,2026-05-09,UPI,21050.0,378.9,Successful
+17771,Invalid Foreign Key: Invoice_ID,PAY0017770,INV0017770,C017771,2026-05-29,Bank Transfer,23390.0,421.02,Successful
+17946,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0017945,INV0017945,C017946,2025-11-20,UPI,20465.0,368.37,Successful
+18101,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0018100,INV0018100,C018101,2026-04-24,Card,15200.0,273.6,Successful
+18251,Invalid Foreign Key: Invoice_ID,PAY0018250,INV0018250,C018251,2025-09-21,UPI,9350.0,168.3,Successful
+18751,Invalid Foreign Key: Invoice_ID,PAY0018750,INV0018750,C018751,2026-02-03,UPI,21050.0,378.9,Successful
+18888,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0018887,INV0018887,C018888,2026-06-20,Bank Transfer,13679.0,246.22,Failed
+18943,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0018942,INV0018942,C018943,2026-08-14,Card,20114.0,362.05,Successful
+19251,Invalid Foreign Key: Invoice_ID,PAY0019250,INV0019250,C019251,2026-06-18,UPI,9350.0,168.3,Successful
+19548,Invalid Foreign Key: Invoice_ID,PAY0019547,INV0019547,C019548,2026-04-11,Wallet,20699.0,372.58,Successful
+19675,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0019674,INV0019674,C019675,2026-08-16,Bank Transfer,12158.0,218.84,Successful
+19751,Invalid Foreign Key: Invoice_ID,PAY0019750,INV0019750,C019751,2025-10-31,UPI,21050.0,378.9,Successful
+19810,Invalid Foreign Key: Invoice_ID,PAY0019809,INV0019809,C019810,2025-12-29,UPI,4553.0,81.95,Successful
+19940,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0019939,INV0019939,C019940,2026-05-08,Wallet,19763.0,355.73,Successful
+19987,Invalid Foreign Key: Invoice_ID,PAY0019986,INV0019986,C019987,2026-06-24,UPI,25262.0,454.72,Successful
+20013,Future Date: Payment_Date,PAY0020012,INV0020012,C000013,2027-06-01,Wallet,4904.0,88.27,Successful
+20015,Invalid Foreign Key: Invoice_ID,PAY0020014,INV0020014,C000015,2026-07-22,Card,5138.0,92.48,Successful
+20019,Invalid Foreign Key: Invoice_ID,PAY0020018,INV0020018,C000019,2026-07-26,Card,5606.0,100.91,Successful
+20251,Invalid Foreign Key: Invoice_ID,PAY0020250,INV0020250,C000251,2026-03-15,Bank Transfer,9350.0,168.3,Successful
+20751,Invalid Foreign Key: Invoice_ID,PAY0020750,INV0020750,C000751,2026-07-28,Card,21050.0,378.9,Successful
+20787,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0020786,INV0020786,C000787,2025-09-02,Bank Transfer,25262.0,454.72,Successful
+20997,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0020996,INV0020996,C000997,2026-03-31,Bank Transfer,26432.0,475.78,Successful
+21004,Invalid Foreign Key: Invoice_ID,PAY0021003,INV9999999,C001004,2026-04-07,Card,3851.0,69.32,Successful
+21251,Invalid Foreign Key: Invoice_ID,PAY0021250,INV0021250,C001251,2025-12-10,Bank Transfer,9350.0,168.3,Failed
+21325,Invalid Foreign Key: Invoice_ID,PAY0021324,INV0021324,C001325,2026-02-22,Bank Transfer,18008.0,324.14,Successful
+21574,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0021573,INV0021573,C001574,2025-10-29,UPI,23741.0,427.34,Failed
+21751,Invalid Foreign Key: Invoice_ID,PAY0021750,INV0021750,C001751,2026-04-24,Wallet,21050.0,378.9,Successful
+21994,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0021993,INV0021993,C001994,2025-12-23,Bank Transfer,26081.0,469.46,Successful
+22007,Duplicate Primary Key,PAY0022005,INV0022006,C002007,2026-01-05,Card,4202.0,75.64,Successful
+22011,Invalid Foreign Key: Invoice_ID,PAY0022010,INV0022010,C002011,2026-01-09,UPI,4670.0,84.06,Successful
+22251,Invalid Foreign Key: Invoice_ID,PAY0022250,INV0022250,C002251,2025-09-06,UPI,9350.0,168.3,Successful
+22361,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0022360,INV0022360,C002361,2025-12-25,Card,22220.0,399.96,Successful
+22751,Invalid Foreign Key: Invoice_ID,PAY0022750,INV0022750,C002751,2026-01-19,Card,21050.0,378.9,Successful
+22991,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0022990,INV0022990,C002991,2025-09-16,UPI,25730.0,463.14,Successful
+23102,Invalid Foreign Key: Invoice_ID,PAY0023101,INV0023101,C003102,2026-01-05,UPI,15317.0,275.71,Successful
+23148,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0023147,INV0023147,C003148,2026-02-20,Bank Transfer,20699.0,372.58,Successful
+23251,Invalid Foreign Key: Invoice_ID,PAY0023250,INV0023250,C003251,2026-06-03,Wallet,9350.0,168.3,Successful
+23318,Invalid Foreign Key: Invoice_ID,PAY0023317,INV0023317,C003318,2026-08-09,Wallet,17189.0,309.4,Successful
+23751,Invalid Foreign Key: Invoice_ID,PAY0023750,INV0023750,C003751,2025-10-16,Bank Transfer,21050.0,378.9,Successful
+23935,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0023934,INV0023934,C003935,2026-04-18,UPI,19178.0,345.2,Successful
+23988,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0023987,INV0023987,C003988,2026-06-10,Wallet,25379.0,456.82,Failed
+24212,Invalid Foreign Key: Invoice_ID,PAY0024211,INV0024211,C004212,2026-01-20,Bank Transfer,4787.0,86.17,Successful
+24251,Invalid Foreign Key: Invoice_ID,PAY0024250,INV0024250,C004251,2026-02-28,UPI,9350.0,168.3,Successful
+24722,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0024721,INV0024721,C004722,2026-06-14,Wallet,17657.0,317.83,Successful
+24751,Invalid Foreign Key: Invoice_ID,PAY0024750,INV0024750,C004751,2026-07-13,UPI,21050.0,378.9,Successful
+24879,Invalid Foreign Key: Invoice_ID,PAY0024878,INV0024878,C004879,2025-11-18,Bank Transfer,12626.0,227.27,Successful
+24985,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0024984,INV0024984,C004985,2026-03-04,Card,25028.0,450.5,Successful
+25016,Future Date: Payment_Date,PAY0025015,INV0025015,C005016,2027-06-01,UPI,5255.0,94.59,Successful
+25251,Invalid Foreign Key: Invoice_ID,PAY0025250,INV0025250,C005251,2025-11-25,UPI,9350.0,168.3,Successful
+25509,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0025508,INV0025508,C005509,2026-08-10,Bank Transfer,16136.0,290.45,Successful
+25751,Invalid Foreign Key: Invoice_ID,PAY0025750,INV0025750,C005751,2026-04-09,UPI,21050.0,378.9,Successful
+25982,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0025981,INV0025981,C005982,2025-11-26,UPI,24677.0,444.19,Successful
+26251,Invalid Foreign Key: Invoice_ID,PAY0026250,INV0026250,C006251,2026-08-22,Card,9350.0,168.3,Successful
+26296,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0026295,INV0026295,C006296,2025-10-06,UPI,14615.0,263.07,Successful
+26413,Invalid Foreign Key: Invoice_ID,PAY0026412,INV0026412,C006413,2026-01-31,Bank Transfer,4904.0,88.27,Successful
+26649,Invalid Foreign Key: Invoice_ID,PAY0026648,INV0026648,C006649,2025-09-24,Wallet,9116.0,164.09,Successful
+26656,Invalid Foreign Key: Invoice_ID,PAY0026655,INV0026655,C006656,2025-10-01,Card,9935.0,178.83,Successful
+26751,Invalid Foreign Key: Invoice_ID,PAY0026750,INV0026750,C006751,2026-01-04,Bank Transfer,21050.0,378.9,Successful
+26979,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0026978,INV0026978,C006979,2026-08-20,Wallet,24326.0,437.87,Successful
+27083,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0027082,INV0027082,C007083,2025-12-02,Wallet,13094.0,235.69,Successful
+27251,Invalid Foreign Key: Invoice_ID,PAY0027250,INV0027250,C007251,2026-05-19,Bank Transfer,9350.0,168.3,Successful
+27751,Invalid Foreign Key: Invoice_ID,PAY0027750,INV0027750,C007751,2025-10-01,Card,21050.0,378.9,Successful
+27870,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0027869,INV0027869,C007870,2026-01-28,Bank Transfer,11573.0,208.31,Successful
+27976,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0027975,INV0027975,C007976,2026-05-14,Wallet,23975.0,431.55,Successful
+28005,Invalid Foreign Key: Invoice_ID,PAY0028004,INV9999999,C008005,2026-06-12,UPI,3968.0,71.42,Successful
+28251,Invalid Foreign Key: Invoice_ID,PAY0028250,INV0028250,C008251,2026-02-13,Card,9350.0,168.3,Successful
+28433,Invalid Foreign Key: Invoice_ID,PAY0028432,INV0028432,C008433,2026-08-14,Wallet,7244.0,130.39,Successful
+28614,Invalid Foreign Key: Invoice_ID,PAY0028613,INV0028613,C008614,2026-02-11,Wallet,5021.0,90.38,Successful
+28657,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0028656,INV0028656,C008657,2026-03-26,Bank Transfer,10052.0,180.94,Successful
+28751,Invalid Foreign Key: Invoice_ID,PAY0028750,INV0028750,C008751,2026-06-28,Wallet,21050.0,378.9,Successful
+28973,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0028972,INV0028972,C008973,2026-02-05,Bank Transfer,23624.0,425.23,Successful
+29251,Invalid Foreign Key: Invoice_ID,PAY0029250,INV0029250,C009251,2025-11-10,Card,9350.0,168.3,Successful
+29444,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0029443,INV0029443,C009444,2026-05-22,UPI,8531.0,153.56,Successful
+29751,Invalid Foreign Key: Invoice_ID,PAY0029750,INV0029750,C009751,2026-03-25,Card,21050.0,378.9,Failed
+29970,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0029969,INV0029969,C009970,2025-10-30,Wallet,23273.0,418.91,Successful
+29980,Invalid Foreign Key: Invoice_ID,PAY0029979,INV0029979,C009980,2025-11-09,Card,24443.0,439.97,Successful
+30019,Future Date: Payment_Date,PAY0030018,INV0030018,C010019,2027-06-01,Card,5606.0,100.91,Successful
+30022,Invalid Foreign Key: Invoice_ID,PAY0030021,INV0030021,C010022,2025-12-21,Wallet,5957.0,107.23,Successful
+30028,Invalid Foreign Key: Invoice_ID,PAY0030027,INV0030027,C010028,2025-12-27,Card,6659.0,119.86,Successful
+30210,Invalid Foreign Key: Invoice_ID,PAY0030209,INV0030209,C010210,2026-06-27,UPI,4553.0,81.95,Failed
+30231,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0030230,INV0030230,C010231,2026-07-18,Bank Transfer,7010.0,126.18,Successful
+30251,Invalid Foreign Key: Invoice_ID,PAY0030250,INV0030250,C010251,2026-08-07,UPI,9350.0,168.3,Successful
+30751,Invalid Foreign Key: Invoice_ID,PAY0030750,INV0030750,C010751,2025-12-20,Bank Transfer,21050.0,378.9,Successful
+30815,Invalid Foreign Key: Invoice_ID,PAY0030814,INV0030814,C010815,2026-02-22,Card,5138.0,92.48,Successful
+30967,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0030966,INV0030966,C010967,2026-07-24,Card,22922.0,412.6,Successful
+31018,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0031017,INV0031017,C011018,2025-09-13,Wallet,5489.0,98.8,Successful
+31251,Invalid Foreign Key: Invoice_ID,PAY0031250,INV0031250,C011251,2026-05-04,Wallet,9350.0,168.3,Successful
+31751,Invalid Foreign Key: Invoice_ID,PAY0031750,INV0031750,C011751,2025-09-16,Wallet,21050.0,378.9,Successful
+31805,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0031804,INV0031804,C011805,2025-11-09,Card,3968.0,71.42,Successful
+31964,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0031963,INV0031963,C011964,2026-04-17,Wallet,22571.0,406.28,Successful
+31987,Invalid Foreign Key: Invoice_ID,PAY0031986,INV0031986,C011987,2026-05-10,Wallet,25262.0,454.72,Successful
+32251,Invalid Foreign Key: Invoice_ID,PAY0032250,INV0032250,C012251,2026-01-29,Bank Transfer,9350.0,168.3,Successful
+32592,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0032591,INV0032591,C012592,2026-01-05,Wallet,25847.0,465.25,Successful
+32751,Invalid Foreign Key: Invoice_ID,PAY0032750,INV0032750,C012751,2026-06-13,Bank Transfer,21050.0,378.9,Successful
+32961,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0032960,INV0032960,C012961,2026-01-09,Wallet,22220.0,399.96,Successful
+33010,Duplicate Primary Key,PAY0033008,INV0033009,C013010,2026-02-27,Wallet,4553.0,81.95,Successful
+33016,Invalid Foreign Key: Invoice_ID,PAY0033015,INV0033015,C013016,2026-03-05,UPI,5255.0,94.59,Successful
+33251,Invalid Foreign Key: Invoice_ID,PAY0033250,INV0033250,C013251,2025-10-26,Bank Transfer,9350.0,168.3,Successful
+33311,Invalid Foreign Key: Invoice_ID,PAY0033310,INV0033310,C013311,2025-12-25,Card,16370.0,294.66,Successful
+33379,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0033378,INV0033378,C013379,2026-03-03,Card,24326.0,437.87,Successful
+33751,Invalid Foreign Key: Invoice_ID,PAY0033750,INV0033750,C013751,2026-03-10,Wallet,21050.0,378.9,Successful
+33764,Invalid Foreign Key: Invoice_ID,PAY0033763,INV0033763,C013764,2026-03-23,Bank Transfer,22571.0,406.28,Successful
+33958,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0033957,INV0033957,C013958,2025-10-03,UPI,21869.0,393.64,Successful
+34166,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0034165,INV0034165,C014166,2026-04-29,Wallet,22805.0,410.49,Successful
+34251,Invalid Foreign Key: Invoice_ID,PAY0034250,INV0034250,C014251,2026-07-23,Card,9350.0,168.3,Successful
+34751,Invalid Foreign Key: Invoice_ID,PAY0034750,INV0034750,C014751,2025-12-05,Wallet,21050.0,378.9,Successful
+34953,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0034952,INV0034952,C014953,2026-06-25,Wallet,21284.0,383.11,Failed
+34955,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0034954,INV0034954,C014955,2026-06-27,Bank Transfer,21518.0,387.32,Successful
+35006,Invalid Foreign Key: Invoice_ID,PAY0035005,INV9999999,C015006,2026-08-17,Wallet,4085.0,73.53,Successful
+35022,Future Date: Payment_Date,PAY0035021,INV0035021,C015022,2027-06-01,Wallet,5957.0,107.23,Successful
+35217,Invalid Foreign Key: Invoice_ID,PAY0035216,INV0035216,C015217,2026-03-16,Card,5372.0,96.7,Successful
+35251,Invalid Foreign Key: Invoice_ID,PAY0035250,INV0035250,C015251,2026-04-19,UPI,9350.0,168.3,Successful
+35541,Invalid Foreign Key: Invoice_ID,PAY0035540,INV0035540,C015541,2026-02-03,UPI,19880.0,357.84,Successful
+35740,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0035739,INV0035739,C015740,2026-08-21,Bank Transfer,19763.0,355.73,Successful
+35751,Invalid Foreign Key: Invoice_ID,PAY0035750,INV0035750,C015751,2025-09-01,Bank Transfer,21050.0,378.9,Successful
+35952,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0035951,INV0035951,C015952,2026-03-21,Card,21167.0,381.01,Successful
+36251,Invalid Foreign Key: Invoice_ID,PAY0036250,INV0036250,C016251,2026-01-14,Wallet,9350.0,168.3,Successful
+36527,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0036526,INV0036526,C016527,2025-10-17,UPI,18242.0,328.36,Successful
+36642,Invalid Foreign Key: Invoice_ID,PAY0036641,INV0036641,C016642,2026-02-09,Card,8297.0,149.35,Successful
+36751,Invalid Foreign Key: Invoice_ID,PAY0036750,INV0036750,C016751,2026-05-29,Wallet,21050.0,378.9,Successful
+36949,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0036948,INV0036948,C016949,2025-12-13,UPI,20816.0,374.69,Successful
+37251,Invalid Foreign Key: Invoice_ID,PAY0037250,INV0037250,C017251,2025-10-11,Bank Transfer,9350.0,168.3,Successful
+37314,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0037313,INV0037313,C017314,2025-12-13,Bank Transfer,16721.0,300.98,Successful
+37318,Invalid Foreign Key: Invoice_ID,PAY0037317,INV0037317,C017318,2025-12-17,Card,17189.0,309.4,Successful
+37418,Invalid Foreign Key: Invoice_ID,PAY0037417,INV0037417,C017418,2026-03-27,UPI,5489.0,98.8,Failed
+37751,Invalid Foreign Key: Invoice_ID,PAY0037750,INV0037750,C017751,2026-02-23,Wallet,21050.0,378.9,Successful
+37946,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0037945,INV0037945,C017946,2025-09-06,Card,20465.0,368.37,Successful
+38101,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0038100,INV0038100,C018101,2026-02-08,Card,15200.0,273.6,Successful
+38251,Invalid Foreign Key: Invoice_ID,PAY0038250,INV0038250,C018251,2026-07-08,UPI,9350.0,168.3,Failed
+38751,Invalid Foreign Key: Invoice_ID,PAY0038750,INV0038750,C018751,2025-11-20,Card,21050.0,378.9,Successful
+38888,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0038887,INV0038887,C018888,2026-04-06,UPI,13679.0,246.22,Successful
+38943,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0038942,INV0038942,C018943,2026-05-31,UPI,20114.0,362.05,Successful
+39095,Invalid Foreign Key: Invoice_ID,PAY0039094,INV0039094,C019095,2025-10-30,Card,14498.0,260.96,Successful
+39251,Invalid Foreign Key: Invoice_ID,PAY0039250,INV0039250,C019251,2026-04-04,UPI,9350.0,168.3,Successful
+39619,Invalid Foreign Key: Invoice_ID,PAY0039618,INV0039618,C019619,2026-04-07,Wallet,5606.0,100.91,Successful
+39675,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0039674,INV0039674,C019675,2026-06-02,Wallet,12158.0,218.84,Successful
+39751,Invalid Foreign Key: Invoice_ID,PAY0039750,INV0039750,C019751,2026-08-17,UPI,21050.0,378.9,Successful
+39940,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0039939,INV0039939,C019940,2026-02-22,Card,19763.0,355.73,Successful
+39973,Invalid Foreign Key: Invoice_ID,PAY0039972,INV0039972,C019973,2026-03-27,Bank Transfer,23624.0,425.23,Successful
+40025,Future Date: Payment_Date,PAY0040024,INV0040024,C000025,2027-06-01,Card,6308.0,113.54,Successful
+40029,Invalid Foreign Key: Invoice_ID,PAY0040028,INV0040028,C000029,2026-05-22,UPI,6776.0,121.97,Successful
+40037,Invalid Foreign Key: Invoice_ID,PAY0040036,INV0040036,C000037,2026-05-30,Card,7712.0,138.82,Successful
+40251,Invalid Foreign Key: Invoice_ID,PAY0040250,INV0040250,C000251,2025-12-30,Bank Transfer,9350.0,168.3,Successful
+40751,Invalid Foreign Key: Invoice_ID,PAY0040750,INV0040750,C000751,2026-05-14,Bank Transfer,21050.0,378.9,Successful
+40787,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0040786,INV0040786,C000787,2026-06-19,Wallet,25262.0,454.72,Successful
+40872,Invalid Foreign Key: Invoice_ID,PAY0040871,INV0040871,C000872,2025-09-12,UPI,11807.0,212.53,Successful
+40997,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0040996,INV0040996,C000997,2026-01-15,Card,26432.0,475.78,Successful
+41251,Invalid Foreign Key: Invoice_ID,PAY0041250,INV0041250,C001251,2025-09-26,Wallet,9350.0,168.3,Successful
+41574,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0041573,INV0041573,C001574,2026-08-15,Bank Transfer,23741.0,427.34,Successful
+41751,Invalid Foreign Key: Invoice_ID,PAY0041750,INV0041750,C001751,2026-02-08,Wallet,21050.0,378.9,Successful
+41820,Invalid Foreign Key: Invoice_ID,PAY0041819,INV0041819,C001820,2026-04-18,UPI,5723.0,103.01,Successful
+41994,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0041993,INV0041993,C001994,2025-10-09,Card,26081.0,469.46,Successful
+42007,Invalid Foreign Key: Invoice_ID,PAY0042006,INV9999999,C002007,2025-10-22,Card,4202.0,75.64,Successful
+42251,Invalid Foreign Key: Invoice_ID,PAY0042250,INV0042250,C002251,2026-06-23,Wallet,9350.0,168.3,Successful
+42361,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0042360,INV0042360,C002361,2025-10-11,Bank Transfer,22220.0,399.96,Successful
+42649,Invalid Foreign Key: Invoice_ID,PAY0042648,INV0042648,C002649,2026-07-26,Wallet,9116.0,164.09,Successful
+42751,Invalid Foreign Key: Invoice_ID,PAY0042750,INV0042750,C002751,2025-11-05,Wallet,21050.0,378.9,Successful
+42991,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0042990,INV0042990,C002991,2026-07-03,Card,25730.0,463.14,Successful
+43148,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0043147,INV0043147,C003148,2025-12-07,UPI,20699.0,372.58,Successful
+43251,Invalid Foreign Key: Invoice_ID,PAY0043250,INV0043250,C003251,2026-03-20,Wallet,9350.0,168.3,Successful
+43304,Invalid Foreign Key: Invoice_ID,PAY0043303,INV0043303,C003304,2026-05-12,Card,15551.0,279.92,Successful
+43751,Invalid Foreign Key: Invoice_ID,PAY0043750,INV0043750,C003751,2026-08-02,Wallet,21050.0,378.9,Successful
+43935,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0043934,INV0043934,C003935,2026-02-02,Card,19178.0,345.2,Successful
+43988,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0043987,INV0043987,C003988,2026-03-27,Bank Transfer,25379.0,456.82,Successful
+44013,Duplicate Primary Key,PAY0044011,INV0044012,C004013,2026-04-21,Wallet,4904.0,88.27,Successful
+44021,Invalid Foreign Key: Invoice_ID,PAY0044020,INV0044020,C004021,2026-04-29,Bank Transfer,5840.0,105.12,Successful
+44251,Invalid Foreign Key: Invoice_ID,PAY0044250,INV0044250,C004251,2025-12-15,Bank Transfer,9350.0,168.3,Successful
+44426,Invalid Foreign Key: Invoice_ID,PAY0044425,INV0044425,C004426,2026-06-08,UPI,6425.0,115.65,Successful
+44722,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0044721,INV0044721,C004722,2026-03-31,Wallet,17657.0,317.83,Successful
+44751,Invalid Foreign Key: Invoice_ID,PAY0044750,INV0044750,C004751,2026-04-29,Bank Transfer,21050.0,378.9,Successful
+44985,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0044984,INV0044984,C004985,2025-12-19,Card,25028.0,450.5,Successful
+45028,Future Date: Payment_Date,PAY0045027,INV0045027,C005028,2027-06-01,Wallet,6659.0,119.86,Successful
+45251,Invalid Foreign Key: Invoice_ID,PAY0045250,INV0045250,C005251,2025-09-11,Bank Transfer,9350.0,168.3,Successful
+45509,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0045508,INV0045508,C005509,2026-05-27,Wallet,16136.0,290.45,Successful
+45751,Invalid Foreign Key: Invoice_ID,PAY0045750,INV0045750,C005751,2026-01-24,Card,21050.0,378.9,Successful
+45982,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0045981,INV0045981,C005982,2025-09-12,Wallet,24677.0,444.19,Successful
+46203,Invalid Foreign Key: Invoice_ID,PAY0046202,INV0046202,C006203,2026-04-21,Card,3734.0,67.21,Successful
+46222,Invalid Foreign Key: Invoice_ID,PAY0046221,INV0046221,C006222,2026-05-10,Bank Transfer,5957.0,107.23,Successful
+46251,Invalid Foreign Key: Invoice_ID,PAY0046250,INV0046250,C006251,2026-06-08,UPI,9350.0,168.3,Successful
+46296,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0046295,INV0046295,C006296,2026-07-23,Card,14615.0,263.07,Successful
+46635,Invalid Foreign Key: Invoice_ID,PAY0046634,INV0046634,C006635,2026-06-27,UPI,7478.0,134.6,Successful
+46751,Invalid Foreign Key: Invoice_ID,PAY0046750,INV0046750,C006751,2025-10-21,UPI,21050.0,378.9,Failed
+46979,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0046978,INV0046978,C006979,2026-06-06,Wallet,24326.0,437.87,Successful
+47083,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0047082,INV0047082,C007083,2025-09-18,Wallet,13094.0,235.69,Successful
+47251,Invalid Foreign Key: Invoice_ID,PAY0047250,INV0047250,C007251,2026-03-05,Card,9350.0,168.3,Successful
+47751,Invalid Foreign Key: Invoice_ID,PAY0047750,INV0047750,C007751,2026-07-18,Wallet,21050.0,378.9,Successful
+47870,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0047869,INV0047869,C007870,2025-11-14,UPI,11573.0,208.31,Successful
+47976,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0047975,INV0047975,C007976,2026-02-28,Bank Transfer,23975.0,431.55,Successful
+47980,Invalid Foreign Key: Invoice_ID,PAY0047979,INV0047979,C007980,2026-03-04,UPI,24443.0,439.97,Successful
+48251,Invalid Foreign Key: Invoice_ID,PAY0048250,INV0048250,C008251,2025-11-30,Bank Transfer,9350.0,168.3,Successful
+48423,Invalid Foreign Key: Invoice_ID,PAY0048422,INV0048422,C008423,2026-05-21,UPI,6074.0,109.33,Successful
+48657,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0048656,INV0048656,C008657,2026-01-10,Bank Transfer,10052.0,180.94,Successful
+48751,Invalid Foreign Key: Invoice_ID,PAY0048750,INV0048750,C008751,2026-04-14,Wallet,21050.0,378.9,Successful
+48973,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0048972,INV0048972,C008973,2025-11-22,Card,23624.0,425.23,Successful
+49008,Invalid Foreign Key: Invoice_ID,PAY0049007,INV9999999,C009008,2025-12-27,Card,4319.0,77.74,Successful
+49251,Invalid Foreign Key: Invoice_ID,PAY0049250,INV0049250,C009251,2026-08-27,Wallet,9350.0,168.3,Successful
+49444,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0049443,INV0049443,C009444,2026-03-08,Card,8531.0,153.56,Successful
+49751,Invalid Foreign Key: Invoice_ID,PAY0049750,INV0049750,C009751,2026-01-09,Wallet,21050.0,378.9,Successful
+49757,Invalid Foreign Key: Invoice_ID,PAY0049756,INV0049756,C009757,2026-01-15,Card,21752.0,391.54,Successful
+49966,Invalid Foreign Key: Invoice_ID,PAY0049965,INV0049965,C009966,2026-08-12,UPI,22805.0,410.49,Successful
+49970,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0049969,INV0049969,C009970,2026-08-16,Bank Transfer,23273.0,418.91,Successful
+50031,Future Date: Payment_Date,PAY0050030,INV0050030,C010031,2027-06-01,Wallet,7010.0,126.18,Successful
+50036,Invalid Foreign Key: Invoice_ID,PAY0050035,INV0050035,C010036,2025-10-21,Bank Transfer,7595.0,136.71,Successful
+50046,Invalid Foreign Key: Invoice_ID,PAY0050045,INV0050045,C010046,2025-10-31,Bank Transfer,8765.0,157.77,Successful
+50231,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0050230,INV0050230,C010231,2026-05-04,Wallet,7010.0,126.18,Successful
+50251,Invalid Foreign Key: Invoice_ID,PAY0050250,INV0050250,C010251,2026-05-24,Bank Transfer,9350.0,168.3,Successful
+50624,Invalid Foreign Key: Invoice_ID,PAY0050623,INV0050623,C010624,2026-06-01,Wallet,6191.0,111.44,Successful
+50751,Invalid Foreign Key: Invoice_ID,PAY0050750,INV0050750,C010751,2025-10-06,Card,21050.0,378.9,Successful
+50967,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0050966,INV0050966,C010967,2026-05-10,Bank Transfer,22922.0,412.6,Failed
+51018,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0051017,INV0051017,C011018,2026-06-30,Bank Transfer,5489.0,98.8,Failed
+51251,Invalid Foreign Key: Invoice_ID,PAY0051250,INV0051250,C011251,2026-02-18,Card,9350.0,168.3,Successful
+51534,Invalid Foreign Key: Invoice_ID,PAY0051533,INV0051533,C011534,2025-11-28,UPI,19061.0,343.1,Successful
+51751,Invalid Foreign Key: Invoice_ID,PAY0051750,INV0051750,C011751,2026-07-03,UPI,21050.0,378.9,Successful
+51805,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0051804,INV0051804,C011805,2026-08-26,Bank Transfer,3968.0,71.42,Successful
+51964,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0051963,INV0051963,C011964,2026-02-01,Bank Transfer,22571.0,406.28,Successful
+52251,Invalid Foreign Key: Invoice_ID,PAY0052250,INV0052250,C012251,2025-11-15,Wallet,9350.0,168.3,Successful
+52592,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0052591,INV0052591,C012592,2025-10-22,Bank Transfer,25847.0,465.25,Successful
+52751,Invalid Foreign Key: Invoice_ID,PAY0052750,INV0052750,C012751,2026-03-30,Bank Transfer,21050.0,378.9,Successful
+52825,Invalid Foreign Key: Invoice_ID,PAY0052824,INV0052824,C012825,2026-06-12,Bank Transfer,6308.0,113.54,Successful
+52961,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0052960,INV0052960,C012961,2025-10-26,Wallet,22220.0,399.96,Successful
+53251,Invalid Foreign Key: Invoice_ID,PAY0053250,INV0053250,C013251,2026-08-12,UPI,9350.0,168.3,Successful
+53297,Invalid Foreign Key: Invoice_ID,PAY0053296,INV0053296,C013297,2025-09-27,Wallet,14732.0,265.18,Successful
+53311,Invalid Foreign Key: Invoice_ID,PAY0053310,INV0053310,C013311,2025-10-11,Card,16370.0,294.66,Successful
+53379,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0053378,INV0053378,C013379,2025-12-18,UPI,24326.0,437.87,Successful
+53751,Invalid Foreign Key: Invoice_ID,PAY0053750,INV0053750,C013751,2025-12-25,Card,21050.0,378.9,Successful
+53958,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0053957,INV0053957,C013958,2026-07-20,Bank Transfer,21869.0,393.64,Successful
+54166,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0054165,INV0054165,C014166,2026-02-13,Card,22805.0,410.49,Successful
+54251,Invalid Foreign Key: Invoice_ID,PAY0054250,INV0054250,C014251,2026-05-09,Wallet,9350.0,168.3,Successful
+54751,Invalid Foreign Key: Invoice_ID,PAY0054750,INV0054750,C014751,2025-09-21,UPI,21050.0,378.9,Successful
+54953,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0054952,INV0054952,C014953,2026-04-11,Bank Transfer,21284.0,383.11,Successful
+54955,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0054954,INV0054954,C014955,2026-04-13,UPI,21518.0,387.32,Successful
+55016,Duplicate Primary Key,PAY0055014,INV0055015,C015016,2026-06-13,Card,5255.0,94.59,Successful
+55026,Invalid Foreign Key: Invoice_ID,PAY0055025,INV0055025,C015026,2026-06-23,Bank Transfer,6425.0,115.65,Successful
+55034,Future Date: Payment_Date,PAY0055033,INV0055033,C015034,2027-06-01,Bank Transfer,7361.0,132.5,Successful
+55088,Invalid Foreign Key: Invoice_ID,PAY0055087,INV0055087,C015088,2026-08-24,Wallet,13679.0,246.22,Successful
+55251,Invalid Foreign Key: Invoice_ID,PAY0055250,INV0055250,C015251,2026-02-03,Wallet,9350.0,168.3,Failed
+55740,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0055739,INV0055739,C015740,2026-06-07,UPI,19763.0,355.73,Successful
+55751,Invalid Foreign Key: Invoice_ID,PAY0055750,INV0055750,C015751,2026-06-18,Wallet,21050.0,378.9,Successful
+55952,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0055951,INV0055951,C015952,2026-01-05,Card,21167.0,381.01,Successful
+56009,Invalid Foreign Key: Invoice_ID,PAY0056008,INV9999999,C016009,2026-03-03,Card,4436.0,79.85,Successful
+56251,Invalid Foreign Key: Invoice_ID,PAY0056250,INV0056250,C016251,2025-10-31,Wallet,9350.0,168.3,Successful
+56527,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0056526,INV0056526,C016527,2026-08-03,Wallet,18242.0,328.36,Successful
+56628,Invalid Foreign Key: Invoice_ID,PAY0056627,INV0056627,C016628,2025-11-12,Bank Transfer,6659.0,119.86,Failed
+56751,Invalid Foreign Key: Invoice_ID,PAY0056750,INV0056750,C016751,2026-03-15,Card,21050.0,378.9,Successful
+56865,Invalid Foreign Key: Invoice_ID,PAY0056864,INV0056864,C016865,2026-07-07,Card,10988.0,197.78,Successful
+56949,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0056948,INV0056948,C016949,2025-09-29,Bank Transfer,20816.0,374.69,Successful
+57227,Invalid Foreign Key: Invoice_ID,PAY0057226,INV0057226,C017227,2026-07-04,Wallet,6542.0,117.76,Successful
+57251,Invalid Foreign Key: Invoice_ID,PAY0057250,INV0057250,C017251,2026-07-28,UPI,9350.0,168.3,Successful
+57314,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0057313,INV0057313,C017314,2025-09-29,Wallet,16721.0,300.98,Successful
+57751,Invalid Foreign Key: Invoice_ID,PAY0057750,INV0057750,C017751,2025-12-10,Bank Transfer,21050.0,378.9,Successful
+57946,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0057945,INV0057945,C017946,2026-06-23,Wallet,20465.0,368.37,Successful
+58101,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0058100,INV0058100,C018101,2025-11-25,Card,15200.0,273.6,Successful
+58251,Invalid Foreign Key: Invoice_ID,PAY0058250,INV0058250,C018251,2026-04-24,Wallet,9350.0,168.3,Successful
+58642,Invalid Foreign Key: Invoice_ID,PAY0058641,INV0058641,C018642,2026-05-20,Wallet,8297.0,149.35,Successful
+58751,Invalid Foreign Key: Invoice_ID,PAY0058750,INV0058750,C018751,2025-09-06,Wallet,21050.0,378.9,Successful
+58888,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0058887,INV0058887,C018888,2026-01-21,UPI,13679.0,246.22,Successful
+58943,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0058942,INV0058942,C018943,2026-03-17,Bank Transfer,20114.0,362.05,Successful
+59251,Invalid Foreign Key: Invoice_ID,PAY0059250,INV0059250,C019251,2026-01-19,Bank Transfer,9350.0,168.3,Successful
+59428,Invalid Foreign Key: Invoice_ID,PAY0059427,INV0059427,C019428,2026-07-15,Wallet,6659.0,119.86,Successful
+59675,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0059674,INV0059674,C019675,2026-03-19,Wallet,12158.0,218.84,Successful
+59751,Invalid Foreign Key: Invoice_ID,PAY0059750,INV0059750,C019751,2026-06-03,UPI,21050.0,378.9,Successful
+59940,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0059939,INV0059939,C019940,2025-12-09,Card,19763.0,355.73,Successful
+59959,Invalid Foreign Key: Invoice_ID,PAY0059958,INV0059958,C019959,2025-12-28,UPI,21986.0,395.75,Successful
+60037,Future Date: Payment_Date,PAY0060036,INV0060036,C000037,2027-06-01,Bank Transfer,7712.0,138.82,Successful
+60043,Invalid Foreign Key: Invoice_ID,PAY0060042,INV0060042,C000043,2026-03-22,UPI,8414.0,151.45,Successful
+60055,Invalid Foreign Key: Invoice_ID,PAY0060054,INV0060054,C000055,2026-04-03,UPI,9818.0,176.72,Successful
+60251,Invalid Foreign Key: Invoice_ID,PAY0060250,INV0060250,C000251,2025-10-16,Bank Transfer,9350.0,168.3,Successful
+60419,Invalid Foreign Key: Invoice_ID,PAY0060418,INV0060418,C000419,2026-04-02,Card,5606.0,100.91,Failed
+60751,Invalid Foreign Key: Invoice_ID,PAY0060750,INV0060750,C000751,2026-02-28,Wallet,21050.0,378.9,Successful
+60787,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0060786,INV0060786,C000787,2026-04-05,Card,25262.0,454.72,Successful
+60997,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0060996,INV0060996,C000997,2025-11-01,Bank Transfer,26432.0,475.78,Failed
+61251,Invalid Foreign Key: Invoice_ID,PAY0061250,INV0061250,C001251,2026-07-13,Wallet,9350.0,168.3,Successful
+61574,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0061573,INV0061573,C001574,2026-06-01,Bank Transfer,23741.0,427.34,Successful
+61629,Invalid Foreign Key: Invoice_ID,PAY0061628,INV0061628,C001629,2026-07-26,Wallet,6776.0,121.97,Successful
+61751,Invalid Foreign Key: Invoice_ID,PAY0061750,INV0061750,C001751,2025-11-25,Wallet,21050.0,378.9,Successful
+61994,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0061993,INV0061993,C001994,2026-07-26,Card,26081.0,469.46,Successful
+62196,Invalid Foreign Key: Invoice_ID,PAY0062195,INV0062195,C002196,2026-02-13,Wallet,26315.0,473.67,Successful
+62251,Invalid Foreign Key: Invoice_ID,PAY0062250,INV0062250,C002251,2026-04-09,Wallet,9350.0,168.3,Successful
+62361,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0062360,INV0062360,C002361,2026-07-28,Bank Transfer,22220.0,399.96,Successful
+62751,Invalid Foreign Key: Invoice_ID,PAY0062750,INV0062750,C002751,2026-08-22,UPI,21050.0,378.9,Successful
+62991,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0062990,INV0062990,C002991,2026-04-19,UPI,25730.0,463.14,Successful
+63010,Invalid Foreign Key: Invoice_ID,PAY0063009,INV9999999,C003010,2026-05-08,UPI,4553.0,81.95,Successful
+63148,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0063147,INV0063147,C003148,2025-09-23,Card,20699.0,372.58,Successful
+63251,Invalid Foreign Key: Invoice_ID,PAY0063250,INV0063250,C003251,2026-01-04,UPI,9350.0,168.3,Successful
+63290,Invalid Foreign Key: Invoice_ID,PAY0063289,INV0063289,C003290,2026-02-12,Bank Transfer,13913.0,250.43,Successful
+63751,Invalid Foreign Key: Invoice_ID,PAY0063750,INV0063750,C003751,2026-05-19,Card,21050.0,378.9,Failed
+63830,Invalid Foreign Key: Invoice_ID,PAY0063829,INV0063829,C003830,2026-08-06,Bank Transfer,6893.0,124.07,Successful
+63935,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0063934,INV0063934,C003935,2025-11-19,Bank Transfer,19178.0,345.2,Successful
+63973,Invalid Foreign Key: Invoice_ID,PAY0063972,INV0063972,C003973,2025-12-27,Wallet,23624.0,425.23,Successful
+63988,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0063987,INV0063987,C003988,2026-01-11,UPI,25379.0,456.82,Successful
+64251,Invalid Foreign Key: Invoice_ID,PAY0064250,INV0064250,C004251,2025-10-01,Bank Transfer,9350.0,168.3,Successful
+64722,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0064721,INV0064721,C004722,2026-01-15,Bank Transfer,17657.0,317.83,Successful
+64751,Invalid Foreign Key: Invoice_ID,PAY0064750,INV0064750,C004751,2026-02-13,Bank Transfer,21050.0,378.9,Successful
+64985,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0064984,INV0064984,C004985,2025-10-05,Wallet,25028.0,450.5,Successful
+65040,Future Date: Payment_Date,PAY0065039,INV0065039,C005040,2027-06-01,UPI,8063.0,145.13,Successful
+65251,Invalid Foreign Key: Invoice_ID,PAY0065250,INV0065250,C005251,2026-06-28,UPI,9350.0,168.3,Successful
+65509,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0065508,INV0065508,C005509,2026-03-13,UPI,16136.0,290.45,Successful
+65750,Invalid Foreign Key: Invoice_ID,PAY0065749,INV0065749,C005750,2025-11-09,Card,20933.0,376.79,Successful
+65751,Invalid Foreign Key: Invoice_ID,PAY0065750,INV0065750,C005751,2025-11-10,UPI,21050.0,378.9,Successful
+65982,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0065981,INV0065981,C005982,2026-06-29,Bank Transfer,24677.0,444.19,Successful
+66019,Duplicate Primary Key,PAY0066017,INV0066018,C006019,2026-08-05,Card,5606.0,100.91,Successful
+66031,Invalid Foreign Key: Invoice_ID,PAY0066030,INV0066030,C006031,2026-08-17,Bank Transfer,7010.0,126.18,Successful
+66251,Invalid Foreign Key: Invoice_ID,PAY0066250,INV0066250,C006251,2026-03-25,UPI,9350.0,168.3,Successful
+66296,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0066295,INV0066295,C006296,2026-05-09,UPI,14615.0,263.07,Successful
+66621,Invalid Foreign Key: Invoice_ID,PAY0066620,INV0066620,C006621,2026-03-30,Card,5840.0,105.12,Successful
+66751,Invalid Foreign Key: Invoice_ID,PAY0066750,INV0066750,C006751,2026-08-07,Card,21050.0,378.9,Successful
+66979,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0066978,INV0066978,C006979,2026-03-23,UPI,24326.0,437.87,Successful
+67083,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0067082,INV0067082,C007083,2026-07-05,Wallet,13094.0,235.69,Failed
+67251,Invalid Foreign Key: Invoice_ID,PAY0067250,INV0067250,C007251,2025-12-20,Wallet,9350.0,168.3,Successful
+67527,Invalid Foreign Key: Invoice_ID,PAY0067526,INV0067526,C007527,2025-09-22,Bank Transfer,18242.0,328.36,Successful
+67751,Invalid Foreign Key: Invoice_ID,PAY0067750,INV0067750,C007751,2026-05-04,Card,21050.0,378.9,Successful
+67870,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0067869,INV0067869,C007870,2026-08-31,UPI,11573.0,208.31,Successful
+67976,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0067975,INV0067975,C007976,2025-12-15,Wallet,23975.0,431.55,Successful
+68232,Invalid Foreign Key: Invoice_ID,PAY0068231,INV0068231,C008232,2026-08-28,Card,7127.0,128.29,Successful
+68251,Invalid Foreign Key: Invoice_ID,PAY0068250,INV0068250,C008251,2025-09-16,Bank Transfer,9350.0,168.3,Successful
+68657,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0068656,INV0068656,C008657,2025-10-27,UPI,10052.0,180.94,Successful
+68751,Invalid Foreign Key: Invoice_ID,PAY0068750,INV0068750,C008751,2026-01-29,Wallet,21050.0,378.9,Successful
+68973,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0068972,INV0068972,C008973,2025-09-08,Wallet,23624.0,425.23,Successful
+69251,Invalid Foreign Key: Invoice_ID,PAY0069250,INV0069250,C009251,2026-06-13,Wallet,9350.0,168.3,Successful
+69304,Invalid Foreign Key: Invoice_ID,PAY0069303,INV0069303,C009304,2026-08-05,Card,15551.0,279.92,Successful
+69444,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0069443,INV0069443,C009444,2025-12-23,Bank Transfer,8531.0,153.56,Successful
+69751,Invalid Foreign Key: Invoice_ID,PAY0069750,INV0069750,C009751,2025-10-26,UPI,21050.0,378.9,Successful
+69952,Invalid Foreign Key: Invoice_ID,PAY0069951,INV0069951,C009952,2026-05-15,Bank Transfer,21167.0,381.01,Successful
+69970,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0069969,INV0069969,C009970,2026-06-02,UPI,23273.0,418.91,Successful
+70011,Invalid Foreign Key: Invoice_ID,PAY0070010,INV9999999,C010011,2026-07-13,Card,4670.0,84.06,Successful
+70043,Future Date: Payment_Date,PAY0070042,INV0070042,C010043,2027-06-01,Wallet,8414.0,151.45,Successful
+70050,Invalid Foreign Key: Invoice_ID,PAY0070049,INV0070049,C010050,2026-08-21,Wallet,9233.0,166.19,Successful
+70064,Invalid Foreign Key: Invoice_ID,PAY0070063,INV0070063,C010064,2025-09-04,Card,10871.0,195.68,Successful
+70231,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0070230,INV0070230,C010231,2026-02-18,Bank Transfer,7010.0,126.18,Successful
+70251,Invalid Foreign Key: Invoice_ID,PAY0070250,INV0070250,C010251,2026-03-10,Card,9350.0,168.3,Successful
+70433,Invalid Foreign Key: Invoice_ID,PAY0070432,INV0070432,C010433,2025-09-08,Bank Transfer,7244.0,130.39,Successful
+70751,Invalid Foreign Key: Invoice_ID,PAY0070750,INV0070750,C010751,2026-07-23,Bank Transfer,21050.0,378.9,Successful
+70967,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0070966,INV0070966,C010967,2026-02-24,Bank Transfer,22922.0,412.6,Successful
+71018,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0071017,INV0071017,C011018,2026-04-16,Wallet,5489.0,98.8,Successful
+71081,Invalid Foreign Key: Invoice_ID,PAY0071080,INV0071080,C011081,2026-06-18,UPI,12860.0,231.48,Successful
+71251,Invalid Foreign Key: Invoice_ID,PAY0071250,INV0071250,C011251,2025-12-05,Card,9350.0,168.3,Successful
+71751,Invalid Foreign Key: Invoice_ID,PAY0071750,INV0071750,C011751,2026-04-19,Bank Transfer,21050.0,378.9,Successful
+71805,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0071804,INV0071804,C011805,2026-06-12,UPI,3968.0,71.42,Successful
+71964,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0071963,INV0071963,C011964,2025-11-18,Bank Transfer,22571.0,406.28,Successful
+72251,Invalid Foreign Key: Invoice_ID,PAY0072250,INV0072250,C012251,2025-09-01,Bank Transfer,9350.0,168.3,Failed
+72592,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0072591,INV0072591,C012592,2026-08-08,UPI,25847.0,465.25,Successful
+72634,Invalid Foreign Key: Invoice_ID,PAY0072633,INV0072633,C012634,2025-09-19,Bank Transfer,7361.0,132.5,Successful
+72751,Invalid Foreign Key: Invoice_ID,PAY0072750,INV0072750,C012751,2026-01-14,UPI,21050.0,378.9,Successful
+72858,Invalid Foreign Key: Invoice_ID,PAY0072857,INV0072857,C012858,2026-05-01,UPI,10169.0,183.04,Successful
+72961,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0072960,INV0072960,C012961,2026-08-12,UPI,22220.0,399.96,Successful
+73251,Invalid Foreign Key: Invoice_ID,PAY0073250,INV0073250,C013251,2026-05-29,UPI,9350.0,168.3,Successful
+73283,Invalid Foreign Key: Invoice_ID,PAY0073282,INV0073282,C013283,2026-06-30,UPI,13094.0,235.69,Successful
+73379,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0073378,INV0073378,C013379,2025-10-04,UPI,24326.0,437.87,Successful
+73751,Invalid Foreign Key: Invoice_ID,PAY0073750,INV0073750,C013751,2025-10-11,UPI,21050.0,378.9,Successful
+73958,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0073957,INV0073957,C013958,2026-05-06,UPI,21869.0,393.64,Successful
+74166,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0074165,INV0074165,C014166,2025-11-30,Wallet,22805.0,410.49,Successful
+74251,Invalid Foreign Key: Invoice_ID,PAY0074250,INV0074250,C014251,2026-02-23,Bank Transfer,9350.0,168.3,Successful
+74635,Invalid Foreign Key: Invoice_ID,PAY0074634,INV0074634,C014635,2026-03-14,UPI,7478.0,134.6,Successful
+74751,Invalid Foreign Key: Invoice_ID,PAY0074750,INV0074750,C014751,2026-07-08,Wallet,21050.0,378.9,Successful
+74835,Invalid Foreign Key: Invoice_ID,PAY0074834,INV0074834,C014835,2025-09-30,Wallet,7478.0,134.6,Failed
+74953,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0074952,INV0074952,C014953,2026-01-26,Bank Transfer,21284.0,383.11,Successful
+74955,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0074954,INV0074954,C014955,2026-01-28,Card,21518.0,387.32,Successful
+75046,Future Date: Payment_Date,PAY0075045,INV0075045,C015046,2027-06-01,UPI,8765.0,157.77,Successful
+75251,Invalid Foreign Key: Invoice_ID,PAY0075250,INV0075250,C015251,2025-11-20,Bank Transfer,9350.0,168.3,Successful
+75740,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0075739,INV0075739,C015740,2026-03-24,Bank Transfer,19763.0,355.73,Successful
+75751,Invalid Foreign Key: Invoice_ID,PAY0075750,INV0075750,C015751,2026-04-04,Wallet,21050.0,378.9,Successful
+75952,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0075951,INV0075951,C015952,2025-10-22,Card,21167.0,381.01,Successful
+76251,Invalid Foreign Key: Invoice_ID,PAY0076250,INV0076250,C016251,2026-08-17,Card,9350.0,168.3,Successful
+76412,Invalid Foreign Key: Invoice_ID,PAY0076411,INV0076411,C016412,2026-01-25,Bank Transfer,4787.0,86.17,Successful
+76527,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0076526,INV0076526,C016527,2026-05-20,Wallet,18242.0,328.36,Successful
+76614,Invalid Foreign Key: Invoice_ID,PAY0076613,INV0076613,C016614,2026-08-15,Bank Transfer,5021.0,90.38,Successful
+76751,Invalid Foreign Key: Invoice_ID,PAY0076750,INV0076750,C016751,2025-12-30,UPI,21050.0,378.9,Successful
+76949,Invalid Foreign Key: Invoice_ID; Invalid Foreign Key: Customer_ID,PAY0076948,INV0076948,C016949,2026-07-16,Wallet,20816.0,374.69,Successful

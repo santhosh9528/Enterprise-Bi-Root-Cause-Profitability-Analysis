@@ -1,0 +1,21 @@
+Region_ID,Region_Name,State,Country,Warehouse_ID,Regional_Manager
+R001,North,Karnataka,India,W001,Meera Patel
+R002,South,Tamil Nadu,India,W002,Vijay Kumar
+R003,East,Maharashtra,India,W003,Rahul Verma
+R004,West,Delhi,India,W004,Priya Nair
+R005,Central,West Bengal,India,W005,Vijay Kumar
+R006,North,Telangana,India,W006,Rahul Verma
+R007,South,Gujarat,India,W007,Aarav Sharma
+R008,East,Kerala,India,W008,Rahul Verma
+R009,West,Rajasthan,India,W009,Vijay Kumar
+R010,Central,Uttar Pradesh,India,W010,Neha Singh
+R011,North,Karnataka,India,W011,Vijay Kumar
+R012,South,Tamil Nadu,India,W012,Divya Menon
+R013,East,Maharashtra,India,W013,Priya Nair
+R014,West,Delhi,India,W014,Divya Menon
+R015,Central,West Bengal,India,W015,Meera Patel
+R016,North,Telangana,India,W016,Anitha Iyer
+R017,South,Gujarat,India,W017,Priya Nair
+R018,East,Kerala,India,W018,Vijay Kumar
+R019,West,Rajasthan,India,W019,Arjun Rao
+R020,Central,Uttar Pradesh,India,W020,Vijay Kumar

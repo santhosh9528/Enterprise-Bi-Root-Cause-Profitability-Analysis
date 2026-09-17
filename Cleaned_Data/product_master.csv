@@ -1,0 +1,993 @@
+Product_ID,Product_Name,Category,Subcategory,Supplier_ID,List_Price,Standard_Cost,Launch_Date,Lead_Time_Days,Status
+P00001,Furniture Product 0001,Furniture,Subcategory 1,S00002,675,410,2025-09-02,6,Active
+P00002,Office Supplies Product 0002,Office Supplies,Subcategory 2,S00003,850,520,2025-09-03,7,Active
+P00003,Home Appliances Product 0003,Home Appliances,Subcategory 3,S00004,1025,630,2025-09-04,8,Active
+P00004,Accessories Product 0004,Accessories,Subcategory 4,S00005,1200,740,2025-09-05,9,Active
+P00005,IT Equipment Product 0005,IT Equipment,Subcategory 5,S00006,1375,850,2025-09-06,10,Active
+P00006,Electronics Product 0006,Electronics,Subcategory 6,S00007,1550,960,2025-09-07,11,Active
+P00007,Furniture Product 0007,Furniture,Subcategory 7,S00008,1725,1070,2025-09-08,12,Active
+P00008,Office Supplies Product 0008,Office Supplies,Subcategory 8,S00009,1900,1180,2025-09-09,13,Active
+P00009,Home Appliances Product 0009,Home Appliances,Subcategory 9,S00010,2075,1290,2025-09-10,14,Active
+P00010,Accessories Product 0010,Accessories,Subcategory 10,S00011,2250,1400,2025-09-11,15,Active
+P00011,IT Equipment Product 0011,IT Equipment,Subcategory 11,S00012,2425,1510,2025-09-12,16,Active
+P00012,Electronics Product 0012,Electronics,Subcategory 12,S00013,2600,1620,2025-09-13,17,Active
+P00013,Furniture Product 0013,Furniture,Subcategory 13,S00014,2775,1730,2025-09-14,18,Active
+P00014,Office Supplies Product 0014,Office Supplies,Subcategory 14,S00015,2950,1840,2025-09-15,19,Active
+P00015,Home Appliances Product 0015,Home Appliances,Subcategory 15,S00016,3125,1950,2025-09-16,20,Active
+P00016,Accessories Product 0016,Accessories,Subcategory 16,S00017,3300,2060,2025-09-17,21,Active
+P00017,IT Equipment Product 0017,IT Equipment,Subcategory 17,S00018,3475,2170,2025-09-18,22,Active
+P00018,Electronics Product 0018,Electronics,Subcategory 18,S00019,3650,2280,2025-09-19,23,Active
+P00019,Furniture Product 0019,Furniture,Subcategory 19,S00020,3825,2390,2025-09-20,24,Active
+P00020,Office Supplies Product 0020,Office Supplies,Subcategory 20,S00021,4000,2500,2025-09-21,25,Active
+P00021,Home Appliances Product 0021,Home Appliances,Subcategory 21,S00022,4175,2610,2025-09-22,26,Active
+P00022,Accessories Product 0022,Accessories,Subcategory 22,S00023,4350,2720,2025-09-23,27,Active
+P00023,IT Equipment Product 0023,IT Equipment,Subcategory 23,S00024,4525,2830,2025-09-24,28,Active
+P00024,Electronics Product 0024,Electronics,Subcategory 0,S00025,4700,2940,2025-09-25,29,Active
+P00025,Furniture Product 0025,Furniture,Subcategory 1,S00026,4875,3050,2025-09-26,30,Active
+P00026,Office Supplies Product 0026,Office Supplies,Subcategory 2,S00027,5050,3160,2025-09-27,31,Active
+P00027,Home Appliances Product 0027,Home Appliances,Subcategory 3,S00028,5225,3270,2025-09-28,32,Active
+P00028,Accessories Product 0028,Accessories,Subcategory 4,S00029,5400,3380,2025-09-29,33,Active
+P00029,IT Equipment Product 0029,IT Equipment,Subcategory 5,S00030,5575,3490,2025-09-30,34,Active
+P00030,Electronics Product 0030,Electronics,Subcategory 6,S00031,5750,3600,2025-10-01,35,Active
+P00031,Furniture Product 0031,Furniture,Subcategory 7,S00032,5925,3710,2025-10-02,36,Active
+P00032,Office Supplies Product 0032,Office Supplies,Subcategory 8,S00033,6100,3820,2025-10-03,37,Active
+P00033,Home Appliances Product 0033,Home Appliances,Subcategory 9,S00034,6275,3930,2025-10-04,38,Active
+P00034,Accessories Product 0034,Accessories,Subcategory 10,S00035,6450,4040,2025-10-05,39,Active
+P00035,IT Equipment Product 0035,IT Equipment,Subcategory 11,S00036,6625,4150,2025-10-06,40,Active
+P00036,Electronics Product 0036,Electronics,Subcategory 12,S00037,6800,4260,2025-10-07,41,Active
+P00037,Furniture Product 0037,Furniture,Subcategory 13,S00038,6975,4370,2025-10-08,42,Active
+P00038,Office Supplies Product 0038,Office Supplies,Subcategory 14,S00039,7150,4480,2025-10-09,43,Active
+P00039,Home Appliances Product 0039,Home Appliances,Subcategory 15,S00040,7325,4590,2025-10-10,44,Active
+P00040,Accessories Product 0040,Accessories,Subcategory 16,S00041,7500,4700,2025-10-11,45,Active
+P00041,IT Equipment Product 0041,IT Equipment,Subcategory 17,S00042,7675,4810,2025-10-12,46,Active
+P00042,Electronics Product 0042,Electronics,Subcategory 18,S00043,7850,4920,2025-10-13,47,Active
+P00043,Furniture Product 0043,Furniture,Subcategory 19,S00044,8025,5030,2025-10-14,48,Discontinued
+P00044,Office Supplies Product 0044,Office Supplies,Subcategory 20,S00045,8200,5140,2025-10-15,49,Active
+P00045,Home Appliances Product 0045,Home Appliances,Subcategory 21,S00046,8375,5250,2025-10-16,50,Active
+P00046,Accessories Product 0046,Accessories,Subcategory 22,S00047,8550,5360,2025-10-17,51,Active
+P00047,IT Equipment Product 0047,IT Equipment,Subcategory 23,S00048,8725,5470,2025-10-18,52,Active
+P00048,Electronics Product 0048,Electronics,Subcategory 0,S00049,8900,5580,2025-10-19,53,Active
+P00049,Furniture Product 0049,Furniture,Subcategory 1,S00050,9075,5690,2025-10-20,54,Active
+P00050,Office Supplies Product 0050,Office Supplies,Subcategory 2,S00051,9250,5800,2025-10-21,55,Active
+P00051,Home Appliances Product 0051,Home Appliances,Subcategory 3,S00052,9425,5910,2025-10-22,56,Active
+P00052,Accessories Product 0052,Accessories,Subcategory 4,S00053,9600,6020,2025-10-23,57,Active
+P00053,IT Equipment Product 0053,IT Equipment,Subcategory 5,S00054,9775,6130,2025-10-24,58,Active
+P00054,Electronics Product 0054,Electronics,Subcategory 6,S00055,9950,6240,2025-10-25,59,Active
+P00055,Furniture Product 0055,Furniture,Subcategory 7,S00056,10125,6350,2025-10-26,5,Active
+P00056,Office Supplies Product 0056,Office Supplies,Subcategory 8,S00057,10300,6460,2025-10-27,6,Active
+P00057,Home Appliances Product 0057,Home Appliances,Subcategory 9,S00058,10475,6570,2025-10-28,7,Active
+P00058,Accessories Product 0058,Accessories,Subcategory 10,S00059,10650,6680,2025-10-29,8,Active
+P00059,IT Equipment Product 0059,IT Equipment,Subcategory 11,S00060,10825,6790,2025-10-30,9,Active
+P00060,Electronics Product 0060,Electronics,Subcategory 12,S00061,11000,6900,2025-10-31,10,Active
+P00061,Furniture Product 0061,Furniture,Subcategory 13,S00062,11175,7010,2025-11-01,11,Active
+P00062,Office Supplies Product 0062,Office Supplies,Subcategory 14,S00063,11350,7120,2025-11-02,12,Active
+P00063,Home Appliances Product 0063,Home Appliances,Subcategory 15,S00064,11525,7230,2025-11-03,13,Active
+P00064,Accessories Product 0064,Accessories,Subcategory 16,S00065,11700,7340,2025-11-04,14,Active
+P00065,IT Equipment Product 0065,IT Equipment,Subcategory 17,S00066,11875,7450,2025-11-05,15,Active
+P00066,Electronics Product 0066,Electronics,Subcategory 18,S00067,12050,7560,2025-11-06,16,Active
+P00067,Furniture Product 0067,Furniture,Subcategory 19,S00068,12225,7670,2025-11-07,17,Active
+P00068,Office Supplies Product 0068,Office Supplies,Subcategory 20,S00069,12400,7780,2025-11-08,18,Active
+P00069,Home Appliances Product 0069,Home Appliances,Subcategory 21,S00070,12575,7890,2025-11-09,19,Active
+P00070,Accessories Product 0070,Accessories,Subcategory 22,S00071,12750,8000,2025-11-10,20,Active
+P00071,IT Equipment Product 0071,IT Equipment,Subcategory 23,S00072,12925,8110,2025-11-11,21,Active
+P00072,Electronics Product 0072,Electronics,Subcategory 0,S00073,13100,8220,2025-11-12,22,Active
+P00073,Furniture Product 0073,Furniture,Subcategory 1,S00074,13275,8330,2025-11-13,23,Active
+P00074,Office Supplies Product 0074,Office Supplies,Subcategory 2,S00075,13450,8440,2025-11-14,24,Active
+P00075,Home Appliances Product 0075,Home Appliances,Subcategory 3,S00076,13625,8550,2025-11-15,25,Active
+P00076,Accessories Product 0076,Accessories,Subcategory 4,S00077,13800,8660,2025-11-16,26,Active
+P00077,IT Equipment Product 0077,IT Equipment,Subcategory 5,S00078,13975,8770,2025-11-17,27,Active
+P00078,Electronics Product 0078,Electronics,Subcategory 6,S00079,14150,8880,2025-11-18,28,Active
+P00079,Furniture Product 0079,Furniture,Subcategory 7,S00080,14325,8990,2025-11-19,29,Active
+P00080,Office Supplies Product 0080,Office Supplies,Subcategory 8,S00081,14500,9100,2025-11-20,30,Active
+P00081,Home Appliances Product 0081,Home Appliances,Subcategory 9,S00082,14675,9210,2025-11-21,31,Active
+P00082,Accessories Product 0082,Accessories,Subcategory 10,S00083,14850,9320,2025-11-22,32,Active
+P00083,IT Equipment Product 0083,IT Equipment,Subcategory 11,S00084,15025,9430,2025-11-23,33,Active
+P00084,Electronics Product 0084,Electronics,Subcategory 12,S00085,15200,9540,2025-11-24,34,Active
+P00085,Furniture Product 0085,Furniture,Subcategory 13,S00086,15375,9650,2025-11-25,35,Active
+P00086,Office Supplies Product 0086,Office Supplies,Subcategory 14,S00087,15550,9760,2025-11-26,36,Discontinued
+P00087,Home Appliances Product 0087,Home Appliances,Subcategory 15,S00088,15725,9870,2025-11-27,37,Active
+P00088,Accessories Product 0088,Accessories,Subcategory 16,S00089,15900,9980,2025-11-28,38,Active
+P00089,IT Equipment Product 0089,IT Equipment,Subcategory 17,S00090,16075,10090,2025-11-29,39,Active
+P00090,Electronics Product 0090,Electronics,Subcategory 18,S00091,16250,10200,2025-11-30,40,Active
+P00091,Furniture Product 0091,Furniture,Subcategory 19,S00092,16425,10310,2025-12-01,41,Active
+P00092,Office Supplies Product 0092,Office Supplies,Subcategory 20,S00093,16600,10420,2025-12-02,42,Active
+P00093,Home Appliances Product 0093,Home Appliances,Subcategory 21,S00094,16775,10530,2025-12-03,43,Active
+P00094,Accessories Product 0094,Accessories,Subcategory 22,S00095,16950,10640,2025-12-04,44,Active
+P00095,IT Equipment Product 0095,IT Equipment,Subcategory 23,S00096,17125,10750,2025-12-05,45,Active
+P00096,Electronics Product 0096,Electronics,Subcategory 0,S00097,17300,10860,2025-12-06,46,Active
+P00097,Furniture Product 0097,Furniture,Subcategory 1,S00098,17475,10970,2025-12-07,47,Active
+P00098,Office Supplies Product 0098,Office Supplies,Subcategory 2,S00099,17650,11080,2025-12-08,48,Active
+P00099,Home Appliances Product 0099,Home Appliances,Subcategory 3,S00100,17825,11190,2025-12-09,49,Active
+P00100,Accessories Product 0100,Accessories,Subcategory 4,S00101,500,300,2025-12-10,50,Active
+P00101,IT Equipment Product 0101,IT Equipment,Subcategory 5,S00102,675,410,2025-12-11,51,Active
+P00102,Electronics Product 0102,Electronics,Subcategory 6,S00103,850,520,2025-12-12,52,Active
+P00103,Furniture Product 0103,Furniture,Subcategory 7,S00104,1025,630,2025-12-13,53,Active
+P00104,Office Supplies Product 0104,Office Supplies,Subcategory 8,S00105,1200,740,2025-12-14,54,Active
+P00105,Home Appliances Product 0105,Home Appliances,Subcategory 9,S00106,1375,850,2025-12-15,55,Active
+P00106,Accessories Product 0106,Accessories,Subcategory 10,S00107,1550,960,2025-12-16,56,Active
+P00107,IT Equipment Product 0107,IT Equipment,Subcategory 11,S00108,1725,1070,2025-12-17,57,Active
+P00108,Electronics Product 0108,Electronics,Subcategory 12,S00109,1900,1180,2025-12-18,58,Active
+P00109,Furniture Product 0109,Furniture,Subcategory 13,S00110,2075,1290,2025-12-19,59,Active
+P00110,Office Supplies Product 0110,Office Supplies,Subcategory 14,S00111,2250,1400,2025-12-20,5,Active
+P00111,Home Appliances Product 0111,Home Appliances,Subcategory 15,S00112,2425,1510,2025-12-21,6,Active
+P00112,Accessories Product 0112,Accessories,Subcategory 16,S00113,2600,1620,2025-12-22,7,Active
+P00113,IT Equipment Product 0113,IT Equipment,Subcategory 17,S00114,2775,1730,2025-12-23,8,Active
+P00114,Electronics Product 0114,Electronics,Subcategory 18,S00115,2950,1840,2025-12-24,9,Active
+P00115,Furniture Product 0115,Furniture,Subcategory 19,S00116,3125,1950,2025-12-25,10,Active
+P00116,Office Supplies Product 0116,Office Supplies,Subcategory 20,S00117,3300,2060,2025-12-26,11,Active
+P00117,Home Appliances Product 0117,Home Appliances,Subcategory 21,S00118,3475,2170,2025-12-27,12,Active
+P00118,Accessories Product 0118,Accessories,Subcategory 22,S00119,3650,2280,2025-12-28,13,Active
+P00119,IT Equipment Product 0119,IT Equipment,Subcategory 23,S00120,3825,2390,2025-12-29,14,Active
+P00120,Electronics Product 0120,Electronics,Subcategory 0,S00121,4000,2500,2025-12-30,15,Active
+P00121,Furniture Product 0121,Furniture,Subcategory 1,S00122,4175,2610,2025-12-31,16,Active
+P00122,Office Supplies Product 0122,Office Supplies,Subcategory 2,S00123,4350,2720,2026-01-01,17,Active
+P00123,Home Appliances Product 0123,Home Appliances,Subcategory 3,S00124,4525,2830,2026-01-02,18,Active
+P00124,Accessories Product 0124,Accessories,Subcategory 4,S00125,4700,2940,2026-01-03,19,Active
+P00125,IT Equipment Product 0125,IT Equipment,Subcategory 5,S00126,4875,3050,2026-01-04,20,Active
+P00126,Electronics Product 0126,Electronics,Subcategory 6,S00127,5050,3160,2026-01-05,21,Active
+P00127,Furniture Product 0127,Furniture,Subcategory 7,S00128,5225,3270,2026-01-06,22,Active
+P00128,Office Supplies Product 0128,Office Supplies,Subcategory 8,S00129,5400,3380,2026-01-07,23,Active
+P00129,Home Appliances Product 0129,Home Appliances,Subcategory 9,S00130,5575,3490,2026-01-08,24,Discontinued
+P00130,Accessories Product 0130,Accessories,Subcategory 10,S00131,5750,3600,2026-01-09,25,Active
+P00131,IT Equipment Product 0131,IT Equipment,Subcategory 11,S00132,5925,3710,2026-01-10,26,Active
+P00132,Electronics Product 0132,Electronics,Subcategory 12,S00133,6100,3820,2026-01-11,27,Active
+P00133,Furniture Product 0133,Furniture,Subcategory 13,S00134,6275,3930,2026-01-12,28,Active
+P00134,Office Supplies Product 0134,Office Supplies,Subcategory 14,S00135,6450,4040,2026-01-13,29,Active
+P00135,Home Appliances Product 0135,Home Appliances,Subcategory 15,S00136,6625,4150,2026-01-14,30,Active
+P00136,Accessories Product 0136,Accessories,Subcategory 16,S00137,6800,4260,2026-01-15,31,Active
+P00137,IT Equipment Product 0137,IT Equipment,Subcategory 17,S00138,6975,4370,2026-01-16,32,Active
+P00138,Electronics Product 0138,Electronics,Subcategory 18,S00139,7150,4480,2026-01-17,33,Active
+P00139,Furniture Product 0139,Furniture,Subcategory 19,S00140,7325,4590,2026-01-18,34,Active
+P00140,Office Supplies Product 0140,Office Supplies,Subcategory 20,S00141,7500,4700,2026-01-19,35,Active
+P00141,Home Appliances Product 0141,Home Appliances,Subcategory 21,S00142,7675,4810,2026-01-20,36,Active
+P00142,Accessories Product 0142,Accessories,Subcategory 22,S00143,7850,4920,2026-01-21,37,Active
+P00143,IT Equipment Product 0143,IT Equipment,Subcategory 23,S00144,8025,5030,2026-01-22,38,Active
+P00144,Electronics Product 0144,Electronics,Subcategory 0,S00145,8200,5140,2026-01-23,39,Active
+P00145,Furniture Product 0145,Furniture,Subcategory 1,S00146,8375,5250,2026-01-24,40,Active
+P00146,Office Supplies Product 0146,Office Supplies,Subcategory 2,S00147,8550,5360,2026-01-25,41,Active
+P00147,Home Appliances Product 0147,Home Appliances,Subcategory 3,S00148,8725,5470,2026-01-26,42,Active
+P00148,Accessories Product 0148,Accessories,Subcategory 4,S00149,8900,5580,2026-01-27,43,Active
+P00149,IT Equipment Product 0149,IT Equipment,Subcategory 5,S00150,9075,5690,2026-01-28,44,Active
+P00150,Electronics Product 0150,Electronics,Subcategory 6,S00151,9250,5800,2026-01-29,45,Active
+P00151,Furniture Product 0151,Furniture,Subcategory 7,S00152,9425,5910,2026-01-30,46,Active
+P00152,Office Supplies Product 0152,Office Supplies,Subcategory 8,S00153,9600,6020,2026-01-31,47,Active
+P00153,Home Appliances Product 0153,Home Appliances,Subcategory 9,S00154,9775,6130,2026-02-01,48,Active
+P00154,Accessories Product 0154,Accessories,Subcategory 10,S00155,9950,6240,2026-02-02,49,Active
+P00155,IT Equipment Product 0155,IT Equipment,Subcategory 11,S00156,10125,6350,2026-02-03,50,Active
+P00156,Electronics Product 0156,Electronics,Subcategory 12,S00157,10300,6460,2026-02-04,51,Active
+P00157,Furniture Product 0157,Furniture,Subcategory 13,S00158,10475,6570,2026-02-05,52,Active
+P00158,Office Supplies Product 0158,Office Supplies,Subcategory 14,S00159,10650,6680,2026-02-06,53,Active
+P00159,Home Appliances Product 0159,Home Appliances,Subcategory 15,S00160,10825,6790,2026-02-07,54,Active
+P00160,Accessories Product 0160,Accessories,Subcategory 16,S00161,11000,6900,2026-02-08,55,Active
+P00161,IT Equipment Product 0161,IT Equipment,Subcategory 17,S00162,11175,7010,2026-02-09,56,Active
+P00162,Electronics Product 0162,Electronics,Subcategory 18,S00163,11350,7120,2026-02-10,57,Active
+P00163,Furniture Product 0163,Furniture,Subcategory 19,S00164,11525,7230,2026-02-11,58,Active
+P00164,Office Supplies Product 0164,Office Supplies,Subcategory 20,S00165,11700,7340,2026-02-12,59,Active
+P00165,Home Appliances Product 0165,Home Appliances,Subcategory 21,S00166,11875,7450,2026-02-13,5,Active
+P00166,Accessories Product 0166,Accessories,Subcategory 22,S00167,12050,7560,2026-02-14,6,Active
+P00167,IT Equipment Product 0167,IT Equipment,Subcategory 23,S00168,12225,7670,2026-02-15,7,Active
+P00168,Electronics Product 0168,Electronics,Subcategory 0,S00169,12400,7780,2026-02-16,8,Active
+P00169,Furniture Product 0169,Furniture,Subcategory 1,S00170,12575,7890,2026-02-17,9,Active
+P00170,Office Supplies Product 0170,Office Supplies,Subcategory 2,S00171,12750,8000,2026-02-18,10,Active
+P00171,Home Appliances Product 0171,Home Appliances,Subcategory 3,S00172,12925,8110,2026-02-19,11,Active
+P00172,Accessories Product 0172,Accessories,Subcategory 4,S00173,13100,8220,2026-02-20,12,Discontinued
+P00173,IT Equipment Product 0173,IT Equipment,Subcategory 5,S00174,13275,8330,2026-02-21,13,Active
+P00174,Electronics Product 0174,Electronics,Subcategory 6,S00175,13450,8440,2026-02-22,14,Active
+P00175,Furniture Product 0175,Furniture,Subcategory 7,S00176,13625,8550,2026-02-23,15,Active
+P00176,Office Supplies Product 0176,Office Supplies,Subcategory 8,S00177,13800,8660,2026-02-24,16,Active
+P00177,Home Appliances Product 0177,Home Appliances,Subcategory 9,S00178,13975,8770,2026-02-25,17,Active
+P00178,Accessories Product 0178,Accessories,Subcategory 10,S00179,14150,8880,2026-02-26,18,Active
+P00179,IT Equipment Product 0179,IT Equipment,Subcategory 11,S00180,14325,8990,2026-02-27,19,Active
+P00180,Electronics Product 0180,Electronics,Subcategory 12,S00181,14500,9100,2026-02-28,20,Active
+P00181,Furniture Product 0181,Furniture,Subcategory 13,S00182,14675,9210,2026-03-01,21,Active
+P00182,Office Supplies Product 0182,Office Supplies,Subcategory 14,S00183,14850,9320,2026-03-02,22,Active
+P00183,Home Appliances Product 0183,Home Appliances,Subcategory 15,S00184,15025,9430,2026-03-03,23,Active
+P00184,Accessories Product 0184,Accessories,Subcategory 16,S00185,15200,9540,2026-03-04,24,Active
+P00185,IT Equipment Product 0185,IT Equipment,Subcategory 17,S00186,15375,9650,2026-03-05,25,Active
+P00186,Electronics Product 0186,Electronics,Subcategory 18,S00187,15550,9760,2026-03-06,26,Active
+P00187,Furniture Product 0187,Furniture,Subcategory 19,S00188,15725,9870,2026-03-07,27,Active
+P00188,Office Supplies Product 0188,Office Supplies,Subcategory 20,S00189,15900,9980,2026-03-08,28,Active
+P00189,Home Appliances Product 0189,Home Appliances,Subcategory 21,S00190,16075,10090,2026-03-09,29,Active
+P00190,Accessories Product 0190,Accessories,Subcategory 22,S00191,16250,10200,2026-03-10,30,Active
+P00191,IT Equipment Product 0191,IT Equipment,Subcategory 23,S00192,16425,10310,2026-03-11,31,Active
+P00192,Electronics Product 0192,Electronics,Subcategory 0,S00193,16600,10420,2026-03-12,32,Active
+P00193,Furniture Product 0193,Furniture,Subcategory 1,S00194,16775,10530,2026-03-13,33,Active
+P00194,Office Supplies Product 0194,Office Supplies,Subcategory 2,S00195,16950,10640,2026-03-14,34,Active
+P00195,Home Appliances Product 0195,Home Appliances,Subcategory 3,S00196,17125,10750,2026-03-15,35,Active
+P00196,Accessories Product 0196,Accessories,Subcategory 4,S00197,17300,10860,2026-03-16,36,Active
+P00197,IT Equipment Product 0197,IT Equipment,Subcategory 5,S00198,17475,10970,2026-03-17,37,Active
+P00198,Electronics Product 0198,Electronics,Subcategory 6,S00199,17650,11080,2026-03-18,38,Active
+P00199,Furniture Product 0199,Furniture,Subcategory 7,S00200,17825,11190,2026-03-19,39,Active
+P00200,Office Supplies Product 0200,Office Supplies,Subcategory 8,S00001,500,300,2026-03-20,40,Active
+P00201,Home Appliances Product 0201,Home Appliances,Subcategory 9,S00002,675,410,2026-03-21,41,Active
+P00202,Accessories Product 0202,Accessories,Subcategory 10,S00003,850,520,2026-03-22,42,Active
+P00203,IT Equipment Product 0203,IT Equipment,Subcategory 11,S00004,1025,630,2026-03-23,43,Active
+P00204,Electronics Product 0204,Electronics,Subcategory 12,S00005,1200,740,2026-03-24,44,Active
+P00205,Furniture Product 0205,Furniture,Subcategory 13,S00006,1375,850,2026-03-25,45,Active
+P00206,Office Supplies Product 0206,Office Supplies,Subcategory 14,S00007,1550,960,2026-03-26,46,Active
+P00207,Home Appliances Product 0207,Home Appliances,Subcategory 15,S00008,1725,1070,2026-03-27,47,Active
+P00208,Accessories Product 0208,Accessories,Subcategory 16,S00009,1900,1180,2026-03-28,48,Active
+P00209,IT Equipment Product 0209,IT Equipment,Subcategory 17,S00010,2075,1290,2026-03-29,49,Active
+P00210,Electronics Product 0210,Electronics,Subcategory 18,S00011,2250,1400,2026-03-30,50,Active
+P00211,Furniture Product 0211,Furniture,Subcategory 19,S00012,2425,1510,2026-03-31,51,Active
+P00212,Office Supplies Product 0212,Office Supplies,Subcategory 20,S00013,2600,1620,2026-04-01,52,Active
+P00213,Home Appliances Product 0213,Home Appliances,Subcategory 21,S00014,2775,1730,2026-04-02,53,Active
+P00214,Accessories Product 0214,Accessories,Subcategory 22,S00015,2950,1840,2026-04-03,54,Active
+P00215,IT Equipment Product 0215,IT Equipment,Subcategory 23,S00016,3125,1950,2026-04-04,55,Discontinued
+P00216,Electronics Product 0216,Electronics,Subcategory 0,S00017,3300,2060,2026-04-05,56,Active
+P00217,Furniture Product 0217,Furniture,Subcategory 1,S00018,3475,2170,2026-04-06,57,Active
+P00218,Office Supplies Product 0218,Office Supplies,Subcategory 2,S00019,3650,2280,2026-04-07,58,Active
+P00219,Home Appliances Product 0219,Home Appliances,Subcategory 3,S00020,3825,2390,2026-04-08,59,Active
+P00220,Accessories Product 0220,Accessories,Subcategory 4,S00021,4000,2500,2026-04-09,5,Active
+P00221,IT Equipment Product 0221,IT Equipment,Subcategory 5,S00022,4175,2610,2026-04-10,6,Active
+P00222,Electronics Product 0222,Electronics,Subcategory 6,S00023,4350,2720,2026-04-11,7,Active
+P00223,Furniture Product 0223,Furniture,Subcategory 7,S00024,4525,2830,2026-04-12,8,Active
+P00224,Office Supplies Product 0224,Office Supplies,Subcategory 8,S00025,4700,2940,2026-04-13,9,Active
+P00225,Home Appliances Product 0225,Home Appliances,Subcategory 9,S00026,4875,3050,2026-04-14,10,Active
+P00226,Accessories Product 0226,Accessories,Subcategory 10,S00027,5050,3160,2026-04-15,11,Active
+P00227,IT Equipment Product 0227,IT Equipment,Subcategory 11,S00028,5225,3270,2026-04-16,12,Active
+P00228,Electronics Product 0228,Electronics,Subcategory 12,S00029,5400,3380,2026-04-17,13,Active
+P00229,Furniture Product 0229,Furniture,Subcategory 13,S00030,5575,3490,2026-04-18,14,Active
+P00230,Office Supplies Product 0230,Office Supplies,Subcategory 14,S00031,5750,3600,2026-04-19,15,Active
+P00231,Home Appliances Product 0231,Home Appliances,Subcategory 15,S00032,5925,3710,2026-04-20,16,Active
+P00232,Accessories Product 0232,Accessories,Subcategory 16,S00033,6100,3820,2026-04-21,17,Active
+P00233,IT Equipment Product 0233,IT Equipment,Subcategory 17,S00034,6275,3930,2026-04-22,18,Active
+P00234,Electronics Product 0234,Electronics,Subcategory 18,S00035,6450,4040,2026-04-23,19,Active
+P00235,Furniture Product 0235,Furniture,Subcategory 19,S00036,6625,4150,2026-04-24,20,Active
+P00236,Office Supplies Product 0236,Office Supplies,Subcategory 20,S00037,6800,4260,2026-04-25,21,Active
+P00237,Home Appliances Product 0237,Home Appliances,Subcategory 21,S00038,6975,4370,2026-04-26,22,Active
+P00238,Accessories Product 0238,Accessories,Subcategory 22,S00039,7150,4480,2026-04-27,23,Active
+P00239,IT Equipment Product 0239,IT Equipment,Subcategory 23,S00040,7325,4590,2026-04-28,24,Active
+P00240,Electronics Product 0240,Electronics,Subcategory 0,S00041,7500,4700,2026-04-29,25,Active
+P00241,Furniture Product 0241,Furniture,Subcategory 1,S00042,7675,4810,2026-04-30,26,Active
+P00242,Office Supplies Product 0242,Office Supplies,Subcategory 2,S00043,7850,4920,2026-05-01,27,Active
+P00243,Home Appliances Product 0243,Home Appliances,Subcategory 3,S00044,8025,5030,2026-05-02,28,Active
+P00244,Accessories Product 0244,Accessories,Subcategory 4,S00045,8200,5140,2026-05-03,29,Active
+P00245,IT Equipment Product 0245,IT Equipment,Subcategory 5,S00046,8375,5250,2026-05-04,30,Active
+P00246,Electronics Product 0246,Electronics,Subcategory 6,S00047,8550,5360,2026-05-05,31,Active
+P00247,Furniture Product 0247,Furniture,Subcategory 7,S00048,8725,5470,2026-05-06,32,Active
+P00248,Office Supplies Product 0248,Office Supplies,Subcategory 8,S00049,8900,5580,2026-05-07,33,Active
+P00249,Home Appliances Product 0249,Home Appliances,Subcategory 9,S00050,9075,5690,2026-05-08,34,Active
+P00250,Accessories Product 0250,Accessories,Subcategory 10,S00051,9250,5800,2026-05-09,35,Active
+P00251,IT Equipment Product 0251,IT Equipment,Subcategory 11,S00052,9425,5910,2026-05-10,36,Active
+P00252,Electronics Product 0252,Electronics,Subcategory 12,S00053,9600,6020,2026-05-11,37,Active
+P00253,Furniture Product 0253,Furniture,Subcategory 13,S00054,9775,6130,2026-05-12,38,Active
+P00254,Office Supplies Product 0254,Office Supplies,Subcategory 14,S00055,9950,6240,2026-05-13,39,Active
+P00255,Home Appliances Product 0255,Home Appliances,Subcategory 15,S00056,10125,6350,2026-05-14,40,Active
+P00256,Accessories Product 0256,Accessories,Subcategory 16,S00057,10300,6460,2026-05-15,41,Active
+P00257,IT Equipment Product 0257,IT Equipment,Subcategory 17,S00058,10475,6570,2026-05-16,42,Active
+P00258,Electronics Product 0258,Electronics,Subcategory 18,S00059,10650,6680,2026-05-17,43,Discontinued
+P00259,Furniture Product 0259,Furniture,Subcategory 19,S00060,10825,6790,2026-05-18,44,Active
+P00260,Office Supplies Product 0260,Office Supplies,Subcategory 20,S00061,11000,6900,2026-05-19,45,Active
+P00261,Home Appliances Product 0261,Home Appliances,Subcategory 21,S00062,11175,7010,2026-05-20,46,Active
+P00262,Accessories Product 0262,Accessories,Subcategory 22,S00063,11350,7120,2026-05-21,47,Active
+P00263,IT Equipment Product 0263,IT Equipment,Subcategory 23,S00064,11525,7230,2026-05-22,48,Active
+P00264,Electronics Product 0264,Electronics,Subcategory 0,S00065,11700,7340,2026-05-23,49,Active
+P00265,Furniture Product 0265,Furniture,Subcategory 1,S00066,11875,7450,2026-05-24,50,Active
+P00266,Office Supplies Product 0266,Office Supplies,Subcategory 2,S00067,12050,7560,2026-05-25,51,Active
+P00267,Home Appliances Product 0267,Home Appliances,Subcategory 3,S00068,12225,7670,2026-05-26,52,Active
+P00268,Accessories Product 0268,Accessories,Subcategory 4,S00069,12400,7780,2026-05-27,53,Active
+P00269,IT Equipment Product 0269,IT Equipment,Subcategory 5,S00070,12575,7890,2026-05-28,54,Active
+P00270,Electronics Product 0270,Electronics,Subcategory 6,S00071,12750,8000,2026-05-29,55,Active
+P00271,Furniture Product 0271,Furniture,Subcategory 7,S00072,12925,8110,2026-05-30,56,Active
+P00272,Office Supplies Product 0272,Office Supplies,Subcategory 8,S00073,13100,8220,2026-05-31,57,Active
+P00273,Home Appliances Product 0273,Home Appliances,Subcategory 9,S00074,13275,8330,2026-06-01,58,Active
+P00274,Accessories Product 0274,Accessories,Subcategory 10,S00075,13450,8440,2026-06-02,59,Active
+P00275,IT Equipment Product 0275,IT Equipment,Subcategory 11,S00076,13625,8550,2026-06-03,5,Active
+P00276,Electronics Product 0276,Electronics,Subcategory 12,S00077,13800,8660,2026-06-04,6,Active
+P00277,Furniture Product 0277,Furniture,Subcategory 13,S00078,13975,8770,2026-06-05,7,Active
+P00278,Office Supplies Product 0278,Office Supplies,Subcategory 14,S00079,14150,8880,2026-06-06,8,Active
+P00279,Home Appliances Product 0279,Home Appliances,Subcategory 15,S00080,14325,8990,2026-06-07,9,Active
+P00280,Accessories Product 0280,Accessories,Subcategory 16,S00081,14500,9100,2026-06-08,10,Active
+P00281,IT Equipment Product 0281,IT Equipment,Subcategory 17,S00082,14675,9210,2026-06-09,11,Active
+P00282,Electronics Product 0282,Electronics,Subcategory 18,S00083,14850,9320,2026-06-10,12,Active
+P00283,Furniture Product 0283,Furniture,Subcategory 19,S00084,15025,9430,2026-06-11,13,Active
+P00284,Office Supplies Product 0284,Office Supplies,Subcategory 20,S00085,15200,9540,2026-06-12,14,Active
+P00285,Home Appliances Product 0285,Home Appliances,Subcategory 21,S00086,15375,9650,2026-06-13,15,Active
+P00286,Accessories Product 0286,Accessories,Subcategory 22,S00087,15550,9760,2026-06-14,16,Active
+P00287,IT Equipment Product 0287,IT Equipment,Subcategory 23,S00088,15725,9870,2026-06-15,17,Active
+P00288,Electronics Product 0288,Electronics,Subcategory 0,S00089,15900,9980,2026-06-16,18,Active
+P00289,Furniture Product 0289,Furniture,Subcategory 1,S00090,16075,10090,2026-06-17,19,Active
+P00290,Office Supplies Product 0290,Office Supplies,Subcategory 2,S00091,16250,10200,2026-06-18,20,Active
+P00291,Home Appliances Product 0291,Home Appliances,Subcategory 3,S00092,16425,10310,2026-06-19,21,Active
+P00292,Accessories Product 0292,Accessories,Subcategory 4,S00093,16600,10420,2026-06-20,22,Active
+P00293,IT Equipment Product 0293,IT Equipment,Subcategory 5,S00094,16775,10530,2026-06-21,23,Active
+P00294,Electronics Product 0294,Electronics,Subcategory 6,S00095,16950,10640,2026-06-22,24,Active
+P00295,Furniture Product 0295,Furniture,Subcategory 7,S00096,17125,10750,2026-06-23,25,Active
+P00296,Office Supplies Product 0296,Office Supplies,Subcategory 8,S00097,17300,10860,2026-06-24,26,Active
+P00297,Home Appliances Product 0297,Home Appliances,Subcategory 9,S00098,17475,10970,2026-06-25,27,Active
+P00298,Accessories Product 0298,Accessories,Subcategory 10,S00099,17650,11080,2026-06-26,28,Active
+P00299,IT Equipment Product 0299,IT Equipment,Subcategory 11,S00100,17825,11190,2026-06-27,29,Active
+P00300,Electronics Product 0300,Electronics,Subcategory 12,S00101,500,300,2026-06-28,30,Active
+P00301,Furniture Product 0301,Furniture,Subcategory 13,S00102,675,410,2026-06-29,31,Discontinued
+P00302,Office Supplies Product 0302,Office Supplies,Subcategory 14,S00103,850,520,2026-06-30,32,Active
+P00303,Home Appliances Product 0303,Home Appliances,Subcategory 15,S00104,1025,630,2026-07-01,33,Active
+P00304,Accessories Product 0304,Accessories,Subcategory 16,S00105,1200,740,2026-07-02,34,Active
+P00305,IT Equipment Product 0305,IT Equipment,Subcategory 17,S00106,1375,850,2026-07-03,35,Active
+P00306,Electronics Product 0306,Electronics,Subcategory 18,S00107,1550,960,2026-07-04,36,Active
+P00308,Office Supplies Product 0308,Office Supplies,Subcategory 20,S00109,1900,1180,2026-07-06,38,Active
+P00309,Home Appliances Product 0309,Home Appliances,Subcategory 21,S00110,2075,1290,2026-07-07,39,Active
+P00310,Accessories Product 0310,Accessories,Subcategory 22,S00111,2250,1400,2026-07-08,40,Active
+P00311,IT Equipment Product 0311,IT Equipment,Subcategory 23,S00112,2425,1510,2026-07-09,41,Active
+P00312,Electronics Product 0312,Electronics,Subcategory 0,S00113,2600,1620,2026-07-10,42,Active
+P00313,Furniture Product 0313,Furniture,Subcategory 1,S00114,2775,1730,2026-07-11,43,Active
+P00314,Office Supplies Product 0314,Office Supplies,Subcategory 2,S00115,2950,1840,2026-07-12,44,Active
+P00315,Home Appliances Product 0315,Home Appliances,Subcategory 3,S00116,3125,1950,2026-07-13,45,Active
+P00316,Accessories Product 0316,Accessories,Subcategory 4,S00117,3300,2060,2026-07-14,46,Active
+P00317,IT Equipment Product 0317,IT Equipment,Subcategory 5,S00118,3475,2170,2026-07-15,47,Active
+P00318,Electronics Product 0318,Electronics,Subcategory 6,S00119,3650,2280,2026-07-16,48,Active
+P00319,Furniture Product 0319,Furniture,Subcategory 7,S00120,3825,2390,2026-07-17,49,Active
+P00320,Office Supplies Product 0320,Office Supplies,Subcategory 8,S00121,4000,2500,2026-07-18,50,Active
+P00321,Home Appliances Product 0321,Home Appliances,Subcategory 9,S00122,4175,2610,2026-07-19,51,Active
+P00322,Accessories Product 0322,Accessories,Subcategory 10,S00123,4350,2720,2026-07-20,52,Active
+P00323,IT Equipment Product 0323,IT Equipment,Subcategory 11,S00124,4525,2830,2026-07-21,53,Active
+P00324,Electronics Product 0324,Electronics,Subcategory 12,S00125,4700,2940,2026-07-22,54,Active
+P00325,Furniture Product 0325,Furniture,Subcategory 13,S00126,4875,3050,2026-07-23,55,Active
+P00326,Office Supplies Product 0326,Office Supplies,Subcategory 14,S00127,5050,3160,2026-07-24,56,Active
+P00327,Home Appliances Product 0327,Home Appliances,Subcategory 15,S00128,5225,3270,2026-07-25,57,Active
+P00328,Accessories Product 0328,Accessories,Subcategory 16,S00129,5400,3380,2026-07-26,58,Active
+P00329,IT Equipment Product 0329,IT Equipment,Subcategory 17,S00130,5575,3490,2026-07-27,59,Active
+P00330,Electronics Product 0330,Electronics,Subcategory 18,S00131,5750,3600,2026-07-28,5,Active
+P00331,Furniture Product 0331,Furniture,Subcategory 19,S00132,5925,3710,2026-07-29,6,Active
+P00332,Office Supplies Product 0332,Office Supplies,Subcategory 20,S00133,6100,3820,2026-07-30,7,Active
+P00333,Home Appliances Product 0333,Home Appliances,Subcategory 21,S00134,6275,3930,2026-07-31,8,Active
+P00334,Accessories Product 0334,Accessories,Subcategory 22,S00135,6450,4040,2026-08-01,9,Active
+P00335,IT Equipment Product 0335,IT Equipment,Subcategory 23,S00136,6625,4150,2026-08-02,10,Active
+P00336,Electronics Product 0336,Electronics,Subcategory 0,S00137,6800,4260,2026-08-03,11,Active
+P00337,Furniture Product 0337,Furniture,Subcategory 1,S00138,6975,4370,2026-08-04,12,Active
+P00338,Office Supplies Product 0338,Office Supplies,Subcategory 2,S00139,7150,4480,2026-08-05,13,Active
+P00339,Home Appliances Product 0339,Home Appliances,Subcategory 3,S00140,7325,4590,2026-08-06,14,Active
+P00340,Accessories Product 0340,Accessories,Subcategory 4,S00141,7500,4700,2026-08-07,15,Active
+P00341,IT Equipment Product 0341,IT Equipment,Subcategory 5,S00142,7675,4810,2026-08-08,16,Active
+P00342,Electronics Product 0342,Electronics,Subcategory 6,S00143,7850,4920,2026-08-09,17,Active
+P00343,Furniture Product 0343,Furniture,Subcategory 7,S00144,8025,5030,2026-08-10,18,Active
+P00344,Office Supplies Product 0344,Office Supplies,Subcategory 8,S00145,8200,5140,2026-08-11,19,Discontinued
+P00345,Home Appliances Product 0345,Home Appliances,Subcategory 9,S00146,8375,5250,2026-08-12,20,Active
+P00346,Accessories Product 0346,Accessories,Subcategory 10,S00147,8550,5360,2026-08-13,21,Active
+P00347,IT Equipment Product 0347,IT Equipment,Subcategory 11,S00148,8725,5470,2026-08-14,22,Active
+P00348,Electronics Product 0348,Electronics,Subcategory 12,S00149,8900,5580,2026-08-15,23,Active
+P00349,Furniture Product 0349,Furniture,Subcategory 13,S00150,9075,5690,2026-08-16,24,Active
+P00350,Office Supplies Product 0350,Office Supplies,Subcategory 14,S00151,9250,5800,2026-08-17,25,Active
+P00351,Home Appliances Product 0351,Home Appliances,Subcategory 15,S00152,9425,5910,2026-08-18,26,Active
+P00352,Accessories Product 0352,Accessories,Subcategory 16,S00153,9600,6020,2026-08-19,27,Active
+P00353,IT Equipment Product 0353,IT Equipment,Subcategory 17,S00154,9775,6130,2026-08-20,28,Active
+P00354,Electronics Product 0354,Electronics,Subcategory 18,S00155,9950,6240,2026-08-21,29,Active
+P00355,Furniture Product 0355,Furniture,Subcategory 19,S00156,10125,6350,2026-08-22,30,Active
+P00356,Office Supplies Product 0356,Office Supplies,Subcategory 20,S00157,10300,6460,2026-08-23,31,Active
+P00357,Home Appliances Product 0357,Home Appliances,Subcategory 21,S00158,10475,6570,2026-08-24,32,Active
+P00358,Accessories Product 0358,Accessories,Subcategory 22,S00159,10650,6680,2026-08-25,33,Active
+P00359,IT Equipment Product 0359,IT Equipment,Subcategory 23,S00160,10825,6790,2026-08-26,34,Active
+P00360,Electronics Product 0360,Electronics,Subcategory 0,S00161,11000,6900,2026-08-27,35,Active
+P00361,Furniture Product 0361,Furniture,Subcategory 1,S00162,11175,7010,2026-08-28,36,Active
+P00362,Office Supplies Product 0362,Office Supplies,Subcategory 2,S00163,11350,7120,2026-08-29,37,Active
+P00363,Home Appliances Product 0363,Home Appliances,Subcategory 3,S00164,11525,7230,2026-08-30,38,Active
+P00364,Accessories Product 0364,Accessories,Subcategory 4,S00165,11700,7340,2026-08-31,39,Active
+P00365,IT Equipment Product 0365,IT Equipment,Subcategory 5,S00166,11875,7450,2025-09-01,40,Active
+P00366,Electronics Product 0366,Electronics,Subcategory 6,S00167,12050,7560,2025-09-02,41,Active
+P00367,Furniture Product 0367,Furniture,Subcategory 7,S00168,12225,7670,2025-09-03,42,Active
+P00368,Office Supplies Product 0368,Office Supplies,Subcategory 8,S00169,12400,7780,2025-09-04,43,Active
+P00369,Home Appliances Product 0369,Home Appliances,Subcategory 9,S00170,12575,7890,2025-09-05,44,Active
+P00370,Accessories Product 0370,Accessories,Subcategory 10,S00171,12750,8000,2025-09-06,45,Active
+P00371,IT Equipment Product 0371,IT Equipment,Subcategory 11,S00172,12925,8110,2025-09-07,46,Active
+P00372,Electronics Product 0372,Electronics,Subcategory 12,S00173,13100,8220,2025-09-08,47,Active
+P00373,Furniture Product 0373,Furniture,Subcategory 13,S00174,13275,8330,2025-09-09,48,Active
+P00374,Office Supplies Product 0374,Office Supplies,Subcategory 14,S00175,13450,8440,2025-09-10,49,Active
+P00375,Home Appliances Product 0375,Home Appliances,Subcategory 15,S00176,13625,8550,2025-09-11,50,Active
+P00376,Accessories Product 0376,Accessories,Subcategory 16,S00177,13800,8660,2025-09-12,51,Active
+P00377,IT Equipment Product 0377,IT Equipment,Subcategory 17,S00178,13975,8770,2025-09-13,52,Active
+P00378,Electronics Product 0378,Electronics,Subcategory 18,S00179,14150,8880,2025-09-14,53,Active
+P00379,Furniture Product 0379,Furniture,Subcategory 19,S00180,14325,8990,2025-09-15,54,Active
+P00380,Office Supplies Product 0380,Office Supplies,Subcategory 20,S00181,14500,9100,2025-09-16,55,Active
+P00381,Home Appliances Product 0381,Home Appliances,Subcategory 21,S00182,14675,9210,2025-09-17,56,Active
+P00382,Accessories Product 0382,Accessories,Subcategory 22,S00183,14850,9320,2025-09-18,57,Active
+P00383,IT Equipment Product 0383,IT Equipment,Subcategory 23,S00184,15025,9430,2025-09-19,58,Active
+P00384,Electronics Product 0384,Electronics,Subcategory 0,S00185,15200,9540,2025-09-20,59,Active
+P00385,Furniture Product 0385,Furniture,Subcategory 1,S00186,15375,9650,2025-09-21,5,Active
+P00386,Office Supplies Product 0386,Office Supplies,Subcategory 2,S00187,15550,9760,2025-09-22,6,Active
+P00387,Home Appliances Product 0387,Home Appliances,Subcategory 3,S00188,15725,9870,2025-09-23,7,Discontinued
+P00388,Accessories Product 0388,Accessories,Subcategory 4,S00189,15900,9980,2025-09-24,8,Active
+P00389,IT Equipment Product 0389,IT Equipment,Subcategory 5,S00190,16075,10090,2025-09-25,9,Active
+P00390,Electronics Product 0390,Electronics,Subcategory 6,S00191,16250,10200,2025-09-26,10,Active
+P00391,Furniture Product 0391,Furniture,Subcategory 7,S00192,16425,10310,2025-09-27,11,Active
+P00392,Office Supplies Product 0392,Office Supplies,Subcategory 8,S00193,16600,10420,2025-09-28,12,Active
+P00393,Home Appliances Product 0393,Home Appliances,Subcategory 9,S00194,16775,10530,2025-09-29,13,Active
+P00394,Accessories Product 0394,Accessories,Subcategory 10,S00195,16950,10640,2025-09-30,14,Active
+P00395,IT Equipment Product 0395,IT Equipment,Subcategory 11,S00196,17125,10750,2025-10-01,15,Active
+P00396,Electronics Product 0396,Electronics,Subcategory 12,S00197,17300,10860,2025-10-02,16,Active
+P00397,Furniture Product 0397,Furniture,Subcategory 13,S00198,17475,10970,2025-10-03,17,Active
+P00398,Office Supplies Product 0398,Office Supplies,Subcategory 14,S00199,17650,11080,2025-10-04,18,Active
+P00399,Home Appliances Product 0399,Home Appliances,Subcategory 15,S00200,17825,11190,2025-10-05,19,Active
+P00400,Accessories Product 0400,Accessories,Subcategory 16,S00001,500,300,2025-10-06,20,Active
+P00401,IT Equipment Product 0401,IT Equipment,Subcategory 17,S00002,675,410,2025-10-07,21,Active
+P00402,Electronics Product 0402,Electronics,Subcategory 18,S00003,850,520,2025-10-08,22,Active
+P00403,Furniture Product 0403,Furniture,Subcategory 19,S00004,1025,630,2025-10-09,23,Active
+P00404,Office Supplies Product 0404,Office Supplies,Subcategory 20,S00005,1200,740,2025-10-10,24,Active
+P00405,Home Appliances Product 0405,Home Appliances,Subcategory 21,S00006,1375,850,2025-10-11,25,Active
+P00406,Accessories Product 0406,Accessories,Subcategory 22,S00007,1550,960,2025-10-12,26,Active
+P00407,IT Equipment Product 0407,IT Equipment,Subcategory 23,S00008,1725,1070,2025-10-13,27,Active
+P00408,Electronics Product 0408,Electronics,Subcategory 0,S00009,1900,1180,2025-10-14,28,Active
+P00409,Furniture Product 0409,Furniture,Subcategory 1,S00010,2075,1290,2025-10-15,29,Active
+P00410,Office Supplies Product 0410,Office Supplies,Subcategory 2,S00011,2250,1400,2025-10-16,30,Active
+P00411,Home Appliances Product 0411,Home Appliances,Subcategory 3,S00012,2425,1510,2025-10-17,31,Active
+P00412,Accessories Product 0412,Accessories,Subcategory 4,S00013,2600,1620,2025-10-18,32,Active
+P00413,IT Equipment Product 0413,IT Equipment,Subcategory 5,S00014,2775,1730,2025-10-19,33,Active
+P00414,Electronics Product 0414,Electronics,Subcategory 6,S00015,2950,1840,2025-10-20,34,Active
+P00415,Furniture Product 0415,Furniture,Subcategory 7,S00016,3125,1950,2025-10-21,35,Active
+P00416,Office Supplies Product 0416,Office Supplies,Subcategory 8,S00017,3300,2060,2025-10-22,36,Active
+P00417,Home Appliances Product 0417,Home Appliances,Subcategory 9,S00018,3475,2170,2025-10-23,37,Active
+P00418,Accessories Product 0418,Accessories,Subcategory 10,S00019,3650,2280,2025-10-24,38,Active
+P00419,IT Equipment Product 0419,IT Equipment,Subcategory 11,S00020,3825,2390,2025-10-25,39,Active
+P00420,Electronics Product 0420,Electronics,Subcategory 12,S00021,4000,2500,2025-10-26,40,Active
+P00422,Office Supplies Product 0422,Office Supplies,Subcategory 14,S00023,4350,2720,2025-10-28,42,Active
+P00423,Home Appliances Product 0423,Home Appliances,Subcategory 15,S00024,4525,2830,2025-10-29,43,Active
+P00424,Accessories Product 0424,Accessories,Subcategory 16,S00025,4700,2940,2025-10-30,44,Active
+P00425,IT Equipment Product 0425,IT Equipment,Subcategory 17,S00026,4875,3050,2025-10-31,45,Active
+P00426,Electronics Product 0426,Electronics,Subcategory 18,S00027,5050,3160,2025-11-01,46,Active
+P00427,Furniture Product 0427,Furniture,Subcategory 19,S00028,5225,3270,2025-11-02,47,Active
+P00428,Office Supplies Product 0428,Office Supplies,Subcategory 20,S00029,5400,3380,2025-11-03,48,Active
+P00429,Home Appliances Product 0429,Home Appliances,Subcategory 21,S00030,5575,3490,2025-11-04,49,Active
+P00430,Accessories Product 0430,Accessories,Subcategory 22,S00031,5750,3600,2025-11-05,50,Discontinued
+P00431,IT Equipment Product 0431,IT Equipment,Subcategory 23,S00032,5925,3710,2025-11-06,51,Active
+P00432,Electronics Product 0432,Electronics,Subcategory 0,S00033,6100,3820,2025-11-07,52,Active
+P00433,Furniture Product 0433,Furniture,Subcategory 1,S00034,6275,3930,2025-11-08,53,Active
+P00434,Office Supplies Product 0434,Office Supplies,Subcategory 2,S00035,6450,4040,2025-11-09,54,Active
+P00435,Home Appliances Product 0435,Home Appliances,Subcategory 3,S00036,6625,4150,2025-11-10,55,Active
+P00436,Accessories Product 0436,Accessories,Subcategory 4,S00037,6800,4260,2025-11-11,56,Active
+P00437,IT Equipment Product 0437,IT Equipment,Subcategory 5,S00038,6975,4370,2025-11-12,57,Active
+P00438,Electronics Product 0438,Electronics,Subcategory 6,S00039,7150,4480,2025-11-13,58,Active
+P00439,Furniture Product 0439,Furniture,Subcategory 7,S00040,7325,4590,2025-11-14,59,Active
+P00440,Office Supplies Product 0440,Office Supplies,Subcategory 8,S00041,7500,4700,2025-11-15,5,Active
+P00441,Home Appliances Product 0441,Home Appliances,Subcategory 9,S00042,7675,4810,2025-11-16,6,Active
+P00442,Accessories Product 0442,Accessories,Subcategory 10,S00043,7850,4920,2025-11-17,7,Active
+P00443,IT Equipment Product 0443,IT Equipment,Subcategory 11,S00044,8025,5030,2025-11-18,8,Active
+P00444,Electronics Product 0444,Electronics,Subcategory 12,S00045,8200,5140,2025-11-19,9,Active
+P00445,Furniture Product 0445,Furniture,Subcategory 13,S00046,8375,5250,2025-11-20,10,Active
+P00446,Office Supplies Product 0446,Office Supplies,Subcategory 14,S00047,8550,5360,2025-11-21,11,Active
+P00447,Home Appliances Product 0447,Home Appliances,Subcategory 15,S00048,8725,5470,2025-11-22,12,Active
+P00448,Accessories Product 0448,Accessories,Subcategory 16,S00049,8900,5580,2025-11-23,13,Active
+P00449,IT Equipment Product 0449,IT Equipment,Subcategory 17,S00050,9075,5690,2025-11-24,14,Active
+P00450,Electronics Product 0450,Electronics,Subcategory 18,S00051,9250,5800,2025-11-25,15,Active
+P00451,Furniture Product 0451,Furniture,Subcategory 19,S00052,9425,5910,2025-11-26,16,Active
+P00452,Office Supplies Product 0452,Office Supplies,Subcategory 20,S00053,9600,6020,2025-11-27,17,Active
+P00453,Home Appliances Product 0453,Home Appliances,Subcategory 21,S00054,9775,6130,2025-11-28,18,Active
+P00454,Accessories Product 0454,Accessories,Subcategory 22,S00055,9950,6240,2025-11-29,19,Active
+P00455,IT Equipment Product 0455,IT Equipment,Subcategory 23,S00056,10125,6350,2025-11-30,20,Active
+P00456,Electronics Product 0456,Electronics,Subcategory 0,S00057,10300,6460,2025-12-01,21,Active
+P00457,Furniture Product 0457,Furniture,Subcategory 1,S00058,10475,6570,2025-12-02,22,Active
+P00458,Office Supplies Product 0458,Office Supplies,Subcategory 2,S00059,10650,6680,2025-12-03,23,Active
+P00459,Home Appliances Product 0459,Home Appliances,Subcategory 3,S00060,10825,6790,2025-12-04,24,Active
+P00460,Accessories Product 0460,Accessories,Subcategory 4,S00061,11000,6900,2025-12-05,25,Active
+P00461,IT Equipment Product 0461,IT Equipment,Subcategory 5,S00062,11175,7010,2025-12-06,26,Active
+P00462,Electronics Product 0462,Electronics,Subcategory 6,S00063,11350,7120,2025-12-07,27,Active
+P00463,Furniture Product 0463,Furniture,Subcategory 7,S00064,11525,7230,2025-12-08,28,Active
+P00464,Office Supplies Product 0464,Office Supplies,Subcategory 8,S00065,11700,7340,2025-12-09,29,Active
+P00465,Home Appliances Product 0465,Home Appliances,Subcategory 9,S00066,11875,7450,2025-12-10,30,Active
+P00466,Accessories Product 0466,Accessories,Subcategory 10,S00067,12050,7560,2025-12-11,31,Active
+P00467,IT Equipment Product 0467,IT Equipment,Subcategory 11,S00068,12225,7670,2025-12-12,32,Active
+P00468,Electronics Product 0468,Electronics,Subcategory 12,S00069,12400,7780,2025-12-13,33,Active
+P00469,Furniture Product 0469,Furniture,Subcategory 13,S00070,12575,7890,2025-12-14,34,Active
+P00470,Office Supplies Product 0470,Office Supplies,Subcategory 14,S00071,12750,8000,2025-12-15,35,Active
+P00471,Home Appliances Product 0471,Home Appliances,Subcategory 15,S00072,12925,8110,2025-12-16,36,Active
+P00472,Accessories Product 0472,Accessories,Subcategory 16,S00073,13100,8220,2025-12-17,37,Active
+P00473,IT Equipment Product 0473,IT Equipment,Subcategory 17,S00074,13275,8330,2025-12-18,38,Discontinued
+P00474,Electronics Product 0474,Electronics,Subcategory 18,S00075,13450,8440,2025-12-19,39,Active
+P00475,Furniture Product 0475,Furniture,Subcategory 19,S00076,13625,8550,2025-12-20,40,Active
+P00476,Office Supplies Product 0476,Office Supplies,Subcategory 20,S00077,13800,8660,2025-12-21,41,Active
+P00477,Home Appliances Product 0477,Home Appliances,Subcategory 21,S00078,13975,8770,2025-12-22,42,Active
+P00478,Accessories Product 0478,Accessories,Subcategory 22,S00079,14150,8880,2025-12-23,43,Active
+P00479,IT Equipment Product 0479,IT Equipment,Subcategory 23,S00080,14325,8990,2025-12-24,44,Active
+P00480,Electronics Product 0480,Electronics,Subcategory 0,S00081,14500,9100,2025-12-25,45,Active
+P00481,Furniture Product 0481,Furniture,Subcategory 1,S00082,14675,9210,2025-12-26,46,Active
+P00482,Office Supplies Product 0482,Office Supplies,Subcategory 2,S00083,14850,9320,2025-12-27,47,Active
+P00483,Home Appliances Product 0483,Home Appliances,Subcategory 3,S00084,15025,9430,2025-12-28,48,Active
+P00484,Accessories Product 0484,Accessories,Subcategory 4,S00085,15200,9540,2025-12-29,49,Active
+P00485,IT Equipment Product 0485,IT Equipment,Subcategory 5,S00086,15375,9650,2025-12-30,50,Active
+P00486,Electronics Product 0486,Electronics,Subcategory 6,S00087,15550,9760,2025-12-31,51,Active
+P00487,Furniture Product 0487,Furniture,Subcategory 7,S00088,15725,9870,2026-01-01,52,Active
+P00488,Office Supplies Product 0488,Office Supplies,Subcategory 8,S00089,15900,9980,2026-01-02,53,Active
+P00489,Home Appliances Product 0489,Home Appliances,Subcategory 9,S00090,16075,10090,2026-01-03,54,Active
+P00490,Accessories Product 0490,Accessories,Subcategory 10,S00091,16250,10200,2026-01-04,55,Active
+P00491,IT Equipment Product 0491,IT Equipment,Subcategory 11,S00092,16425,10310,2026-01-05,56,Active
+P00492,Electronics Product 0492,Electronics,Subcategory 12,S00093,16600,10420,2026-01-06,57,Active
+P00493,Furniture Product 0493,Furniture,Subcategory 13,S00094,16775,10530,2026-01-07,58,Active
+P00494,Office Supplies Product 0494,Office Supplies,Subcategory 14,S00095,16950,10640,2026-01-08,59,Active
+P00495,Home Appliances Product 0495,Home Appliances,Subcategory 15,S00096,17125,10750,2026-01-09,5,Active
+P00496,Accessories Product 0496,Accessories,Subcategory 16,S00097,17300,10860,2026-01-10,6,Active
+P00497,IT Equipment Product 0497,IT Equipment,Subcategory 17,S00098,17475,10970,2026-01-11,7,Active
+P00498,Electronics Product 0498,Electronics,Subcategory 18,S00099,17650,11080,2026-01-12,8,Active
+P00500,Office Supplies Product 0500,Office Supplies,Subcategory 20,S00101,500,300,2026-01-14,10,Active
+P00501,Home Appliances Product 0501,Home Appliances,Subcategory 21,S00102,675,410,2026-01-15,11,Active
+P00502,Accessories Product 0502,Accessories,Subcategory 22,S00103,850,520,2026-01-16,12,Active
+P00503,IT Equipment Product 0503,IT Equipment,Subcategory 23,S00104,1025,630,2026-01-17,13,Active
+P00504,Electronics Product 0504,Electronics,Subcategory 0,S00105,1200,740,2026-01-18,14,Active
+P00505,Furniture Product 0505,Furniture,Subcategory 1,S00106,1375,850,2026-01-19,15,Active
+P00506,Office Supplies Product 0506,Office Supplies,Subcategory 2,S00107,1550,960,2026-01-20,16,Active
+P00507,Home Appliances Product 0507,Home Appliances,Subcategory 3,S00108,1725,1070,2026-01-21,17,Active
+P00508,Accessories Product 0508,Accessories,Subcategory 4,S00109,1900,1180,2026-01-22,18,Active
+P00509,IT Equipment Product 0509,IT Equipment,Subcategory 5,S00110,2075,1290,2026-01-23,19,Active
+P00510,Electronics Product 0510,Electronics,Subcategory 6,S00111,2250,1400,2026-01-24,20,Active
+P00511,Furniture Product 0511,Furniture,Subcategory 7,S00112,2425,1510,2026-01-25,21,Active
+P00512,Office Supplies Product 0512,Office Supplies,Subcategory 8,S00113,2600,1620,2026-01-26,22,Active
+P00513,Home Appliances Product 0513,Home Appliances,Subcategory 9,S00114,2775,1730,2026-01-27,23,Active
+P00514,Accessories Product 0514,Accessories,Subcategory 10,S00115,2950,1840,2026-01-28,24,Active
+P00515,IT Equipment Product 0515,IT Equipment,Subcategory 11,S00116,3125,1950,2026-01-29,25,Active
+P00516,Electronics Product 0516,Electronics,Subcategory 12,S00117,3300,2060,2026-01-30,26,Discontinued
+P00517,Furniture Product 0517,Furniture,Subcategory 13,S00118,3475,2170,2026-01-31,27,Active
+P00518,Office Supplies Product 0518,Office Supplies,Subcategory 14,S00119,3650,2280,2026-02-01,28,Active
+P00519,Home Appliances Product 0519,Home Appliances,Subcategory 15,S00120,3825,2390,2026-02-02,29,Active
+P00520,Accessories Product 0520,Accessories,Subcategory 16,S00121,4000,2500,2026-02-03,30,Active
+P00521,IT Equipment Product 0521,IT Equipment,Subcategory 17,S00122,4175,2610,2026-02-04,31,Active
+P00522,Electronics Product 0522,Electronics,Subcategory 18,S00123,4350,2720,2026-02-05,32,Active
+P00523,Furniture Product 0523,Furniture,Subcategory 19,S00124,4525,2830,2026-02-06,33,Active
+P00524,Office Supplies Product 0524,Office Supplies,Subcategory 20,S00125,4700,2940,2026-02-07,34,Active
+P00525,Home Appliances Product 0525,Home Appliances,Subcategory 21,S00126,4875,3050,2026-02-08,35,Active
+P00526,Accessories Product 0526,Accessories,Subcategory 22,S00127,5050,3160,2026-02-09,36,Active
+P00527,IT Equipment Product 0527,IT Equipment,Subcategory 23,S00128,5225,3270,2026-02-10,37,Active
+P00528,Electronics Product 0528,Electronics,Subcategory 0,S00129,5400,3380,2026-02-11,38,Active
+P00529,Furniture Product 0529,Furniture,Subcategory 1,S00130,5575,3490,2026-02-12,39,Active
+P00530,Office Supplies Product 0530,Office Supplies,Subcategory 2,S00131,5750,3600,2026-02-13,40,Active
+P00531,Home Appliances Product 0531,Home Appliances,Subcategory 3,S00132,5925,3710,2026-02-14,41,Active
+P00532,Accessories Product 0532,Accessories,Subcategory 4,S00133,6100,3820,2026-02-15,42,Active
+P00533,IT Equipment Product 0533,IT Equipment,Subcategory 5,S00134,6275,3930,2026-02-16,43,Active
+P00534,Electronics Product 0534,Electronics,Subcategory 6,S00135,6450,4040,2026-02-17,44,Active
+P00535,Furniture Product 0535,Furniture,Subcategory 7,S00136,6625,4150,2026-02-18,45,Active
+P00536,Office Supplies Product 0536,Office Supplies,Subcategory 8,S00137,6800,4260,2026-02-19,46,Active
+P00537,Home Appliances Product 0537,Home Appliances,Subcategory 9,S00138,6975,4370,2026-02-20,47,Active
+P00538,Accessories Product 0538,Accessories,Subcategory 10,S00139,7150,4480,2026-02-21,48,Active
+P00539,IT Equipment Product 0539,IT Equipment,Subcategory 11,S00140,7325,4590,2026-02-22,49,Active
+P00540,Electronics Product 0540,Electronics,Subcategory 12,S00141,7500,4700,2026-02-23,50,Active
+P00541,Furniture Product 0541,Furniture,Subcategory 13,S00142,7675,4810,2026-02-24,51,Active
+P00542,Office Supplies Product 0542,Office Supplies,Subcategory 14,S00143,7850,4920,2026-02-25,52,Active
+P00543,Home Appliances Product 0543,Home Appliances,Subcategory 15,S00144,8025,5030,2026-02-26,53,Active
+P00544,Accessories Product 0544,Accessories,Subcategory 16,S00145,8200,5140,2026-02-27,54,Active
+P00545,IT Equipment Product 0545,IT Equipment,Subcategory 17,S00146,8375,5250,2026-02-28,55,Active
+P00546,Electronics Product 0546,Electronics,Subcategory 18,S00147,8550,5360,2026-03-01,56,Active
+P00547,Furniture Product 0547,Furniture,Subcategory 19,S00148,8725,5470,2026-03-02,57,Active
+P00548,Office Supplies Product 0548,Office Supplies,Subcategory 20,S00149,8900,5580,2026-03-03,58,Active
+P00549,Home Appliances Product 0549,Home Appliances,Subcategory 21,S00150,9075,5690,2026-03-04,59,Active
+P00550,Accessories Product 0550,Accessories,Subcategory 22,S00151,9250,5800,2026-03-05,5,Active
+P00551,IT Equipment Product 0551,IT Equipment,Subcategory 23,S00152,9425,5910,2026-03-06,6,Active
+P00552,Electronics Product 0552,Electronics,Subcategory 0,S00153,9600,6020,2026-03-07,7,Active
+P00553,Furniture Product 0553,Furniture,Subcategory 1,S00154,9775,6130,2026-03-08,8,Active
+P00554,Office Supplies Product 0554,Office Supplies,Subcategory 2,S00155,9950,6240,2026-03-09,9,Active
+P00555,Home Appliances Product 0555,Home Appliances,Subcategory 3,S00156,10125,6350,2026-03-10,10,Active
+P00556,Accessories Product 0556,Accessories,Subcategory 4,S00157,10300,6460,2026-03-11,11,Active
+P00557,IT Equipment Product 0557,IT Equipment,Subcategory 5,S00158,10475,6570,2026-03-12,12,Active
+P00558,Electronics Product 0558,Electronics,Subcategory 6,S00159,10650,6680,2026-03-13,13,Active
+P00559,Furniture Product 0559,Furniture,Subcategory 7,S00160,10825,6790,2026-03-14,14,Discontinued
+P00560,Office Supplies Product 0560,Office Supplies,Subcategory 8,S00161,11000,6900,2026-03-15,15,Active
+P00561,Home Appliances Product 0561,Home Appliances,Subcategory 9,S00162,11175,7010,2026-03-16,16,Active
+P00562,Accessories Product 0562,Accessories,Subcategory 10,S00163,11350,7120,2026-03-17,17,Active
+P00563,IT Equipment Product 0563,IT Equipment,Subcategory 11,S00164,11525,7230,2026-03-18,18,Active
+P00564,Electronics Product 0564,Electronics,Subcategory 12,S00165,11700,7340,2026-03-19,19,Active
+P00565,Furniture Product 0565,Furniture,Subcategory 13,S00166,11875,7450,2026-03-20,20,Active
+P00566,Office Supplies Product 0566,Office Supplies,Subcategory 14,S00167,12050,7560,2026-03-21,21,Active
+P00567,Home Appliances Product 0567,Home Appliances,Subcategory 15,S00168,12225,7670,2026-03-22,22,Active
+P00568,Accessories Product 0568,Accessories,Subcategory 16,S00169,12400,7780,2026-03-23,23,Active
+P00569,IT Equipment Product 0569,IT Equipment,Subcategory 17,S00170,12575,7890,2026-03-24,24,Active
+P00570,Electronics Product 0570,Electronics,Subcategory 18,S00171,12750,8000,2026-03-25,25,Active
+P00571,Furniture Product 0571,Furniture,Subcategory 19,S00172,12925,8110,2026-03-26,26,Active
+P00572,Office Supplies Product 0572,Office Supplies,Subcategory 20,S00173,13100,8220,2026-03-27,27,Active
+P00573,Home Appliances Product 0573,Home Appliances,Subcategory 21,S00174,13275,8330,2026-03-28,28,Active
+P00574,Accessories Product 0574,Accessories,Subcategory 22,S00175,13450,8440,2026-03-29,29,Active
+P00575,IT Equipment Product 0575,IT Equipment,Subcategory 23,S00176,13625,8550,2026-03-30,30,Active
+P00576,Electronics Product 0576,Electronics,Subcategory 0,S00177,13800,8660,2026-03-31,31,Active
+P00578,Office Supplies Product 0578,Office Supplies,Subcategory 2,S00179,14150,8880,2026-04-02,33,Active
+P00579,Home Appliances Product 0579,Home Appliances,Subcategory 3,S00180,14325,8990,2026-04-03,34,Active
+P00580,Accessories Product 0580,Accessories,Subcategory 4,S00181,14500,9100,2026-04-04,35,Active
+P00581,IT Equipment Product 0581,IT Equipment,Subcategory 5,S00182,14675,9210,2026-04-05,36,Active
+P00582,Electronics Product 0582,Electronics,Subcategory 6,S00183,14850,9320,2026-04-06,37,Active
+P00583,Furniture Product 0583,Furniture,Subcategory 7,S00184,15025,9430,2026-04-07,38,Active
+P00584,Office Supplies Product 0584,Office Supplies,Subcategory 8,S00185,15200,9540,2026-04-08,39,Active
+P00585,Home Appliances Product 0585,Home Appliances,Subcategory 9,S00186,15375,9650,2026-04-09,40,Active
+P00586,Accessories Product 0586,Accessories,Subcategory 10,S00187,15550,9760,2026-04-10,41,Active
+P00587,IT Equipment Product 0587,IT Equipment,Subcategory 11,S00188,15725,9870,2026-04-11,42,Active
+P00588,Electronics Product 0588,Electronics,Subcategory 12,S00189,15900,9980,2026-04-12,43,Active
+P00589,Furniture Product 0589,Furniture,Subcategory 13,S00190,16075,10090,2026-04-13,44,Active
+P00590,Office Supplies Product 0590,Office Supplies,Subcategory 14,S00191,16250,10200,2026-04-14,45,Active
+P00591,Home Appliances Product 0591,Home Appliances,Subcategory 15,S00192,16425,10310,2026-04-15,46,Active
+P00592,Accessories Product 0592,Accessories,Subcategory 16,S00193,16600,10420,2026-04-16,47,Active
+P00593,IT Equipment Product 0593,IT Equipment,Subcategory 17,S00194,16775,10530,2026-04-17,48,Active
+P00594,Electronics Product 0594,Electronics,Subcategory 18,S00195,16950,10640,2026-04-18,49,Active
+P00595,Furniture Product 0595,Furniture,Subcategory 19,S00196,17125,10750,2026-04-19,50,Active
+P00596,Office Supplies Product 0596,Office Supplies,Subcategory 20,S00197,17300,10860,2026-04-20,51,Active
+P00597,Home Appliances Product 0597,Home Appliances,Subcategory 21,S00198,17475,10970,2026-04-21,52,Active
+P00598,Accessories Product 0598,Accessories,Subcategory 22,S00199,17650,11080,2026-04-22,53,Active
+P00599,IT Equipment Product 0599,IT Equipment,Subcategory 23,S00200,17825,11190,2026-04-23,54,Active
+P00600,Electronics Product 0600,Electronics,Subcategory 0,S00001,500,300,2026-04-24,55,Active
+P00601,Furniture Product 0601,Furniture,Subcategory 1,S00002,675,410,2026-04-25,56,Active
+P00602,Office Supplies Product 0602,Office Supplies,Subcategory 2,S00003,850,520,2026-04-26,57,Discontinued
+P00603,Home Appliances Product 0603,Home Appliances,Subcategory 3,S00004,1025,630,2026-04-27,58,Active
+P00604,Accessories Product 0604,Accessories,Subcategory 4,S00005,1200,740,2026-04-28,59,Active
+P00605,IT Equipment Product 0605,IT Equipment,Subcategory 5,S00006,1375,850,2026-04-29,5,Active
+P00606,Electronics Product 0606,Electronics,Subcategory 6,S00007,1550,960,2026-04-30,6,Active
+P00607,Furniture Product 0607,Furniture,Subcategory 7,S00008,1725,1070,2026-05-01,7,Active
+P00608,Office Supplies Product 0608,Office Supplies,Subcategory 8,S00009,1900,1180,2026-05-02,8,Active
+P00609,Home Appliances Product 0609,Home Appliances,Subcategory 9,S00010,2075,1290,2026-05-03,9,Active
+P00610,Accessories Product 0610,Accessories,Subcategory 10,S00011,2250,1400,2026-05-04,10,Active
+P00611,IT Equipment Product 0611,IT Equipment,Subcategory 11,S00012,2425,1510,2026-05-05,11,Active
+P00612,Electronics Product 0612,Electronics,Subcategory 12,S00013,2600,1620,2026-05-06,12,Active
+P00613,Furniture Product 0613,Furniture,Subcategory 13,S00014,2775,1730,2026-05-07,13,Active
+P00615,Home Appliances Product 0615,Home Appliances,Subcategory 15,S00016,3125,1950,2026-05-09,15,Active
+P00616,Accessories Product 0616,Accessories,Subcategory 16,S00017,3300,2060,2026-05-10,16,Active
+P00617,IT Equipment Product 0617,IT Equipment,Subcategory 17,S00018,3475,2170,2026-05-11,17,Active
+P00618,Electronics Product 0618,Electronics,Subcategory 18,S00019,3650,2280,2026-05-12,18,Active
+P00619,Furniture Product 0619,Furniture,Subcategory 19,S00020,3825,2390,2026-05-13,19,Active
+P00620,Office Supplies Product 0620,Office Supplies,Subcategory 20,S00021,4000,2500,2026-05-14,20,Active
+P00621,Home Appliances Product 0621,Home Appliances,Subcategory 21,S00022,4175,2610,2026-05-15,21,Active
+P00622,Accessories Product 0622,Accessories,Subcategory 22,S00023,4350,2720,2026-05-16,22,Active
+P00623,IT Equipment Product 0623,IT Equipment,Subcategory 23,S00024,4525,2830,2026-05-17,23,Active
+P00624,Electronics Product 0624,Electronics,Subcategory 0,S00025,4700,2940,2026-05-18,24,Active
+P00625,Furniture Product 0625,Furniture,Subcategory 1,S00026,4875,3050,2026-05-19,25,Active
+P00626,Office Supplies Product 0626,Office Supplies,Subcategory 2,S00027,5050,3160,2026-05-20,26,Active
+P00627,Home Appliances Product 0627,Home Appliances,Subcategory 3,S00028,5225,3270,2026-05-21,27,Active
+P00628,Accessories Product 0628,Accessories,Subcategory 4,S00029,5400,3380,2026-05-22,28,Active
+P00629,IT Equipment Product 0629,IT Equipment,Subcategory 5,S00030,5575,3490,2026-05-23,29,Active
+P00630,Electronics Product 0630,Electronics,Subcategory 6,S00031,5750,3600,2026-05-24,30,Active
+P00631,Furniture Product 0631,Furniture,Subcategory 7,S00032,5925,3710,2026-05-25,31,Active
+P00632,Office Supplies Product 0632,Office Supplies,Subcategory 8,S00033,6100,3820,2026-05-26,32,Active
+P00633,Home Appliances Product 0633,Home Appliances,Subcategory 9,S00034,6275,3930,2026-05-27,33,Active
+P00634,Accessories Product 0634,Accessories,Subcategory 10,S00035,6450,4040,2026-05-28,34,Active
+P00635,IT Equipment Product 0635,IT Equipment,Subcategory 11,S00036,6625,4150,2026-05-29,35,Active
+P00636,Electronics Product 0636,Electronics,Subcategory 12,S00037,6800,4260,2026-05-30,36,Active
+P00637,Furniture Product 0637,Furniture,Subcategory 13,S00038,6975,4370,2026-05-31,37,Active
+P00638,Office Supplies Product 0638,Office Supplies,Subcategory 14,S00039,7150,4480,2026-06-01,38,Active
+P00639,Home Appliances Product 0639,Home Appliances,Subcategory 15,S00040,7325,4590,2026-06-02,39,Active
+P00640,Accessories Product 0640,Accessories,Subcategory 16,S00041,7500,4700,2026-06-03,40,Active
+P00641,IT Equipment Product 0641,IT Equipment,Subcategory 17,S00042,7675,4810,2026-06-04,41,Active
+P00642,Electronics Product 0642,Electronics,Subcategory 18,S00043,7850,4920,2026-06-05,42,Active
+P00643,Furniture Product 0643,Furniture,Subcategory 19,S00044,8025,5030,2026-06-06,43,Active
+P00644,Office Supplies Product 0644,Office Supplies,Subcategory 20,S00045,8200,5140,2026-06-07,44,Active
+P00645,Home Appliances Product 0645,Home Appliances,Subcategory 21,S00046,8375,5250,2026-06-08,45,Discontinued
+P00646,Accessories Product 0646,Accessories,Subcategory 22,S00047,8550,5360,2026-06-09,46,Active
+P00647,IT Equipment Product 0647,IT Equipment,Subcategory 23,S00048,8725,5470,2026-06-10,47,Active
+P00648,Electronics Product 0648,Electronics,Subcategory 0,S00049,8900,5580,2026-06-11,48,Active
+P00649,Furniture Product 0649,Furniture,Subcategory 1,S00050,9075,5690,2026-06-12,49,Active
+P00650,Office Supplies Product 0650,Office Supplies,Subcategory 2,S00051,9250,5800,2026-06-13,50,Active
+P00651,Home Appliances Product 0651,Home Appliances,Subcategory 3,S00052,9425,5910,2026-06-14,51,Active
+P00652,Accessories Product 0652,Accessories,Subcategory 4,S00053,9600,6020,2026-06-15,52,Active
+P00653,IT Equipment Product 0653,IT Equipment,Subcategory 5,S00054,9775,6130,2026-06-16,53,Active
+P00654,Electronics Product 0654,Electronics,Subcategory 6,S00055,9950,6240,2026-06-17,54,Active
+P00655,Furniture Product 0655,Furniture,Subcategory 7,S00056,10125,6350,2026-06-18,55,Active
+P00656,Office Supplies Product 0656,Office Supplies,Subcategory 8,S00057,10300,6460,2026-06-19,56,Active
+P00657,Home Appliances Product 0657,Home Appliances,Subcategory 9,S00058,10475,6570,2026-06-20,57,Active
+P00658,Accessories Product 0658,Accessories,Subcategory 10,S00059,10650,6680,2026-06-21,58,Active
+P00659,IT Equipment Product 0659,IT Equipment,Subcategory 11,S00060,10825,6790,2026-06-22,59,Active
+P00660,Electronics Product 0660,Electronics,Subcategory 12,S00061,11000,6900,2026-06-23,5,Active
+P00661,Furniture Product 0661,Furniture,Subcategory 13,S00062,11175,7010,2026-06-24,6,Active
+P00662,Office Supplies Product 0662,Office Supplies,Subcategory 14,S00063,11350,7120,2026-06-25,7,Active
+P00663,Home Appliances Product 0663,Home Appliances,Subcategory 15,S00064,11525,7230,2026-06-26,8,Active
+P00664,Accessories Product 0664,Accessories,Subcategory 16,S00065,11700,7340,2026-06-27,9,Active
+P00665,IT Equipment Product 0665,IT Equipment,Subcategory 17,S00066,11875,7450,2026-06-28,10,Active
+P00666,Electronics Product 0666,Electronics,Subcategory 18,S00067,12050,7560,2026-06-29,11,Active
+P00667,Furniture Product 0667,Furniture,Subcategory 19,S00068,12225,7670,2026-06-30,12,Active
+P00668,Office Supplies Product 0668,Office Supplies,Subcategory 20,S00069,12400,7780,2026-07-01,13,Active
+P00669,Home Appliances Product 0669,Home Appliances,Subcategory 21,S00070,12575,7890,2026-07-02,14,Active
+P00670,Accessories Product 0670,Accessories,Subcategory 22,S00071,12750,8000,2026-07-03,15,Active
+P00671,IT Equipment Product 0671,IT Equipment,Subcategory 23,S00072,12925,8110,2026-07-04,16,Active
+P00672,Electronics Product 0672,Electronics,Subcategory 0,S00073,13100,8220,2026-07-05,17,Active
+P00673,Furniture Product 0673,Furniture,Subcategory 1,S00074,13275,8330,2026-07-06,18,Active
+P00674,Office Supplies Product 0674,Office Supplies,Subcategory 2,S00075,13450,8440,2026-07-07,19,Active
+P00675,Home Appliances Product 0675,Home Appliances,Subcategory 3,S00076,13625,8550,2026-07-08,20,Active
+P00676,Accessories Product 0676,Accessories,Subcategory 4,S00077,13800,8660,2026-07-09,21,Active
+P00677,IT Equipment Product 0677,IT Equipment,Subcategory 5,S00078,13975,8770,2026-07-10,22,Active
+P00678,Electronics Product 0678,Electronics,Subcategory 6,S00079,14150,8880,2026-07-11,23,Active
+P00679,Furniture Product 0679,Furniture,Subcategory 7,S00080,14325,8990,2026-07-12,24,Active
+P00680,Office Supplies Product 0680,Office Supplies,Subcategory 8,S00081,14500,9100,2026-07-13,25,Active
+P00681,Home Appliances Product 0681,Home Appliances,Subcategory 9,S00082,14675,9210,2026-07-14,26,Active
+P00682,Accessories Product 0682,Accessories,Subcategory 10,S00083,14850,9320,2026-07-15,27,Active
+P00683,IT Equipment Product 0683,IT Equipment,Subcategory 11,S00084,15025,9430,2026-07-16,28,Active
+P00684,Electronics Product 0684,Electronics,Subcategory 12,S00085,15200,9540,2026-07-17,29,Active
+P00685,Furniture Product 0685,Furniture,Subcategory 13,S00086,15375,9650,2026-07-18,30,Active
+P00686,Office Supplies Product 0686,Office Supplies,Subcategory 14,S00087,15550,9760,2026-07-19,31,Active
+P00687,Home Appliances Product 0687,Home Appliances,Subcategory 15,S00088,15725,9870,2026-07-20,32,Active
+P00688,Accessories Product 0688,Accessories,Subcategory 16,S00089,15900,9980,2026-07-21,33,Discontinued
+P00689,IT Equipment Product 0689,IT Equipment,Subcategory 17,S00090,16075,10090,2026-07-22,34,Active
+P00690,Electronics Product 0690,Electronics,Subcategory 18,S00091,16250,10200,2026-07-23,35,Active
+P00691,Furniture Product 0691,Furniture,Subcategory 19,S00092,16425,10310,2026-07-24,36,Active
+P00692,Office Supplies Product 0692,Office Supplies,Subcategory 20,S00093,16600,10420,2026-07-25,37,Active
+P00693,Home Appliances Product 0693,Home Appliances,Subcategory 21,S00094,16775,10530,2026-07-26,38,Active
+P00694,Accessories Product 0694,Accessories,Subcategory 22,S00095,16950,10640,2026-07-27,39,Active
+P00695,IT Equipment Product 0695,IT Equipment,Subcategory 23,S00096,17125,10750,2026-07-28,40,Active
+P00696,Electronics Product 0696,Electronics,Subcategory 0,S00097,17300,10860,2026-07-29,41,Active
+P00697,Furniture Product 0697,Furniture,Subcategory 1,S00098,17475,10970,2026-07-30,42,Active
+P00698,Office Supplies Product 0698,Office Supplies,Subcategory 2,S00099,17650,11080,2026-07-31,43,Active
+P00699,Home Appliances Product 0699,Home Appliances,Subcategory 3,S00100,17825,11190,2026-08-01,44,Active
+P00700,Accessories Product 0700,Accessories,Subcategory 4,S00101,500,300,2026-08-02,45,Active
+P00701,IT Equipment Product 0701,IT Equipment,Subcategory 5,S00102,675,410,2026-08-03,46,Active
+P00702,Electronics Product 0702,Electronics,Subcategory 6,S00103,850,520,2026-08-04,47,Active
+P00703,Furniture Product 0703,Furniture,Subcategory 7,S00104,1025,630,2026-08-05,48,Active
+P00704,Office Supplies Product 0704,Office Supplies,Subcategory 8,S00105,1200,740,2026-08-06,49,Active
+P00705,Home Appliances Product 0705,Home Appliances,Subcategory 9,S00106,1375,850,2026-08-07,50,Active
+P00706,Accessories Product 0706,Accessories,Subcategory 10,S00107,1550,960,2026-08-08,51,Active
+P00707,IT Equipment Product 0707,IT Equipment,Subcategory 11,S00108,1725,1070,2026-08-09,52,Active
+P00708,Electronics Product 0708,Electronics,Subcategory 12,S00109,1900,1180,2026-08-10,53,Active
+P00709,Furniture Product 0709,Furniture,Subcategory 13,S00110,2075,1290,2026-08-11,54,Active
+P00710,Office Supplies Product 0710,Office Supplies,Subcategory 14,S00111,2250,1400,2026-08-12,55,Active
+P00711,Home Appliances Product 0711,Home Appliances,Subcategory 15,S00112,2425,1510,2026-08-13,56,Active
+P00712,Accessories Product 0712,Accessories,Subcategory 16,S00113,2600,1620,2026-08-14,57,Active
+P00713,IT Equipment Product 0713,IT Equipment,Subcategory 17,S00114,2775,1730,2026-08-15,58,Active
+P00714,Electronics Product 0714,Electronics,Subcategory 18,S00115,2950,1840,2026-08-16,59,Active
+P00715,Furniture Product 0715,Furniture,Subcategory 19,S00116,3125,1950,2026-08-17,5,Active
+P00716,Office Supplies Product 0716,Office Supplies,Subcategory 20,S00117,3300,2060,2026-08-18,6,Active
+P00717,Home Appliances Product 0717,Home Appliances,Subcategory 21,S00118,3475,2170,2026-08-19,7,Active
+P00718,Accessories Product 0718,Accessories,Subcategory 22,S00119,3650,2280,2026-08-20,8,Active
+P00719,IT Equipment Product 0719,IT Equipment,Subcategory 23,S00120,3825,2390,2026-08-21,9,Active
+P00720,Electronics Product 0720,Electronics,Subcategory 0,S00121,4000,2500,2026-08-22,10,Active
+P00721,Furniture Product 0721,Furniture,Subcategory 1,S00122,4175,2610,2026-08-23,11,Active
+P00722,Office Supplies Product 0722,Office Supplies,Subcategory 2,S00123,4350,2720,2026-08-24,12,Active
+P00723,Home Appliances Product 0723,Home Appliances,Subcategory 3,S00124,4525,2830,2026-08-25,13,Active
+P00724,Accessories Product 0724,Accessories,Subcategory 4,S00125,4700,2940,2026-08-26,14,Active
+P00725,IT Equipment Product 0725,IT Equipment,Subcategory 5,S00126,4875,3050,2026-08-27,15,Active
+P00726,Electronics Product 0726,Electronics,Subcategory 6,S00127,5050,3160,2026-08-28,16,Active
+P00727,Furniture Product 0727,Furniture,Subcategory 7,S00128,5225,3270,2026-08-29,17,Active
+P00728,Office Supplies Product 0728,Office Supplies,Subcategory 8,S00129,5400,3380,2026-08-30,18,Active
+P00729,Home Appliances Product 0729,Home Appliances,Subcategory 9,S00130,5575,3490,2026-08-31,19,Active
+P00730,Accessories Product 0730,Accessories,Subcategory 10,S00131,5750,3600,2025-09-01,20,Active
+P00731,IT Equipment Product 0731,IT Equipment,Subcategory 11,S00132,5925,3710,2025-09-02,21,Discontinued
+P00732,Electronics Product 0732,Electronics,Subcategory 12,S00133,6100,3820,2025-09-03,22,Active
+P00733,Furniture Product 0733,Furniture,Subcategory 13,S00134,6275,3930,2025-09-04,23,Active
+P00734,Office Supplies Product 0734,Office Supplies,Subcategory 14,S00135,6450,4040,2025-09-05,24,Active
+P00735,Home Appliances Product 0735,Home Appliances,Subcategory 15,S00136,6625,4150,2025-09-06,25,Active
+P00736,Accessories Product 0736,Accessories,Subcategory 16,S00137,6800,4260,2025-09-07,26,Active
+P00737,IT Equipment Product 0737,IT Equipment,Subcategory 17,S00138,6975,4370,2025-09-08,27,Active
+P00738,Electronics Product 0738,Electronics,Subcategory 18,S00139,7150,4480,2025-09-09,28,Active
+P00739,Furniture Product 0739,Furniture,Subcategory 19,S00140,7325,4590,2025-09-10,29,Active
+P00740,Office Supplies Product 0740,Office Supplies,Subcategory 20,S00141,7500,4700,2025-09-11,30,Active
+P00741,Home Appliances Product 0741,Home Appliances,Subcategory 21,S00142,7675,4810,2025-09-12,31,Active
+P00742,Accessories Product 0742,Accessories,Subcategory 22,S00143,7850,4920,2025-09-13,32,Active
+P00743,IT Equipment Product 0743,IT Equipment,Subcategory 23,S00144,8025,5030,2025-09-14,33,Active
+P00744,Electronics Product 0744,Electronics,Subcategory 0,S00145,8200,5140,2025-09-15,34,Active
+P00745,Furniture Product 0745,Furniture,Subcategory 1,S00146,8375,5250,2025-09-16,35,Active
+P00746,Office Supplies Product 0746,Office Supplies,Subcategory 2,S00147,8550,5360,2025-09-17,36,Active
+P00747,Home Appliances Product 0747,Home Appliances,Subcategory 3,S00148,8725,5470,2025-09-18,37,Active
+P00748,Accessories Product 0748,Accessories,Subcategory 4,S00149,8900,5580,2025-09-19,38,Active
+P00749,IT Equipment Product 0749,IT Equipment,Subcategory 5,S00150,9075,5690,2025-09-20,39,Active
+P00750,Electronics Product 0750,Electronics,Subcategory 6,S00151,9250,5800,2025-09-21,40,Active
+P00751,Furniture Product 0751,Furniture,Subcategory 7,S00152,9425,5910,2025-09-22,41,Active
+P00752,Office Supplies Product 0752,Office Supplies,Subcategory 8,S00153,9600,6020,2025-09-23,42,Active
+P00753,Home Appliances Product 0753,Home Appliances,Subcategory 9,S00154,9775,6130,2025-09-24,43,Active
+P00754,Accessories Product 0754,Accessories,Subcategory 10,S00155,9950,6240,2025-09-25,44,Active
+P00755,IT Equipment Product 0755,IT Equipment,Subcategory 11,S00156,10125,6350,2025-09-26,45,Active
+P00756,Electronics Product 0756,Electronics,Subcategory 12,S00157,10300,6460,2025-09-27,46,Active
+P00757,Furniture Product 0757,Furniture,Subcategory 13,S00158,10475,6570,2025-09-28,47,Active
+P00758,Office Supplies Product 0758,Office Supplies,Subcategory 14,S00159,10650,6680,2025-09-29,48,Active
+P00759,Home Appliances Product 0759,Home Appliances,Subcategory 15,S00160,10825,6790,2025-09-30,49,Active
+P00760,Accessories Product 0760,Accessories,Subcategory 16,S00161,11000,6900,2025-10-01,50,Active
+P00761,IT Equipment Product 0761,IT Equipment,Subcategory 17,S00162,11175,7010,2025-10-02,51,Active
+P00762,Electronics Product 0762,Electronics,Subcategory 18,S00163,11350,7120,2025-10-03,52,Active
+P00763,Furniture Product 0763,Furniture,Subcategory 19,S00164,11525,7230,2025-10-04,53,Active
+P00764,Office Supplies Product 0764,Office Supplies,Subcategory 20,S00165,11700,7340,2025-10-05,54,Active
+P00765,Home Appliances Product 0765,Home Appliances,Subcategory 21,S00166,11875,7450,2025-10-06,55,Active
+P00766,Accessories Product 0766,Accessories,Subcategory 22,S00167,12050,7560,2025-10-07,56,Active
+P00767,IT Equipment Product 0767,IT Equipment,Subcategory 23,S00168,12225,7670,2025-10-08,57,Active
+P00768,Electronics Product 0768,Electronics,Subcategory 0,S00169,12400,7780,2025-10-09,58,Active
+P00769,Furniture Product 0769,Furniture,Subcategory 1,S00170,12575,7890,2025-10-10,59,Active
+P00770,Office Supplies Product 0770,Office Supplies,Subcategory 2,S00171,12750,8000,2025-10-11,5,Active
+P00771,Home Appliances Product 0771,Home Appliances,Subcategory 3,S00172,12925,8110,2025-10-12,6,Active
+P00772,Accessories Product 0772,Accessories,Subcategory 4,S00173,13100,8220,2025-10-13,7,Active
+P00773,IT Equipment Product 0773,IT Equipment,Subcategory 5,S00174,13275,8330,2025-10-14,8,Active
+P00774,Electronics Product 0774,Electronics,Subcategory 6,S00175,13450,8440,2025-10-15,9,Discontinued
+P00775,Furniture Product 0775,Furniture,Subcategory 7,S00176,13625,8550,2025-10-16,10,Active
+P00776,Office Supplies Product 0776,Office Supplies,Subcategory 8,S00177,13800,8660,2025-10-17,11,Active
+P00777,Home Appliances Product 0777,Home Appliances,Subcategory 9,S00178,13975,8770,2025-10-18,12,Active
+P00778,Accessories Product 0778,Accessories,Subcategory 10,S00179,14150,8880,2025-10-19,13,Active
+P00779,IT Equipment Product 0779,IT Equipment,Subcategory 11,S00180,14325,8990,2025-10-20,14,Active
+P00780,Electronics Product 0780,Electronics,Subcategory 12,S00181,14500,9100,2025-10-21,15,Active
+P00781,Furniture Product 0781,Furniture,Subcategory 13,S00182,14675,9210,2025-10-22,16,Active
+P00782,Office Supplies Product 0782,Office Supplies,Subcategory 14,S00183,14850,9320,2025-10-23,17,Active
+P00783,Home Appliances Product 0783,Home Appliances,Subcategory 15,S00184,15025,9430,2025-10-24,18,Active
+P00784,Accessories Product 0784,Accessories,Subcategory 16,S00185,15200,9540,2025-10-25,19,Active
+P00785,IT Equipment Product 0785,IT Equipment,Subcategory 17,S00186,15375,9650,2025-10-26,20,Active
+P00786,Electronics Product 0786,Electronics,Subcategory 18,S00187,15550,9760,2025-10-27,21,Active
+P00787,Furniture Product 0787,Furniture,Subcategory 19,S00188,15725,9870,2025-10-28,22,Active
+P00788,Office Supplies Product 0788,Office Supplies,Subcategory 20,S00189,15900,9980,2025-10-29,23,Active
+P00789,Home Appliances Product 0789,Home Appliances,Subcategory 21,S00190,16075,10090,2025-10-30,24,Active
+P00790,Accessories Product 0790,Accessories,Subcategory 22,S00191,16250,10200,2025-10-31,25,Active
+P00791,IT Equipment Product 0791,IT Equipment,Subcategory 23,S00192,16425,10310,2025-11-01,26,Active
+P00792,Electronics Product 0792,Electronics,Subcategory 0,S00193,16600,10420,2025-11-02,27,Active
+P00793,Furniture Product 0793,Furniture,Subcategory 1,S00194,16775,10530,2025-11-03,28,Active
+P00794,Office Supplies Product 0794,Office Supplies,Subcategory 2,S00195,16950,10640,2025-11-04,29,Active
+P00795,Home Appliances Product 0795,Home Appliances,Subcategory 3,S00196,17125,10750,2025-11-05,30,Active
+P00796,Accessories Product 0796,Accessories,Subcategory 4,S00197,17300,10860,2025-11-06,31,Active
+P00797,IT Equipment Product 0797,IT Equipment,Subcategory 5,S00198,17475,10970,2025-11-07,32,Active
+P00798,Electronics Product 0798,Electronics,Subcategory 6,S00199,17650,11080,2025-11-08,33,Active
+P00799,Furniture Product 0799,Furniture,Subcategory 7,S00200,17825,11190,2025-11-09,34,Active
+P00800,Office Supplies Product 0800,Office Supplies,Subcategory 8,S00001,500,300,2025-11-10,35,Active
+P00801,Home Appliances Product 0801,Home Appliances,Subcategory 9,S00002,675,410,2025-11-11,36,Active
+P00802,Accessories Product 0802,Accessories,Subcategory 10,S00003,850,520,2025-11-12,37,Active
+P00803,IT Equipment Product 0803,IT Equipment,Subcategory 11,S00004,1025,630,2025-11-13,38,Active
+P00804,Electronics Product 0804,Electronics,Subcategory 12,S00005,1200,740,2025-11-14,39,Active
+P00805,Furniture Product 0805,Furniture,Subcategory 13,S00006,1375,850,2025-11-15,40,Active
+P00806,Office Supplies Product 0806,Office Supplies,Subcategory 14,S00007,1550,960,2025-11-16,41,Active
+P00807,Home Appliances Product 0807,Home Appliances,Subcategory 15,S00008,1725,1070,2025-11-17,42,Active
+P00808,Accessories Product 0808,Accessories,Subcategory 16,S00009,1900,1180,2025-11-18,43,Active
+P00809,IT Equipment Product 0809,IT Equipment,Subcategory 17,S00010,2075,1290,2025-11-19,44,Active
+P00810,Electronics Product 0810,Electronics,Subcategory 18,S00011,2250,1400,2025-11-20,45,Active
+P00811,Furniture Product 0811,Furniture,Subcategory 19,S00012,2425,1510,2025-11-21,46,Active
+P00812,Office Supplies Product 0812,Office Supplies,Subcategory 20,S00013,2600,1620,2025-11-22,47,Active
+P00813,Home Appliances Product 0813,Home Appliances,Subcategory 21,S00014,2775,1730,2025-11-23,48,Active
+P00814,Accessories Product 0814,Accessories,Subcategory 22,S00015,2950,1840,2025-11-24,49,Active
+P00815,IT Equipment Product 0815,IT Equipment,Subcategory 23,S00016,3125,1950,2025-11-25,50,Active
+P00816,Electronics Product 0816,Electronics,Subcategory 0,S00017,3300,2060,2025-11-26,51,Active
+P00817,Furniture Product 0817,Furniture,Subcategory 1,S00018,3475,2170,2025-11-27,52,Discontinued
+P00818,Office Supplies Product 0818,Office Supplies,Subcategory 2,S00019,3650,2280,2025-11-28,53,Active
+P00819,Home Appliances Product 0819,Home Appliances,Subcategory 3,S00020,3825,2390,2025-11-29,54,Active
+P00820,Accessories Product 0820,Accessories,Subcategory 4,S00021,4000,2500,2025-11-30,55,Active
+P00821,IT Equipment Product 0821,IT Equipment,Subcategory 5,S00022,4175,2610,2025-12-01,56,Active
+P00822,Electronics Product 0822,Electronics,Subcategory 6,S00023,4350,2720,2025-12-02,57,Active
+P00823,Furniture Product 0823,Furniture,Subcategory 7,S00024,4525,2830,2025-12-03,58,Active
+P00824,Office Supplies Product 0824,Office Supplies,Subcategory 8,S00025,4700,2940,2025-12-04,59,Active
+P00825,Home Appliances Product 0825,Home Appliances,Subcategory 9,S00026,4875,3050,2025-12-05,5,Active
+P00826,Accessories Product 0826,Accessories,Subcategory 10,S00027,5050,3160,2025-12-06,6,Active
+P00827,IT Equipment Product 0827,IT Equipment,Subcategory 11,S00028,5225,3270,2025-12-07,7,Active
+P00828,Electronics Product 0828,Electronics,Subcategory 12,S00029,5400,3380,2025-12-08,8,Active
+P00829,Furniture Product 0829,Furniture,Subcategory 13,S00030,5575,3490,2025-12-09,9,Active
+P00830,Office Supplies Product 0830,Office Supplies,Subcategory 14,S00031,5750,3600,2025-12-10,10,Active
+P00831,Home Appliances Product 0831,Home Appliances,Subcategory 15,S00032,5925,3710,2025-12-11,11,Active
+P00832,Accessories Product 0832,Accessories,Subcategory 16,S00033,6100,3820,2025-12-12,12,Active
+P00833,IT Equipment Product 0833,IT Equipment,Subcategory 17,S00034,6275,3930,2025-12-13,13,Active
+P00834,Electronics Product 0834,Electronics,Subcategory 18,S00035,6450,4040,2025-12-14,14,Active
+P00835,Furniture Product 0835,Furniture,Subcategory 19,S00036,6625,4150,2025-12-15,15,Active
+P00836,Office Supplies Product 0836,Office Supplies,Subcategory 20,S00037,6800,4260,2025-12-16,16,Active
+P00837,Home Appliances Product 0837,Home Appliances,Subcategory 21,S00038,6975,4370,2025-12-17,17,Active
+P00838,Accessories Product 0838,Accessories,Subcategory 22,S00039,7150,4480,2025-12-18,18,Active
+P00839,IT Equipment Product 0839,IT Equipment,Subcategory 23,S00040,7325,4590,2025-12-19,19,Active
+P00840,Electronics Product 0840,Electronics,Subcategory 0,S00041,7500,4700,2025-12-20,20,Active
+P00841,Furniture Product 0841,Furniture,Subcategory 1,S00042,7675,4810,2025-12-21,21,Active
+P00843,Home Appliances Product 0843,Home Appliances,Subcategory 3,S00044,8025,5030,2025-12-23,23,Active
+P00844,Accessories Product 0844,Accessories,Subcategory 4,S00045,8200,5140,2025-12-24,24,Active
+P00845,IT Equipment Product 0845,IT Equipment,Subcategory 5,S00046,8375,5250,2025-12-25,25,Active
+P00846,Electronics Product 0846,Electronics,Subcategory 6,S00047,8550,5360,2025-12-26,26,Active
+P00847,Furniture Product 0847,Furniture,Subcategory 7,S00048,8725,5470,2025-12-27,27,Active
+P00848,Office Supplies Product 0848,Office Supplies,Subcategory 8,S00049,8900,5580,2025-12-28,28,Active
+P00849,Home Appliances Product 0849,Home Appliances,Subcategory 9,S00050,9075,5690,2025-12-29,29,Active
+P00850,Accessories Product 0850,Accessories,Subcategory 10,S00051,9250,5800,2025-12-30,30,Active
+P00851,IT Equipment Product 0851,IT Equipment,Subcategory 11,S00052,9425,5910,2025-12-31,31,Active
+P00852,Electronics Product 0852,Electronics,Subcategory 12,S00053,9600,6020,2026-01-01,32,Active
+P00853,Furniture Product 0853,Furniture,Subcategory 13,S00054,9775,6130,2026-01-02,33,Active
+P00854,Office Supplies Product 0854,Office Supplies,Subcategory 14,S00055,9950,6240,2026-01-03,34,Active
+P00855,Home Appliances Product 0855,Home Appliances,Subcategory 15,S00056,10125,6350,2026-01-04,35,Active
+P00856,Accessories Product 0856,Accessories,Subcategory 16,S00057,10300,6460,2026-01-05,36,Active
+P00857,IT Equipment Product 0857,IT Equipment,Subcategory 17,S00058,10475,6570,2026-01-06,37,Active
+P00858,Electronics Product 0858,Electronics,Subcategory 18,S00059,10650,6680,2026-01-07,38,Active
+P00859,Furniture Product 0859,Furniture,Subcategory 19,S00060,10825,6790,2026-01-08,39,Active
+P00860,Office Supplies Product 0860,Office Supplies,Subcategory 20,S00061,11000,6900,2026-01-09,40,Discontinued
+P00861,Home Appliances Product 0861,Home Appliances,Subcategory 21,S00062,11175,7010,2026-01-10,41,Active
+P00862,Accessories Product 0862,Accessories,Subcategory 22,S00063,11350,7120,2026-01-11,42,Active
+P00863,IT Equipment Product 0863,IT Equipment,Subcategory 23,S00064,11525,7230,2026-01-12,43,Active
+P00864,Electronics Product 0864,Electronics,Subcategory 0,S00065,11700,7340,2026-01-13,44,Active
+P00865,Furniture Product 0865,Furniture,Subcategory 1,S00066,11875,7450,2026-01-14,45,Active
+P00866,Office Supplies Product 0866,Office Supplies,Subcategory 2,S00067,12050,7560,2026-01-15,46,Active
+P00867,Home Appliances Product 0867,Home Appliances,Subcategory 3,S00068,12225,7670,2026-01-16,47,Active
+P00868,Accessories Product 0868,Accessories,Subcategory 4,S00069,12400,7780,2026-01-17,48,Active
+P00869,IT Equipment Product 0869,IT Equipment,Subcategory 5,S00070,12575,7890,2026-01-18,49,Active
+P00870,Electronics Product 0870,Electronics,Subcategory 6,S00071,12750,8000,2026-01-19,50,Active
+P00871,Furniture Product 0871,Furniture,Subcategory 7,S00072,12925,8110,2026-01-20,51,Active
+P00872,Office Supplies Product 0872,Office Supplies,Subcategory 8,S00073,13100,8220,2026-01-21,52,Active
+P00873,Home Appliances Product 0873,Home Appliances,Subcategory 9,S00074,13275,8330,2026-01-22,53,Active
+P00874,Accessories Product 0874,Accessories,Subcategory 10,S00075,13450,8440,2026-01-23,54,Active
+P00875,IT Equipment Product 0875,IT Equipment,Subcategory 11,S00076,13625,8550,2026-01-24,55,Active
+P00876,Electronics Product 0876,Electronics,Subcategory 12,S00077,13800,8660,2026-01-25,56,Active
+P00877,Furniture Product 0877,Furniture,Subcategory 13,S00078,13975,8770,2026-01-26,57,Active
+P00878,Office Supplies Product 0878,Office Supplies,Subcategory 14,S00079,14150,8880,2026-01-27,58,Active
+P00879,Home Appliances Product 0879,Home Appliances,Subcategory 15,S00080,14325,8990,2026-01-28,59,Active
+P00880,Accessories Product 0880,Accessories,Subcategory 16,S00081,14500,9100,2026-01-29,5,Active
+P00881,IT Equipment Product 0881,IT Equipment,Subcategory 17,S00082,14675,9210,2026-01-30,6,Active
+P00882,Electronics Product 0882,Electronics,Subcategory 18,S00083,14850,9320,2026-01-31,7,Active
+P00883,Furniture Product 0883,Furniture,Subcategory 19,S00084,15025,9430,2026-02-01,8,Active
+P00884,Office Supplies Product 0884,Office Supplies,Subcategory 20,S00085,15200,9540,2026-02-02,9,Active
+P00885,Home Appliances Product 0885,Home Appliances,Subcategory 21,S00086,15375,9650,2026-02-03,10,Active
+P00886,Accessories Product 0886,Accessories,Subcategory 22,S00087,15550,9760,2026-02-04,11,Active
+P00887,IT Equipment Product 0887,IT Equipment,Subcategory 23,S00088,15725,9870,2026-02-05,12,Active
+P00888,Electronics Product 0888,Electronics,Subcategory 0,S00089,15900,9980,2026-02-06,13,Active
+P00889,Furniture Product 0889,Furniture,Subcategory 1,S00090,16075,10090,2026-02-07,14,Active
+P00890,Office Supplies Product 0890,Office Supplies,Subcategory 2,S00091,16250,10200,2026-02-08,15,Active
+P00891,Home Appliances Product 0891,Home Appliances,Subcategory 3,S00092,16425,10310,2026-02-09,16,Active
+P00892,Accessories Product 0892,Accessories,Subcategory 4,S00093,16600,10420,2026-02-10,17,Active
+P00893,IT Equipment Product 0893,IT Equipment,Subcategory 5,S00094,16775,10530,2026-02-11,18,Active
+P00894,Electronics Product 0894,Electronics,Subcategory 6,S00095,16950,10640,2026-02-12,19,Active
+P00895,Furniture Product 0895,Furniture,Subcategory 7,S00096,17125,10750,2026-02-13,20,Active
+P00896,Office Supplies Product 0896,Office Supplies,Subcategory 8,S00097,17300,10860,2026-02-14,21,Active
+P00897,Home Appliances Product 0897,Home Appliances,Subcategory 9,S00098,17475,10970,2026-02-15,22,Active
+P00898,Accessories Product 0898,Accessories,Subcategory 10,S00099,17650,11080,2026-02-16,23,Active
+P00899,IT Equipment Product 0899,IT Equipment,Subcategory 11,S00100,17825,11190,2026-02-17,24,Active
+P00900,Electronics Product 0900,Electronics,Subcategory 12,S00101,500,300,2026-02-18,25,Active
+P00901,Furniture Product 0901,Furniture,Subcategory 13,S00102,675,410,2026-02-19,26,Active
+P00902,Office Supplies Product 0902,Office Supplies,Subcategory 14,S00103,850,520,2026-02-20,27,Active
+P00903,Home Appliances Product 0903,Home Appliances,Subcategory 15,S00104,1025,630,2026-02-21,28,Discontinued
+P00904,Accessories Product 0904,Accessories,Subcategory 16,S00105,1200,740,2026-02-22,29,Active
+P00905,IT Equipment Product 0905,IT Equipment,Subcategory 17,S00106,1375,850,2026-02-23,30,Active
+P00906,Electronics Product 0906,Electronics,Subcategory 18,S00107,1550,960,2026-02-24,31,Active
+P00907,Furniture Product 0907,Furniture,Subcategory 19,S00108,1725,1070,2026-02-25,32,Active
+P00908,Office Supplies Product 0908,Office Supplies,Subcategory 20,S00109,1900,1180,2026-02-26,33,Active
+P00909,Home Appliances Product 0909,Home Appliances,Subcategory 21,S00110,2075,1290,2026-02-27,34,Active
+P00910,Accessories Product 0910,Accessories,Subcategory 22,S00111,2250,1400,2026-02-28,35,Active
+P00911,IT Equipment Product 0911,IT Equipment,Subcategory 23,S00112,2425,1510,2026-03-01,36,Active
+P00912,Electronics Product 0912,Electronics,Subcategory 0,S00113,2600,1620,2026-03-02,37,Active
+P00913,Furniture Product 0913,Furniture,Subcategory 1,S00114,2775,1730,2026-03-03,38,Active
+P00914,Office Supplies Product 0914,Office Supplies,Subcategory 2,S00115,2950,1840,2026-03-04,39,Active
+P00915,Home Appliances Product 0915,Home Appliances,Subcategory 3,S00116,3125,1950,2026-03-05,40,Active
+P00916,Accessories Product 0916,Accessories,Subcategory 4,S00117,3300,2060,2026-03-06,41,Active
+P00917,IT Equipment Product 0917,IT Equipment,Subcategory 5,S00118,3475,2170,2026-03-07,42,Active
+P00918,Electronics Product 0918,Electronics,Subcategory 6,S00119,3650,2280,2026-03-08,43,Active
+P00919,Furniture Product 0919,Furniture,Subcategory 7,S00120,3825,2390,2026-03-09,44,Active
+P00920,Office Supplies Product 0920,Office Supplies,Subcategory 8,S00121,4000,2500,2026-03-10,45,Active
+P00922,Accessories Product 0922,Accessories,Subcategory 10,S00123,4350,2720,2026-03-12,47,Active
+P00923,IT Equipment Product 0923,IT Equipment,Subcategory 11,S00124,4525,2830,2026-03-13,48,Active
+P00924,Electronics Product 0924,Electronics,Subcategory 12,S00125,4700,2940,2026-03-14,49,Active
+P00925,Furniture Product 0925,Furniture,Subcategory 13,S00126,4875,3050,2026-03-15,50,Active
+P00926,Office Supplies Product 0926,Office Supplies,Subcategory 14,S00127,5050,3160,2026-03-16,51,Active
+P00927,Home Appliances Product 0927,Home Appliances,Subcategory 15,S00128,5225,3270,2026-03-17,52,Active
+P00928,Accessories Product 0928,Accessories,Subcategory 16,S00129,5400,3380,2026-03-18,53,Active
+P00929,IT Equipment Product 0929,IT Equipment,Subcategory 17,S00130,5575,3490,2026-03-19,54,Active
+P00930,Electronics Product 0930,Electronics,Subcategory 18,S00131,5750,3600,2026-03-20,55,Active
+P00931,Furniture Product 0931,Furniture,Subcategory 19,S00132,5925,3710,2026-03-21,56,Active
+P00932,Office Supplies Product 0932,Office Supplies,Subcategory 20,S00133,6100,3820,2026-03-22,57,Active
+P00933,Home Appliances Product 0933,Home Appliances,Subcategory 21,S00134,6275,3930,2026-03-23,58,Active
+P00934,Accessories Product 0934,Accessories,Subcategory 22,S00135,6450,4040,2026-03-24,59,Active
+P00935,IT Equipment Product 0935,IT Equipment,Subcategory 23,S00136,6625,4150,2026-03-25,5,Active
+P00936,Electronics Product 0936,Electronics,Subcategory 0,S00137,6800,4260,2026-03-26,6,Active
+P00937,Furniture Product 0937,Furniture,Subcategory 1,S00138,6975,4370,2026-03-27,7,Active
+P00938,Office Supplies Product 0938,Office Supplies,Subcategory 2,S00139,7150,4480,2026-03-28,8,Active
+P00939,Home Appliances Product 0939,Home Appliances,Subcategory 3,S00140,7325,4590,2026-03-29,9,Active
+P00940,Accessories Product 0940,Accessories,Subcategory 4,S00141,7500,4700,2026-03-30,10,Active
+P00941,IT Equipment Product 0941,IT Equipment,Subcategory 5,S00142,7675,4810,2026-03-31,11,Active
+P00942,Electronics Product 0942,Electronics,Subcategory 6,S00143,7850,4920,2026-04-01,12,Active
+P00943,Furniture Product 0943,Furniture,Subcategory 7,S00144,8025,5030,2026-04-02,13,Active
+P00944,Office Supplies Product 0944,Office Supplies,Subcategory 8,S00145,8200,5140,2026-04-03,14,Active
+P00945,Home Appliances Product 0945,Home Appliances,Subcategory 9,S00146,8375,5250,2026-04-04,15,Active
+P00946,Accessories Product 0946,Accessories,Subcategory 10,S00147,8550,5360,2026-04-05,16,Discontinued
+P00947,IT Equipment Product 0947,IT Equipment,Subcategory 11,S00148,8725,5470,2026-04-06,17,Active
+P00948,Electronics Product 0948,Electronics,Subcategory 12,S00149,8900,5580,2026-04-07,18,Active
+P00949,Furniture Product 0949,Furniture,Subcategory 13,S00150,9075,5690,2026-04-08,19,Active
+P00950,Office Supplies Product 0950,Office Supplies,Subcategory 14,S00151,9250,5800,2026-04-09,20,Active
+P00951,Home Appliances Product 0951,Home Appliances,Subcategory 15,S00152,9425,5910,2026-04-10,21,Active
+P00952,Accessories Product 0952,Accessories,Subcategory 16,S00153,9600,6020,2026-04-11,22,Active
+P00953,IT Equipment Product 0953,IT Equipment,Subcategory 17,S00154,9775,6130,2026-04-12,23,Active
+P00954,Electronics Product 0954,Electronics,Subcategory 18,S00155,9950,6240,2026-04-13,24,Active
+P00955,Furniture Product 0955,Furniture,Subcategory 19,S00156,10125,6350,2026-04-14,25,Active
+P00956,Office Supplies Product 0956,Office Supplies,Subcategory 20,S00157,10300,6460,2026-04-15,26,Active
+P00957,Home Appliances Product 0957,Home Appliances,Subcategory 21,S00158,10475,6570,2026-04-16,27,Active
+P00958,Accessories Product 0958,Accessories,Subcategory 22,S00159,10650,6680,2026-04-17,28,Active
+P00959,IT Equipment Product 0959,IT Equipment,Subcategory 23,S00160,10825,6790,2026-04-18,29,Active
+P00960,Electronics Product 0960,Electronics,Subcategory 0,S00161,11000,6900,2026-04-19,30,Active
+P00961,Furniture Product 0961,Furniture,Subcategory 1,S00162,11175,7010,2026-04-20,31,Active
+P00962,Office Supplies Product 0962,Office Supplies,Subcategory 2,S00163,11350,7120,2026-04-21,32,Active
+P00963,Home Appliances Product 0963,Home Appliances,Subcategory 3,S00164,11525,7230,2026-04-22,33,Active
+P00964,Accessories Product 0964,Accessories,Subcategory 4,S00165,11700,7340,2026-04-23,34,Active
+P00965,IT Equipment Product 0965,IT Equipment,Subcategory 5,S00166,11875,7450,2026-04-24,35,Active
+P00966,Electronics Product 0966,Electronics,Subcategory 6,S00167,12050,7560,2026-04-25,36,Active
+P00967,Furniture Product 0967,Furniture,Subcategory 7,S00168,12225,7670,2026-04-26,37,Active
+P00968,Office Supplies Product 0968,Office Supplies,Subcategory 8,S00169,12400,7780,2026-04-27,38,Active
+P00969,Home Appliances Product 0969,Home Appliances,Subcategory 9,S00170,12575,7890,2026-04-28,39,Active
+P00970,Accessories Product 0970,Accessories,Subcategory 10,S00171,12750,8000,2026-04-29,40,Active
+P00971,IT Equipment Product 0971,IT Equipment,Subcategory 11,S00172,12925,8110,2026-04-30,41,Active
+P00972,Electronics Product 0972,Electronics,Subcategory 12,S00173,13100,8220,2026-05-01,42,Active
+P00973,Furniture Product 0973,Furniture,Subcategory 13,S00174,13275,8330,2026-05-02,43,Active
+P00974,Office Supplies Product 0974,Office Supplies,Subcategory 14,S00175,13450,8440,2026-05-03,44,Active
+P00975,Home Appliances Product 0975,Home Appliances,Subcategory 15,S00176,13625,8550,2026-05-04,45,Active
+P00976,Accessories Product 0976,Accessories,Subcategory 16,S00177,13800,8660,2026-05-05,46,Active
+P00977,IT Equipment Product 0977,IT Equipment,Subcategory 17,S00178,13975,8770,2026-05-06,47,Active
+P00978,Electronics Product 0978,Electronics,Subcategory 18,S00179,14150,8880,2026-05-07,48,Active
+P00979,Furniture Product 0979,Furniture,Subcategory 19,S00180,14325,8990,2026-05-08,49,Active
+P00980,Office Supplies Product 0980,Office Supplies,Subcategory 20,S00181,14500,9100,2026-05-09,50,Active
+P00981,Home Appliances Product 0981,Home Appliances,Subcategory 21,S00182,14675,9210,2026-05-10,51,Active
+P00982,Accessories Product 0982,Accessories,Subcategory 22,S00183,14850,9320,2026-05-11,52,Active
+P00983,IT Equipment Product 0983,IT Equipment,Subcategory 23,S00184,15025,9430,2026-05-12,53,Active
+P00984,Electronics Product 0984,Electronics,Subcategory 0,S00185,15200,9540,2026-05-13,54,Active
+P00985,Furniture Product 0985,Furniture,Subcategory 1,S00186,15375,9650,2026-05-14,55,Active
+P00986,Office Supplies Product 0986,Office Supplies,Subcategory 2,S00187,15550,9760,2026-05-15,56,Active
+P00987,Home Appliances Product 0987,Home Appliances,Subcategory 3,S00188,15725,9870,2026-05-16,57,Active
+P00988,Accessories Product 0988,Accessories,Subcategory 4,S00189,15900,9980,2026-05-17,58,Active
+P00989,IT Equipment Product 0989,IT Equipment,Subcategory 5,S00190,16075,10090,2026-05-18,59,Discontinued
+P00990,Electronics Product 0990,Electronics,Subcategory 6,S00191,16250,10200,2026-05-19,5,Active
+P00991,Furniture Product 0991,Furniture,Subcategory 7,S00192,16425,10310,2026-05-20,6,Active
+P00992,Office Supplies Product 0992,Office Supplies,Subcategory 8,S00193,16600,10420,2026-05-21,7,Active
+P00993,Home Appliances Product 0993,Home Appliances,Subcategory 9,S00194,16775,10530,2026-05-22,8,Active
+P00994,Accessories Product 0994,Accessories,Subcategory 10,S00195,16950,10640,2026-05-23,9,Active
+P00995,IT Equipment Product 0995,IT Equipment,Subcategory 11,S00196,17125,10750,2026-05-24,10,Active
+P00996,Electronics Product 0996,Electronics,Subcategory 12,S00197,17300,10860,2026-05-25,11,Active
+P00997,Furniture Product 0997,Furniture,Subcategory 13,S00198,17475,10970,2026-05-26,12,Active
+P00999,Home Appliances Product 0999,Home Appliances,Subcategory 15,S00200,17825,11190,2026-05-28,14,Active
+P01000,Accessories Product 1000,Accessories,Subcategory 16,S00001,500,300,2026-05-29,15,Active

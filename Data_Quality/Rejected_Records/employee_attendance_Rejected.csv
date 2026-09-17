@@ -1,0 +1,611 @@
+Source_Row,Reject_Reasons,Attendance_ID,Employee_ID,Attendance_Date,Shift,Scheduled_Hours,Worked_Hours,Overtime_Hours,Status
+102,Negative Value: Worked_Hours,AT00000101,E00102,2025-12-11,Night,8,-4,0,Absent
+203,Negative Value: Worked_Hours,AT00000202,E00203,2026-03-22,Night,8,-4,0,Absent
+251,Invalid Foreign Key: Employee_ID,AT00000250,E00251,2026-05-09,Evening,8,8,0,Present
+304,Negative Value: Worked_Hours,AT00000303,E00304,2026-07-01,Evening,8,-4,0,Absent
+405,Negative Value: Worked_Hours,AT00000404,E00405,2025-10-10,Morning,8,-4,0,Absent
+506,Negative Value: Worked_Hours,AT00000505,E00006,2026-01-19,Evening,8,-4,0,Absent
+607,Negative Value: Worked_Hours,AT00000606,E00107,2026-04-30,Morning,8,-4,0,Absent
+708,Negative Value: Worked_Hours,AT00000707,E00208,2026-08-09,Evening,8,-4,0,Absent
+751,Invalid Foreign Key: Employee_ID,AT00000750,E00251,2025-09-21,Evening,8,8,0,Present
+809,Negative Value: Worked_Hours,AT00000808,E00309,2025-11-18,Evening,8,-4,0,Absent
+910,Negative Value: Worked_Hours,AT00000909,E00410,2026-02-27,Evening,8,-4,0,Absent
+1011,Negative Value: Worked_Hours,AT00001010,E00011,2026-06-08,Morning,8,-4,0,Absent
+1112,Negative Value: Worked_Hours,AT00001111,E00112,2025-09-17,Morning,8,-4,0,Absent
+1213,Negative Value: Worked_Hours,AT00001212,E00213,2025-12-27,Night,8,-4,0,Absent
+1251,Invalid Foreign Key: Employee_ID,AT00001250,E00251,2026-02-03,Morning,8,8,0,Present
+1314,Negative Value: Worked_Hours,AT00001313,E00314,2026-04-07,Evening,8,-4,0,Absent
+1415,Negative Value: Worked_Hours,AT00001414,E00415,2026-07-17,Evening,8,-4,0,Absent
+1516,Negative Value: Worked_Hours,AT00001515,E00016,2025-10-26,Night,8,-4,0,Absent
+1617,Negative Value: Worked_Hours,AT00001616,E00117,2026-02-04,Evening,8,-4,0,Absent
+1718,Negative Value: Worked_Hours,AT00001717,E00218,2026-05-16,Evening,8,-4,0,Absent
+1751,Invalid Foreign Key: Employee_ID,AT00001750,E00251,2026-06-18,Evening,8,8,0,Present
+1819,Negative Value: Worked_Hours,AT00001818,E00319,2026-08-25,Night,8,-4,0,Absent
+1920,Negative Value: Worked_Hours,AT00001919,E00420,2025-12-04,Evening,8,-4,0,Absent
+2021,Negative Value: Worked_Hours,AT00002020,E00021,2026-03-15,Evening,8,-4,0,Absent
+2122,Negative Value: Worked_Hours,AT00002121,E00122,2026-06-24,Night,8,-4,0,Absent
+2223,Negative Value: Worked_Hours,AT00002222,E00223,2025-10-03,Evening,8,-4,0,Absent
+2251,Invalid Foreign Key: Employee_ID,AT00002250,E00251,2025-10-31,Night,8,8,0,Present
+2324,Negative Value: Worked_Hours,AT00002323,E00324,2026-01-12,Evening,8,-4,0,Absent
+2425,Negative Value: Worked_Hours,AT00002424,E00425,2026-04-23,Morning,8,-4,0,Absent
+2526,Negative Value: Worked_Hours,AT00002525,E00026,2026-08-02,Evening,8,-4,0,Absent
+2627,Negative Value: Worked_Hours,AT00002626,E00127,2025-11-11,Morning,8,-4,0,Absent
+2728,Negative Value: Worked_Hours,AT00002727,E00228,2026-02-20,Night,8,-4,0,Absent
+2751,Invalid Foreign Key: Employee_ID,AT00002750,E00251,2026-03-15,Morning,8,8,0,Present
+2829,Negative Value: Worked_Hours,AT00002828,E00329,2026-06-01,Night,8,-4,0,Absent
+2930,Negative Value: Worked_Hours,AT00002929,E00430,2025-09-10,Evening,8,-4,0,Absent
+3002,Invalid Foreign Key: Employee_ID,AT00003001,E99999,2025-11-21,Night,8,7,0,Present
+3031,Negative Value: Worked_Hours,AT00003030,E00031,2025-12-20,Night,8,-4,0,Absent
+3132,Negative Value: Worked_Hours,AT00003131,E00132,2026-03-31,Night,8,-4,0,Absent
+3233,Negative Value: Worked_Hours,AT00003232,E00233,2026-07-10,Morning,8,-4,0,Absent
+3251,Invalid Foreign Key: Employee_ID,AT00003250,E00251,2026-07-28,Morning,8,8,0,Present
+3334,Negative Value: Worked_Hours,AT00003333,E00334,2025-10-19,Night,8,-4,0,Absent
+3435,Negative Value: Worked_Hours,AT00003434,E00435,2026-01-28,Morning,8,-4,0,Absent
+3536,Negative Value: Worked_Hours,AT00003535,E00036,2026-05-09,Night,8,-4,0,Absent
+3637,Negative Value: Worked_Hours,AT00003636,E00137,2026-08-18,Night,8,-4,0,Absent
+3738,Negative Value: Worked_Hours,AT00003737,E00238,2025-11-27,Morning,8,-4,0,Absent
+3751,Invalid Foreign Key: Employee_ID,AT00003750,E00251,2025-12-10,Morning,8,8,0,Present
+3839,Negative Value: Worked_Hours,AT00003838,E00339,2026-03-08,Night,8,-4,0,Absent
+3940,Negative Value: Worked_Hours,AT00003939,E00440,2026-06-17,Night,8,-4,0,Absent
+4041,Negative Value: Worked_Hours,AT00004040,E00041,2025-09-26,Night,8,-4,0,Absent
+4142,Negative Value: Worked_Hours,AT00004141,E00142,2026-01-05,Evening,8,-4,0,Absent
+4243,Negative Value: Worked_Hours,AT00004242,E00243,2026-04-16,Morning,8,-4,0,Absent
+4251,Invalid Foreign Key: Employee_ID,AT00004250,E00251,2026-04-24,Evening,8,8,0,Present
+4344,Negative Value: Worked_Hours,AT00004343,E00344,2026-07-26,Morning,8,-4,0,Absent
+4445,Negative Value: Worked_Hours,AT00004444,E00445,2025-11-04,Night,8,-4,0,Absent
+4546,Negative Value: Worked_Hours,AT00004545,E00046,2026-02-13,Night,8,-4,0,Absent
+4647,Negative Value: Worked_Hours,AT00004646,E00147,2026-05-25,Evening,8,-4,0,Absent
+4748,Negative Value: Worked_Hours,AT00004747,E00248,2025-09-03,Evening,8,-4,0,Absent
+4751,Invalid Foreign Key: Employee_ID,AT00004750,E00251,2025-09-06,Night,8,8,0,Present
+4849,Negative Value: Worked_Hours,AT00004848,E00349,2025-12-13,Evening,8,-4,0,Absent
+4950,Negative Value: Worked_Hours,AT00004949,E00450,2026-03-24,Morning,8,-4,0,Absent
+5051,Negative Value: Worked_Hours,AT00005050,E00051,2026-07-03,Morning,8,-4,0,Absent
+5152,Negative Value: Worked_Hours,AT00005151,E00152,2025-10-12,Night,8,-4,0,Absent
+5251,Invalid Foreign Key: Employee_ID,AT00005250,E00251,2026-01-19,Morning,8,8,0,Present
+5253,Negative Value: Worked_Hours,AT00005252,E00253,2026-01-21,Evening,8,-4,0,Absent
+5354,Negative Value: Worked_Hours,AT00005353,E00354,2026-05-02,Night,8,-4,0,Absent
+5455,Negative Value: Worked_Hours,AT00005454,E00455,2026-08-11,Evening,8,-4,0,Absent
+5556,Negative Value: Worked_Hours,AT00005555,E00056,2025-11-20,Night,8,-4,0,Absent
+5657,Negative Value: Worked_Hours,AT00005656,E00157,2026-03-01,Morning,8,-4,0,Absent
+5751,Invalid Foreign Key: Employee_ID,AT00005750,E00251,2026-06-03,Night,8,8,0,Present
+5758,Negative Value: Worked_Hours,AT00005757,E00258,2026-06-10,Night,8,-4,0,Absent
+5859,Negative Value: Worked_Hours,AT00005858,E00359,2025-09-19,Night,8,-4,0,Absent
+5960,Negative Value: Worked_Hours,AT00005959,E00460,2025-12-29,Morning,8,-4,0,Absent
+6003,Invalid Foreign Key: Employee_ID,AT00006002,E99999,2026-02-10,Evening,8,8,0,Present
+6061,Negative Value: Worked_Hours,AT00006060,E00061,2026-04-09,Evening,8,-4,0,Absent
+6162,Negative Value: Worked_Hours,AT00006161,E00162,2026-07-19,Night,8,-4,0,Absent
+6251,Invalid Foreign Key: Employee_ID,AT00006250,E00251,2025-10-16,Night,8,8,0,Present
+6263,Negative Value: Worked_Hours,AT00006262,E00263,2025-10-28,Evening,8,-4,0,Absent
+6364,Negative Value: Worked_Hours,AT00006363,E00364,2026-02-06,Evening,8,-4,0,Absent
+6465,Negative Value: Worked_Hours,AT00006464,E00465,2026-05-18,Evening,8,-4,0,Absent
+6566,Negative Value: Worked_Hours,AT00006565,E00066,2026-08-27,Morning,8,-4,0,Absent
+6667,Negative Value: Worked_Hours,AT00006666,E00167,2025-12-06,Evening,8,-4,0,Absent
+6751,Invalid Foreign Key: Employee_ID,AT00006750,E00251,2026-02-28,Evening,8,8,0,Present
+6768,Negative Value: Worked_Hours,AT00006767,E00268,2026-03-17,Evening,8,-4,0,Absent
+6869,Negative Value: Worked_Hours,AT00006868,E00369,2026-06-26,Night,8,-4,0,Absent
+6970,Negative Value: Worked_Hours,AT00006969,E00470,2025-10-05,Night,8,-4,0,Absent
+7071,Negative Value: Worked_Hours,AT00007070,E00071,2026-01-14,Morning,8,-4,0,Absent
+7172,Negative Value: Worked_Hours,AT00007171,E00172,2026-04-25,Night,8,-4,0,Absent
+7251,Invalid Foreign Key: Employee_ID,AT00007250,E00251,2026-07-13,Evening,8,8,0,Present
+7273,Negative Value: Worked_Hours,AT00007272,E00273,2026-08-04,Night,8,-4,0,Absent
+7374,Negative Value: Worked_Hours,AT00007373,E00374,2025-11-13,Night,8,-4,0,Absent
+7475,Negative Value: Worked_Hours,AT00007474,E00475,2026-02-22,Evening,8,-4,0,Absent
+7576,Negative Value: Worked_Hours,AT00007575,E00076,2026-06-03,Night,8,-4,0,Absent
+7677,Negative Value: Worked_Hours,AT00007676,E00177,2025-09-12,Night,8,-4,0,Absent
+7751,Invalid Foreign Key: Employee_ID,AT00007750,E00251,2025-11-25,Evening,8,8,0,Present
+7778,Negative Value: Worked_Hours,AT00007777,E00278,2025-12-22,Night,8,-4,0,Absent
+7879,Negative Value: Worked_Hours,AT00007878,E00379,2026-04-02,Evening,8,-4,0,Absent
+7980,Negative Value: Worked_Hours,AT00007979,E00480,2026-07-12,Night,8,-4,0,Absent
+8081,Negative Value: Worked_Hours,AT00008080,E00081,2025-10-21,Morning,8,-4,0,Absent
+8182,Negative Value: Worked_Hours,AT00008181,E00182,2026-01-30,Morning,8,-4,0,Absent
+8251,Invalid Foreign Key: Employee_ID,AT00008250,E00251,2026-04-09,Night,8,8,0,Present
+8283,Negative Value: Worked_Hours,AT00008282,E00283,2026-05-11,Morning,8,-4,0,Absent
+8384,Negative Value: Worked_Hours,AT00008383,E00384,2026-08-20,Night,8,-4,0,Absent
+8485,Negative Value: Worked_Hours,AT00008484,E00485,2025-11-29,Evening,8,-4,0,Absent
+8586,Negative Value: Worked_Hours,AT00008585,E00086,2026-03-10,Evening,8,-4,0,Absent
+8687,Negative Value: Worked_Hours,AT00008686,E00187,2026-06-19,Morning,8,-4,0,Absent
+8751,Invalid Foreign Key: Employee_ID,AT00008750,E00251,2026-08-22,Morning,8,8,0,Present
+8788,Negative Value: Worked_Hours,AT00008787,E00288,2025-09-28,Night,8,-4,0,Absent
+8889,Negative Value: Worked_Hours,AT00008888,E00389,2026-01-07,Night,8,-4,0,Absent
+8990,Negative Value: Worked_Hours,AT00008989,E00490,2026-04-18,Night,8,-4,0,Absent
+9004,Invalid Foreign Key: Employee_ID,AT00009003,E99999,2026-05-02,Morning,8,9,1,Present
+9091,Negative Value: Worked_Hours,AT00009090,E00091,2026-07-28,Evening,8,-4,0,Absent
+9192,Negative Value: Worked_Hours,AT00009191,E00192,2025-11-06,Night,8,-4,0,Absent
+9251,Invalid Foreign Key: Employee_ID,AT00009250,E00251,2026-01-04,Night,8,8,0,Present
+9293,Negative Value: Worked_Hours,AT00009292,E00293,2026-02-15,Evening,8,-4,0,Absent
+9394,Negative Value: Worked_Hours,AT00009393,E00394,2026-05-27,Evening,8,-4,0,Absent
+9495,Negative Value: Worked_Hours,AT00009494,E00495,2025-09-05,Evening,8,-4,0,Absent
+9596,Negative Value: Worked_Hours,AT00009595,E00096,2025-12-15,Morning,8,-4,0,Absent
+9697,Negative Value: Worked_Hours,AT00009696,E00197,2026-03-26,Morning,8,-4,0,Absent
+9751,Invalid Foreign Key: Employee_ID,AT00009750,E00251,2026-05-19,Morning,8,8,0,Present
+9798,Negative Value: Worked_Hours,AT00009797,E00298,2026-07-05,Evening,8,-4,0,Absent
+9899,Negative Value: Worked_Hours,AT00009898,E00399,2025-10-14,Night,8,-4,0,Absent
+10000,Negative Value: Worked_Hours,AT00009999,E00500,2026-01-23,Night,8,-4,0,Absent
+10101,Negative Value: Worked_Hours,AT00010100,E00101,2026-05-04,Morning,8,-4,0,Absent
+10202,Negative Value: Worked_Hours,AT00010201,E00202,2026-08-13,Morning,8,-4,0,Absent
+10251,Invalid Foreign Key: Employee_ID,AT00010250,E00251,2025-10-01,Morning,8,8,0,Present
+10303,Negative Value: Worked_Hours,AT00010302,E00303,2025-11-22,Night,8,-4,0,Absent
+10404,Negative Value: Worked_Hours,AT00010403,E00404,2026-03-03,Morning,8,-4,0,Absent
+10505,Negative Value: Worked_Hours,AT00010504,E00005,2026-06-12,Evening,8,-4,0,Absent
+10606,Negative Value: Worked_Hours,AT00010605,E00106,2025-09-21,Morning,8,-4,0,Absent
+10707,Negative Value: Worked_Hours,AT00010706,E00207,2025-12-31,Night,8,-4,0,Absent
+10751,Invalid Foreign Key: Employee_ID,AT00010750,E00251,2026-02-13,Morning,8,8,0,Present
+10808,Negative Value: Worked_Hours,AT00010807,E00308,2026-04-11,Morning,8,-4,0,Absent
+10909,Negative Value: Worked_Hours,AT00010908,E00409,2026-07-21,Evening,8,-4,0,Absent
+11010,Negative Value: Worked_Hours,AT00011009,E00010,2025-10-30,Evening,8,-4,0,Absent
+11111,Negative Value: Worked_Hours,AT00011110,E00111,2026-02-08,Night,8,-4,0,Absent
+11212,Negative Value: Worked_Hours,AT00011211,E00212,2026-05-20,Night,8,-4,0,Absent
+11251,Invalid Foreign Key: Employee_ID,AT00011250,E00251,2026-06-28,Morning,8,8,0,Present
+11313,Negative Value: Worked_Hours,AT00011312,E00313,2026-08-29,Night,8,-4,0,Absent
+11414,Negative Value: Worked_Hours,AT00011413,E00414,2025-12-08,Night,8,-4,0,Absent
+11515,Negative Value: Worked_Hours,AT00011514,E00015,2026-03-19,Morning,8,-4,0,Absent
+11616,Negative Value: Worked_Hours,AT00011615,E00116,2026-06-28,Evening,8,-4,0,Absent
+11717,Negative Value: Worked_Hours,AT00011716,E00217,2025-10-07,Evening,8,-4,0,Absent
+11751,Invalid Foreign Key: Employee_ID,AT00011750,E00251,2025-11-10,Night,8,8,0,Present
+11818,Negative Value: Worked_Hours,AT00011817,E00318,2026-01-16,Morning,8,-4,0,Absent
+11919,Negative Value: Worked_Hours,AT00011918,E00419,2026-04-27,Morning,8,-4,0,Absent
+12005,Invalid Foreign Key: Employee_ID,AT00012004,E99999,2026-07-22,Morning,8,6,0,Present
+12020,Negative Value: Worked_Hours,AT00012019,E00020,2026-08-06,Night,8,-4,0,Absent
+12121,Negative Value: Worked_Hours,AT00012120,E00121,2025-11-15,Evening,8,-4,0,Absent
+12222,Negative Value: Worked_Hours,AT00012221,E00222,2026-02-24,Night,8,-4,0,Absent
+12251,Invalid Foreign Key: Employee_ID,AT00012250,E00251,2026-03-25,Evening,8,8,0,Present
+12323,Negative Value: Worked_Hours,AT00012322,E00323,2026-06-05,Morning,8,-4,0,Absent
+12424,Negative Value: Worked_Hours,AT00012423,E00424,2025-09-14,Morning,8,-4,0,Absent
+12525,Negative Value: Worked_Hours,AT00012524,E00025,2025-12-24,Evening,8,-4,0,Absent
+12626,Negative Value: Worked_Hours,AT00012625,E00126,2026-04-04,Night,8,-4,0,Absent
+12727,Negative Value: Worked_Hours,AT00012726,E00227,2026-07-14,Evening,8,-4,0,Absent
+12751,Invalid Foreign Key: Employee_ID,AT00012750,E00251,2026-08-07,Morning,8,8,0,Present
+12828,Negative Value: Worked_Hours,AT00012827,E00328,2025-10-23,Evening,8,-4,0,Absent
+12929,Negative Value: Worked_Hours,AT00012928,E00429,2026-02-01,Evening,8,-4,0,Absent
+13030,Negative Value: Worked_Hours,AT00013029,E00030,2026-05-13,Night,8,-4,0,Absent
+13131,Negative Value: Worked_Hours,AT00013130,E00131,2026-08-22,Evening,8,-4,0,Absent
+13232,Negative Value: Worked_Hours,AT00013231,E00232,2025-12-01,Night,8,-4,0,Absent
+13251,Invalid Foreign Key: Employee_ID,AT00013250,E00251,2025-12-20,Evening,8,8,0,Present
+13333,Negative Value: Worked_Hours,AT00013332,E00333,2026-03-12,Evening,8,-4,0,Absent
+13434,Negative Value: Worked_Hours,AT00013433,E00434,2026-06-21,Night,8,-4,0,Absent
+13535,Negative Value: Worked_Hours,AT00013534,E00035,2025-09-30,Night,8,-4,0,Absent
+13636,Negative Value: Worked_Hours,AT00013635,E00136,2026-01-09,Evening,8,-4,0,Absent
+13737,Negative Value: Worked_Hours,AT00013736,E00237,2026-04-20,Night,8,-4,0,Absent
+13751,Invalid Foreign Key: Employee_ID,AT00013750,E00251,2026-05-04,Morning,8,8,0,Present
+13838,Negative Value: Worked_Hours,AT00013837,E00338,2026-07-30,Morning,8,-4,0,Absent
+13939,Negative Value: Worked_Hours,AT00013938,E00439,2025-11-08,Evening,8,-4,0,Absent
+14040,Negative Value: Worked_Hours,AT00014039,E00040,2026-02-17,Morning,8,-4,0,Absent
+14141,Negative Value: Worked_Hours,AT00014140,E00141,2026-05-29,Morning,8,-4,0,Absent
+14242,Negative Value: Worked_Hours,AT00014241,E00242,2025-09-07,Evening,8,-4,0,Absent
+14251,Invalid Foreign Key: Employee_ID,AT00014250,E00251,2025-09-16,Night,8,8,0,Present
+14343,Negative Value: Worked_Hours,AT00014342,E00343,2025-12-17,Evening,8,-4,0,Absent
+14444,Negative Value: Worked_Hours,AT00014443,E00444,2026-03-28,Evening,8,-4,0,Absent
+14545,Negative Value: Worked_Hours,AT00014544,E00045,2026-07-07,Evening,8,-4,0,Absent
+14646,Negative Value: Worked_Hours,AT00014645,E00146,2025-10-16,Evening,8,-4,0,Absent
+14747,Negative Value: Worked_Hours,AT00014746,E00247,2026-01-25,Evening,8,-4,0,Absent
+14751,Invalid Foreign Key: Employee_ID,AT00014750,E00251,2026-01-29,Evening,8,8,0,Present
+14848,Negative Value: Worked_Hours,AT00014847,E00348,2026-05-06,Night,8,-4,0,Absent
+14949,Negative Value: Worked_Hours,AT00014948,E00449,2026-08-15,Morning,8,-4,0,Absent
+15006,Invalid Foreign Key: Employee_ID,AT00015005,E99999,2025-10-11,Evening,8,7,0,Present
+15050,Negative Value: Worked_Hours,AT00015049,E00050,2025-11-24,Night,8,-4,0,Absent
+15151,Negative Value: Worked_Hours,AT00015150,E00151,2026-03-05,Night,8,-4,0,Absent
+15251,Invalid Foreign Key: Employee_ID,AT00015250,E00251,2026-06-13,Morning,8,8,0,Present
+15252,Negative Value: Worked_Hours,AT00015251,E00252,2026-06-14,Morning,8,-4,0,Absent
+15353,Negative Value: Worked_Hours,AT00015352,E00353,2025-09-23,Morning,8,-4,0,Absent
+15454,Negative Value: Worked_Hours,AT00015453,E00454,2026-01-02,Evening,8,-4,0,Absent
+15555,Negative Value: Worked_Hours,AT00015554,E00055,2026-04-13,Night,8,-4,0,Absent
+15656,Negative Value: Worked_Hours,AT00015655,E00156,2026-07-23,Morning,8,-4,0,Absent
+15751,Invalid Foreign Key: Employee_ID,AT00015750,E00251,2025-10-26,Morning,8,8,0,Present
+15757,Negative Value: Worked_Hours,AT00015756,E00257,2025-11-01,Night,8,-4,0,Absent
+15858,Negative Value: Worked_Hours,AT00015857,E00358,2026-02-10,Night,8,-4,0,Absent
+15959,Negative Value: Worked_Hours,AT00015958,E00459,2026-05-22,Evening,8,-4,0,Absent
+16060,Negative Value: Worked_Hours,AT00016059,E00060,2026-08-31,Night,8,-4,0,Absent
+16161,Negative Value: Worked_Hours,AT00016160,E00161,2025-12-10,Evening,8,-4,0,Absent
+16251,Invalid Foreign Key: Employee_ID,AT00016250,E00251,2026-03-10,Night,8,8,0,Present
+16262,Negative Value: Worked_Hours,AT00016261,E00262,2026-03-21,Morning,8,-4,0,Absent
+16363,Negative Value: Worked_Hours,AT00016362,E00363,2026-06-30,Night,8,-4,0,Absent
+16464,Negative Value: Worked_Hours,AT00016463,E00464,2025-10-09,Night,8,-4,0,Absent
+16565,Negative Value: Worked_Hours,AT00016564,E00065,2026-01-18,Morning,8,-4,0,Absent
+16666,Negative Value: Worked_Hours,AT00016665,E00166,2026-04-29,Evening,8,-4,0,Absent
+16751,Invalid Foreign Key: Employee_ID,AT00016750,E00251,2026-07-23,Evening,8,8,0,Present
+16767,Negative Value: Worked_Hours,AT00016766,E00267,2026-08-08,Morning,8,-4,0,Absent
+16868,Negative Value: Worked_Hours,AT00016867,E00368,2025-11-17,Morning,8,-4,0,Absent
+16969,Negative Value: Worked_Hours,AT00016968,E00469,2026-02-26,Morning,8,-4,0,Absent
+17070,Negative Value: Worked_Hours,AT00017069,E00070,2026-06-07,Night,8,-4,0,Absent
+17171,Negative Value: Worked_Hours,AT00017170,E00171,2025-09-16,Evening,8,-4,0,Absent
+17251,Invalid Foreign Key: Employee_ID,AT00017250,E00251,2025-12-05,Morning,8,8,0,Present
+17272,Negative Value: Worked_Hours,AT00017271,E00272,2025-12-26,Evening,8,-4,0,Absent
+17373,Negative Value: Worked_Hours,AT00017372,E00373,2026-04-06,Morning,8,-4,0,Absent
+17474,Negative Value: Worked_Hours,AT00017473,E00474,2026-07-16,Morning,8,-4,0,Absent
+17575,Negative Value: Worked_Hours,AT00017574,E00075,2025-10-25,Night,8,-4,0,Absent
+17676,Negative Value: Worked_Hours,AT00017675,E00176,2026-02-03,Evening,8,-4,0,Absent
+17751,Invalid Foreign Key: Employee_ID,AT00017750,E00251,2026-04-19,Morning,8,8,0,Present
+17777,Negative Value: Worked_Hours,AT00017776,E00277,2026-05-15,Morning,8,-4,0,Absent
+17878,Negative Value: Worked_Hours,AT00017877,E00378,2026-08-24,Evening,8,-4,0,Absent
+17979,Negative Value: Worked_Hours,AT00017978,E00479,2025-12-03,Morning,8,-4,0,Absent
+18007,Invalid Foreign Key: Employee_ID,AT00018006,E99999,2025-12-31,Night,8,8,0,Present
+18080,Negative Value: Worked_Hours,AT00018079,E00080,2026-03-14,Night,8,-4,0,Absent
+18181,Negative Value: Worked_Hours,AT00018180,E00181,2026-06-23,Evening,8,-4,0,Absent
+18251,Invalid Foreign Key: Employee_ID,AT00018250,E00251,2025-09-01,Night,8,8,0,Present
+18282,Negative Value: Worked_Hours,AT00018281,E00282,2025-10-02,Morning,8,-4,0,Absent
+18383,Negative Value: Worked_Hours,AT00018382,E00383,2026-01-11,Evening,8,-4,0,Absent
+18484,Negative Value: Worked_Hours,AT00018483,E00484,2026-04-22,Evening,8,-4,0,Absent
+18585,Negative Value: Worked_Hours,AT00018584,E00085,2026-08-01,Night,8,-4,0,Absent
+18686,Negative Value: Worked_Hours,AT00018685,E00186,2025-11-10,Night,8,-4,0,Absent
+18751,Invalid Foreign Key: Employee_ID,AT00018750,E00251,2026-01-14,Morning,8,8,0,Present
+18787,Negative Value: Worked_Hours,AT00018786,E00287,2026-02-19,Night,8,-4,0,Absent
+18888,Negative Value: Worked_Hours,AT00018887,E00388,2026-05-31,Evening,8,-4,0,Absent
+18989,Negative Value: Worked_Hours,AT00018988,E00489,2025-09-09,Night,8,-4,0,Absent
+19090,Negative Value: Worked_Hours,AT00019089,E00090,2025-12-19,Morning,8,-4,0,Absent
+19191,Negative Value: Worked_Hours,AT00019190,E00191,2026-03-30,Morning,8,-4,0,Absent
+19251,Invalid Foreign Key: Employee_ID,AT00019250,E00251,2026-05-29,Morning,8,8,0,Present
+19292,Negative Value: Worked_Hours,AT00019291,E00292,2026-07-09,Night,8,-4,0,Absent
+19393,Negative Value: Worked_Hours,AT00019392,E00393,2025-10-18,Morning,8,-4,0,Absent
+19494,Negative Value: Worked_Hours,AT00019493,E00494,2026-01-27,Evening,8,-4,0,Absent
+19595,Negative Value: Worked_Hours,AT00019594,E00095,2026-05-08,Morning,8,-4,0,Absent
+19696,Negative Value: Worked_Hours,AT00019695,E00196,2026-08-17,Night,8,-4,0,Absent
+19751,Invalid Foreign Key: Employee_ID,AT00019750,E00251,2025-10-11,Evening,8,8,0,Present
+19797,Negative Value: Worked_Hours,AT00019796,E00297,2025-11-26,Morning,8,-4,0,Absent
+19898,Negative Value: Worked_Hours,AT00019897,E00398,2026-03-07,Evening,8,-4,0,Absent
+19999,Negative Value: Worked_Hours,AT00019998,E00499,2026-06-16,Night,8,-4,0,Absent
+20100,Negative Value: Worked_Hours,AT00020099,E00100,2025-09-25,Evening,8,-4,0,Absent
+20201,Negative Value: Worked_Hours,AT00020200,E00201,2026-01-04,Night,8,-4,0,Absent
+20251,Invalid Foreign Key: Employee_ID,AT00020250,E00251,2026-02-23,Morning,8,8,0,Present
+20302,Negative Value: Worked_Hours,AT00020301,E00302,2026-04-15,Evening,8,-4,0,Absent
+20403,Negative Value: Worked_Hours,AT00020402,E00403,2026-07-25,Night,8,-4,0,Absent
+20504,Negative Value: Worked_Hours,AT00020503,E00004,2025-11-03,Night,8,-4,0,Absent
+20605,Negative Value: Worked_Hours,AT00020604,E00105,2026-02-12,Evening,8,-4,0,Absent
+20706,Negative Value: Worked_Hours,AT00020705,E00206,2026-05-24,Morning,8,-4,0,Absent
+20751,Invalid Foreign Key: Employee_ID,AT00020750,E00251,2026-07-08,Evening,8,8,0,Present
+20807,Negative Value: Worked_Hours,AT00020806,E00307,2025-09-02,Night,8,-4,0,Absent
+20908,Negative Value: Worked_Hours,AT00020907,E00408,2025-12-12,Night,8,-4,0,Absent
+21008,Invalid Foreign Key: Employee_ID,AT00021007,E99999,2026-03-22,Night,8,9,1,Present
+21009,Negative Value: Worked_Hours,AT00021008,E00009,2026-03-23,Night,8,-4,0,Absent
+21110,Negative Value: Worked_Hours,AT00021109,E00110,2026-07-02,Evening,8,-4,0,Absent
+21211,Negative Value: Worked_Hours,AT00021210,E00211,2025-10-11,Morning,8,-4,0,Absent
+21251,Invalid Foreign Key: Employee_ID,AT00021250,E00251,2025-11-20,Morning,8,8,0,Present
+21312,Negative Value: Worked_Hours,AT00021311,E00312,2026-01-20,Morning,8,-4,0,Absent
+21413,Negative Value: Worked_Hours,AT00021412,E00413,2026-05-01,Morning,8,-4,0,Absent
+21514,Negative Value: Worked_Hours,AT00021513,E00014,2026-08-10,Night,8,-4,0,Absent
+21615,Negative Value: Worked_Hours,AT00021614,E00115,2025-11-19,Night,8,-4,0,Absent
+21716,Negative Value: Worked_Hours,AT00021715,E00216,2026-02-28,Night,8,-4,0,Absent
+21751,Invalid Foreign Key: Employee_ID,AT00021750,E00251,2026-04-04,Evening,8,8,0,Present
+21817,Negative Value: Worked_Hours,AT00021816,E00317,2026-06-09,Night,8,-4,0,Absent
+21918,Negative Value: Worked_Hours,AT00021917,E00418,2025-09-18,Evening,8,-4,0,Absent
+22019,Negative Value: Worked_Hours,AT00022018,E00019,2025-12-28,Morning,8,-4,0,Absent
+22120,Negative Value: Worked_Hours,AT00022119,E00120,2026-04-08,Morning,8,-4,0,Absent
+22221,Negative Value: Worked_Hours,AT00022220,E00221,2026-07-18,Night,8,-4,0,Absent
+22251,Invalid Foreign Key: Employee_ID,AT00022250,E00251,2026-08-17,Morning,8,8,0,Present
+22322,Negative Value: Worked_Hours,AT00022321,E00322,2025-10-27,Evening,8,-4,0,Absent
+22423,Negative Value: Worked_Hours,AT00022422,E00423,2026-02-05,Morning,8,-4,0,Absent
+22524,Negative Value: Worked_Hours,AT00022523,E00024,2026-05-17,Night,8,-4,0,Absent
+22625,Negative Value: Worked_Hours,AT00022624,E00125,2026-08-26,Morning,8,-4,0,Absent
+22726,Negative Value: Worked_Hours,AT00022725,E00226,2025-12-05,Night,8,-4,0,Absent
+22751,Invalid Foreign Key: Employee_ID,AT00022750,E00251,2025-12-30,Morning,8,8,0,Present
+22827,Negative Value: Worked_Hours,AT00022826,E00327,2026-03-16,Night,8,-4,0,Absent
+22928,Negative Value: Worked_Hours,AT00022927,E00428,2026-06-25,Night,8,-4,0,Absent
+23029,Negative Value: Worked_Hours,AT00023028,E00029,2025-10-04,Morning,8,-4,0,Absent
+23130,Negative Value: Worked_Hours,AT00023129,E00130,2026-01-13,Night,8,-4,0,Absent
+23231,Negative Value: Worked_Hours,AT00023230,E00231,2026-04-24,Morning,8,-4,0,Absent
+23251,Invalid Foreign Key: Employee_ID,AT00023250,E00251,2026-05-14,Night,8,8,0,Present
+23332,Negative Value: Worked_Hours,AT00023331,E00332,2026-08-03,Night,8,-4,0,Absent
+23433,Negative Value: Worked_Hours,AT00023432,E00433,2025-11-12,Evening,8,-4,0,Absent
+23534,Negative Value: Worked_Hours,AT00023533,E00034,2026-02-21,Night,8,-4,0,Absent
+23635,Negative Value: Worked_Hours,AT00023634,E00135,2026-06-02,Morning,8,-4,0,Absent
+23736,Negative Value: Worked_Hours,AT00023735,E00236,2025-09-11,Evening,8,-4,0,Absent
+23751,Invalid Foreign Key: Employee_ID,AT00023750,E00251,2025-09-26,Evening,8,8,0,Present
+23837,Negative Value: Worked_Hours,AT00023836,E00337,2025-12-21,Morning,8,-4,0,Absent
+23938,Negative Value: Worked_Hours,AT00023937,E00438,2026-04-01,Night,8,-4,0,Absent
+24009,Invalid Foreign Key: Employee_ID,AT00024008,E99999,2026-06-11,Evening,8,6,0,Present
+24039,Negative Value: Worked_Hours,AT00024038,E00039,2026-07-11,Night,8,-4,0,Absent
+24140,Negative Value: Worked_Hours,AT00024139,E00140,2025-10-20,Evening,8,-4,0,Absent
+24241,Negative Value: Worked_Hours,AT00024240,E00241,2026-01-29,Evening,8,-4,0,Absent
+24251,Invalid Foreign Key: Employee_ID,AT00024250,E00251,2026-02-08,Morning,8,8,0,Present
+24342,Negative Value: Worked_Hours,AT00024341,E00342,2026-05-10,Night,8,-4,0,Absent
+24443,Negative Value: Worked_Hours,AT00024442,E00443,2026-08-19,Night,8,-4,0,Absent
+24544,Negative Value: Worked_Hours,AT00024543,E00044,2025-11-28,Night,8,-4,0,Absent
+24645,Negative Value: Worked_Hours,AT00024644,E00145,2026-03-09,Night,8,-4,0,Absent
+24746,Negative Value: Worked_Hours,AT00024745,E00246,2026-06-18,Night,8,-4,0,Absent
+24751,Invalid Foreign Key: Employee_ID,AT00024750,E00251,2026-06-23,Evening,8,8,0,Present
+24847,Negative Value: Worked_Hours,AT00024846,E00347,2025-09-27,Night,8,-4,0,Absent
+24948,Negative Value: Worked_Hours,AT00024947,E00448,2026-01-06,Night,8,-4,0,Absent
+25049,Negative Value: Worked_Hours,AT00025048,E00049,2026-04-17,Night,8,-4,0,Absent
+25150,Negative Value: Worked_Hours,AT00025149,E00150,2026-07-27,Night,8,-4,0,Absent
+25251,Negative Value: Worked_Hours; Invalid Foreign Key: Employee_ID,AT00025250,E00251,2025-11-05,Evening,8,-4,0,Absent
+25352,Negative Value: Worked_Hours,AT00025351,E00352,2026-02-14,Night,8,-4,0,Absent
+25453,Negative Value: Worked_Hours,AT00025452,E00453,2026-05-26,Night,8,-4,0,Absent
+25554,Negative Value: Worked_Hours,AT00025553,E00054,2025-09-04,Evening,8,-4,0,Absent
+25655,Negative Value: Worked_Hours,AT00025654,E00155,2025-12-14,Evening,8,-4,0,Absent
+25751,Invalid Foreign Key: Employee_ID,AT00025750,E00251,2026-03-20,Night,8,8,0,Present
+25756,Negative Value: Worked_Hours,AT00025755,E00256,2026-03-25,Morning,8,-4,0,Absent
+25857,Negative Value: Worked_Hours,AT00025856,E00357,2026-07-04,Evening,8,-4,0,Absent
+25958,Negative Value: Worked_Hours,AT00025957,E00458,2025-10-13,Night,8,-4,0,Absent
+26059,Negative Value: Worked_Hours,AT00026058,E00059,2026-01-22,Evening,8,-4,0,Absent
+26160,Negative Value: Worked_Hours,AT00026159,E00160,2026-05-03,Evening,8,-4,0,Absent
+26251,Invalid Foreign Key: Employee_ID,AT00026250,E00251,2026-08-02,Night,8,8,0,Present
+26261,Negative Value: Worked_Hours,AT00026260,E00261,2026-08-12,Evening,8,-4,0,Absent
+26362,Negative Value: Worked_Hours,AT00026361,E00362,2025-11-21,Night,8,-4,0,Absent
+26463,Negative Value: Worked_Hours,AT00026462,E00463,2026-03-02,Morning,8,-4,0,Absent
+26564,Negative Value: Worked_Hours,AT00026563,E00064,2026-06-11,Night,8,-4,0,Absent
+26665,Negative Value: Worked_Hours,AT00026664,E00165,2025-09-20,Night,8,-4,0,Absent
+26751,Invalid Foreign Key: Employee_ID,AT00026750,E00251,2025-12-15,Night,8,8,0,Present
+26766,Negative Value: Worked_Hours,AT00026765,E00266,2025-12-30,Morning,8,-4,0,Absent
+26867,Negative Value: Worked_Hours,AT00026866,E00367,2026-04-10,Evening,8,-4,0,Absent
+26968,Negative Value: Worked_Hours,AT00026967,E00468,2026-07-20,Morning,8,-4,0,Absent
+27010,Invalid Foreign Key: Employee_ID,AT00027009,E99999,2026-08-31,Evening,8,7,0,Present
+27069,Negative Value: Worked_Hours,AT00027068,E00069,2025-10-29,Evening,8,-4,0,Absent
+27170,Negative Value: Worked_Hours,AT00027169,E00170,2026-02-07,Morning,8,-4,0,Absent
+27251,Invalid Foreign Key: Employee_ID,AT00027250,E00251,2026-04-29,Evening,8,8,0,Present
+27271,Negative Value: Worked_Hours,AT00027270,E00271,2026-05-19,Night,8,-4,0,Absent
+27372,Negative Value: Worked_Hours,AT00027371,E00372,2026-08-28,Morning,8,-4,0,Absent
+27473,Negative Value: Worked_Hours,AT00027472,E00473,2025-12-07,Evening,8,-4,0,Absent
+27574,Negative Value: Worked_Hours,AT00027573,E00074,2026-03-18,Morning,8,-4,0,Absent
+27675,Negative Value: Worked_Hours,AT00027674,E00175,2026-06-27,Morning,8,-4,0,Absent
+27751,Invalid Foreign Key: Employee_ID,AT00027750,E00251,2025-09-11,Morning,8,8,0,Present
+27776,Negative Value: Worked_Hours,AT00027775,E00276,2025-10-06,Evening,8,-4,0,Absent
+27877,Negative Value: Worked_Hours,AT00027876,E00377,2026-01-15,Evening,8,-4,0,Absent
+27978,Negative Value: Worked_Hours,AT00027977,E00478,2026-04-26,Morning,8,-4,0,Absent
+28079,Negative Value: Worked_Hours,AT00028078,E00079,2026-08-05,Night,8,-4,0,Absent
+28180,Negative Value: Worked_Hours,AT00028179,E00180,2025-11-14,Night,8,-4,0,Absent
+28251,Invalid Foreign Key: Employee_ID,AT00028250,E00251,2026-01-24,Night,8,8,0,Present
+28281,Negative Value: Worked_Hours,AT00028280,E00281,2026-02-23,Night,8,-4,0,Absent
+28382,Negative Value: Worked_Hours,AT00028381,E00382,2026-06-04,Morning,8,-4,0,Absent
+28483,Negative Value: Worked_Hours,AT00028482,E00483,2025-09-13,Evening,8,-4,0,Absent
+28584,Negative Value: Worked_Hours,AT00028583,E00084,2025-12-23,Night,8,-4,0,Absent
+28685,Negative Value: Worked_Hours,AT00028684,E00185,2026-04-03,Morning,8,-4,0,Absent
+28751,Invalid Foreign Key: Employee_ID,AT00028750,E00251,2026-06-08,Evening,8,8,0,Present
+28786,Negative Value: Worked_Hours,AT00028785,E00286,2026-07-13,Morning,8,-4,0,Absent
+28887,Negative Value: Worked_Hours,AT00028886,E00387,2025-10-22,Morning,8,-4,0,Absent
+28988,Negative Value: Worked_Hours,AT00028987,E00488,2026-01-31,Morning,8,-4,0,Absent
+29089,Negative Value: Worked_Hours,AT00029088,E00089,2026-05-12,Morning,8,-4,0,Absent
+29190,Negative Value: Worked_Hours,AT00029189,E00190,2026-08-21,Evening,8,-4,0,Absent
+29251,Invalid Foreign Key: Employee_ID,AT00029250,E00251,2025-10-21,Morning,8,8,0,Present
+29291,Negative Value: Worked_Hours,AT00029290,E00291,2025-11-30,Evening,8,-4,0,Absent
+29392,Negative Value: Worked_Hours,AT00029391,E00392,2026-03-11,Morning,8,-4,0,Absent
+29493,Negative Value: Worked_Hours,AT00029492,E00493,2026-06-20,Morning,8,-4,0,Absent
+29594,Negative Value: Worked_Hours,AT00029593,E00094,2025-09-29,Night,8,-4,0,Absent
+29695,Negative Value: Worked_Hours,AT00029694,E00195,2026-01-08,Evening,8,-4,0,Absent
+29751,Invalid Foreign Key: Employee_ID,AT00029750,E00251,2026-03-05,Morning,8,8,0,Present
+29796,Negative Value: Worked_Hours,AT00029795,E00296,2026-04-19,Evening,8,-4,0,Absent
+29897,Negative Value: Worked_Hours,AT00029896,E00397,2026-07-29,Morning,8,-4,0,Absent
+29998,Negative Value: Worked_Hours,AT00029997,E00498,2025-11-07,Night,8,-4,0,Absent
+30011,Invalid Foreign Key: Employee_ID,AT00030010,E99999,2025-11-20,Morning,8,8,0,Present
+30099,Negative Value: Worked_Hours,AT00030098,E00099,2026-02-16,Evening,8,-4,0,Absent
+30200,Negative Value: Worked_Hours,AT00030199,E00200,2026-05-28,Night,8,-4,0,Absent
+30251,Invalid Foreign Key: Employee_ID,AT00030250,E00251,2026-07-18,Morning,8,8,0,Present
+30301,Negative Value: Worked_Hours,AT00030300,E00301,2025-09-06,Evening,8,-4,0,Absent
+30402,Negative Value: Worked_Hours,AT00030401,E00402,2025-12-16,Evening,8,-4,0,Absent
+30503,Negative Value: Worked_Hours,AT00030502,E00003,2026-03-27,Night,8,-4,0,Absent
+30604,Negative Value: Worked_Hours,AT00030603,E00104,2026-07-06,Morning,8,-4,0,Absent
+30705,Negative Value: Worked_Hours,AT00030704,E00205,2025-10-15,Evening,8,-4,0,Absent
+30751,Invalid Foreign Key: Employee_ID,AT00030750,E00251,2025-11-30,Night,8,8,0,Present
+30806,Negative Value: Worked_Hours,AT00030805,E00306,2026-01-24,Evening,8,-4,0,Absent
+30907,Negative Value: Worked_Hours,AT00030906,E00407,2026-05-05,Morning,8,-4,0,Absent
+31008,Negative Value: Worked_Hours,AT00031007,E00008,2026-08-14,Night,8,-4,0,Absent
+31109,Negative Value: Worked_Hours,AT00031108,E00109,2025-11-23,Morning,8,-4,0,Absent
+31210,Negative Value: Worked_Hours,AT00031209,E00210,2026-03-04,Night,8,-4,0,Absent
+31251,Invalid Foreign Key: Employee_ID,AT00031250,E00251,2026-04-14,Evening,8,8,0,Present
+31311,Negative Value: Worked_Hours,AT00031310,E00311,2026-06-13,Evening,8,-4,0,Absent
+31412,Negative Value: Worked_Hours,AT00031411,E00412,2025-09-22,Morning,8,-4,0,Absent
+31513,Negative Value: Worked_Hours,AT00031512,E00013,2026-01-01,Morning,8,-4,0,Absent
+31614,Negative Value: Worked_Hours,AT00031613,E00114,2026-04-12,Evening,8,-4,0,Absent
+31715,Negative Value: Worked_Hours,AT00031714,E00215,2026-07-22,Evening,8,-4,0,Absent
+31751,Invalid Foreign Key: Employee_ID,AT00031750,E00251,2026-08-27,Morning,8,8,0,Present
+31816,Negative Value: Worked_Hours,AT00031815,E00316,2025-10-31,Night,8,-4,0,Absent
+31917,Negative Value: Worked_Hours,AT00031916,E00417,2026-02-09,Evening,8,-4,0,Absent
+32018,Negative Value: Worked_Hours,AT00032017,E00018,2026-05-21,Evening,8,-4,0,Absent
+32119,Negative Value: Worked_Hours,AT00032118,E00119,2026-08-30,Morning,8,-4,0,Absent
+32220,Negative Value: Worked_Hours,AT00032219,E00220,2025-12-09,Evening,8,-4,0,Absent
+32251,Invalid Foreign Key: Employee_ID,AT00032250,E00251,2026-01-09,Night,8,8,0,Present
+32321,Negative Value: Worked_Hours,AT00032320,E00321,2026-03-20,Night,8,-4,0,Absent
+32422,Negative Value: Worked_Hours,AT00032421,E00422,2026-06-29,Morning,8,-4,0,Absent
+32523,Negative Value: Worked_Hours,AT00032522,E00023,2025-10-08,Night,8,-4,0,Absent
+32624,Negative Value: Worked_Hours,AT00032623,E00124,2026-01-17,Morning,8,-4,0,Absent
+32725,Negative Value: Worked_Hours,AT00032724,E00225,2026-04-28,Night,8,-4,0,Absent
+32751,Invalid Foreign Key: Employee_ID,AT00032750,E00251,2026-05-24,Morning,8,8,0,Present
+32826,Negative Value: Worked_Hours,AT00032825,E00326,2026-08-07,Night,8,-4,0,Absent
+32927,Negative Value: Worked_Hours,AT00032926,E00427,2025-11-16,Morning,8,-4,0,Absent
+33012,Invalid Foreign Key: Employee_ID,AT00033011,E99999,2026-02-09,Night,8,9,1,Present
+33028,Negative Value: Worked_Hours,AT00033027,E00028,2026-02-25,Evening,8,-4,0,Absent
+33129,Negative Value: Worked_Hours,AT00033128,E00129,2026-06-06,Morning,8,-4,0,Absent
+33230,Negative Value: Worked_Hours,AT00033229,E00230,2025-09-15,Morning,8,-4,0,Absent
+33251,Invalid Foreign Key: Employee_ID,AT00033250,E00251,2025-10-06,Morning,8,8,0,Present
+33331,Negative Value: Worked_Hours,AT00033330,E00331,2025-12-25,Evening,8,-4,0,Absent
+33432,Negative Value: Worked_Hours,AT00033431,E00432,2026-04-05,Night,8,-4,0,Absent
+33533,Negative Value: Worked_Hours,AT00033532,E00033,2026-07-15,Morning,8,-4,0,Absent
+33634,Negative Value: Worked_Hours,AT00033633,E00134,2025-10-24,Morning,8,-4,0,Absent
+33735,Negative Value: Worked_Hours,AT00033734,E00235,2026-02-02,Evening,8,-4,0,Absent
+33751,Invalid Foreign Key: Employee_ID,AT00033750,E00251,2026-02-18,Morning,8,8,0,Present
+33836,Negative Value: Worked_Hours,AT00033835,E00336,2026-05-14,Morning,8,-4,0,Absent
+33937,Negative Value: Worked_Hours,AT00033936,E00437,2026-08-23,Evening,8,-4,0,Absent
+34038,Negative Value: Worked_Hours,AT00034037,E00038,2025-12-02,Evening,8,-4,0,Absent
+34139,Negative Value: Worked_Hours,AT00034138,E00139,2026-03-13,Night,8,-4,0,Absent
+34240,Negative Value: Worked_Hours,AT00034239,E00240,2026-06-22,Morning,8,-4,0,Absent
+34251,Invalid Foreign Key: Employee_ID,AT00034250,E00251,2026-07-03,Evening,8,8,0,Present
+34341,Negative Value: Worked_Hours,AT00034340,E00341,2025-10-01,Evening,8,-4,0,Absent
+34442,Negative Value: Worked_Hours,AT00034441,E00442,2026-01-10,Morning,8,-4,0,Absent
+34543,Negative Value: Worked_Hours,AT00034542,E00043,2026-04-21,Night,8,-4,0,Absent
+34644,Negative Value: Worked_Hours,AT00034643,E00144,2026-07-31,Morning,8,-4,0,Absent
+34745,Negative Value: Worked_Hours,AT00034744,E00245,2025-11-09,Morning,8,-4,0,Absent
+34751,Invalid Foreign Key: Employee_ID,AT00034750,E00251,2025-11-15,Night,8,8,0,Present
+34846,Negative Value: Worked_Hours,AT00034845,E00346,2026-02-18,Evening,8,-4,0,Absent
+34947,Negative Value: Worked_Hours,AT00034946,E00447,2026-05-30,Evening,8,-4,0,Absent
+35048,Negative Value: Worked_Hours,AT00035047,E00048,2025-09-08,Morning,8,-4,0,Absent
+35149,Negative Value: Worked_Hours,AT00035148,E00149,2025-12-18,Night,8,-4,0,Absent
+35250,Negative Value: Worked_Hours,AT00035249,E00250,2026-03-29,Evening,8,-4,0,Absent
+35251,Invalid Foreign Key: Employee_ID,AT00035250,E00251,2026-03-30,Morning,8,8,0,Present
+35351,Negative Value: Worked_Hours,AT00035350,E00351,2026-07-08,Evening,8,-4,0,Absent
+35452,Negative Value: Worked_Hours,AT00035451,E00452,2025-10-17,Morning,8,-4,0,Absent
+35553,Negative Value: Worked_Hours,AT00035552,E00053,2026-01-26,Morning,8,-4,0,Absent
+35654,Negative Value: Worked_Hours,AT00035653,E00154,2026-05-07,Evening,8,-4,0,Absent
+35751,Invalid Foreign Key: Employee_ID,AT00035750,E00251,2026-08-12,Evening,8,8,0,Present
+35755,Negative Value: Worked_Hours,AT00035754,E00255,2026-08-16,Night,8,-4,0,Absent
+35856,Negative Value: Worked_Hours,AT00035855,E00356,2025-11-25,Evening,8,-4,0,Absent
+35957,Negative Value: Worked_Hours,AT00035956,E00457,2026-03-06,Night,8,-4,0,Absent
+36013,Invalid Foreign Key: Employee_ID,AT00036012,E99999,2026-05-01,Night,8,6,0,Present
+36058,Negative Value: Worked_Hours,AT00036057,E00058,2026-06-15,Morning,8,-4,0,Absent
+36159,Negative Value: Worked_Hours,AT00036158,E00159,2025-09-24,Morning,8,-4,0,Absent
+36251,Invalid Foreign Key: Employee_ID,AT00036250,E00251,2025-12-25,Night,8,8,0,Present
+36260,Negative Value: Worked_Hours,AT00036259,E00260,2026-01-03,Morning,8,-4,0,Absent
+36361,Negative Value: Worked_Hours,AT00036360,E00361,2026-04-14,Morning,8,-4,0,Absent
+36462,Negative Value: Worked_Hours,AT00036461,E00462,2026-07-24,Morning,8,-4,0,Absent
+36563,Negative Value: Worked_Hours,AT00036562,E00063,2025-11-02,Night,8,-4,0,Absent
+36664,Negative Value: Worked_Hours,AT00036663,E00164,2026-02-11,Morning,8,-4,0,Absent
+36751,Invalid Foreign Key: Employee_ID,AT00036750,E00251,2026-05-09,Evening,8,8,0,Present
+36765,Negative Value: Worked_Hours,AT00036764,E00265,2026-05-23,Morning,8,-4,0,Absent
+36866,Negative Value: Worked_Hours,AT00036865,E00366,2025-09-01,Evening,8,-4,0,Absent
+36967,Negative Value: Worked_Hours,AT00036966,E00467,2025-12-11,Morning,8,-4,0,Absent
+37068,Negative Value: Worked_Hours,AT00037067,E00068,2026-03-22,Night,8,-4,0,Absent
+37169,Negative Value: Worked_Hours,AT00037168,E00169,2026-07-01,Night,8,-4,0,Absent
+37251,Invalid Foreign Key: Employee_ID,AT00037250,E00251,2025-09-21,Night,8,8,0,Present
+37270,Negative Value: Worked_Hours,AT00037269,E00270,2025-10-10,Evening,8,-4,0,Absent
+37371,Negative Value: Worked_Hours,AT00037370,E00371,2026-01-19,Evening,8,-4,0,Absent
+37472,Negative Value: Worked_Hours,AT00037471,E00472,2026-04-30,Evening,8,-4,0,Absent
+37573,Negative Value: Worked_Hours,AT00037572,E00073,2026-08-09,Night,8,-4,0,Absent
+37674,Negative Value: Worked_Hours,AT00037673,E00174,2025-11-18,Night,8,-4,0,Absent
+37751,Invalid Foreign Key: Employee_ID,AT00037750,E00251,2026-02-03,Night,8,8,0,Present
+37775,Negative Value: Worked_Hours,AT00037774,E00275,2026-02-27,Night,8,-4,0,Absent
+37876,Negative Value: Worked_Hours,AT00037875,E00376,2026-06-08,Night,8,-4,0,Absent
+37977,Negative Value: Worked_Hours,AT00037976,E00477,2025-09-17,Evening,8,-4,0,Absent
+38078,Negative Value: Worked_Hours,AT00038077,E00078,2025-12-27,Morning,8,-4,0,Absent
+38179,Negative Value: Worked_Hours,AT00038178,E00179,2026-04-07,Morning,8,-4,0,Absent
+38251,Invalid Foreign Key: Employee_ID,AT00038250,E00251,2026-06-18,Night,8,8,0,Present
+38280,Negative Value: Worked_Hours,AT00038279,E00280,2026-07-17,Night,8,-4,0,Absent
+38381,Negative Value: Worked_Hours,AT00038380,E00381,2025-10-26,Morning,8,-4,0,Absent
+38482,Negative Value: Worked_Hours,AT00038481,E00482,2026-02-04,Night,8,-4,0,Absent
+38583,Negative Value: Worked_Hours,AT00038582,E00083,2026-05-16,Night,8,-4,0,Absent
+38684,Negative Value: Worked_Hours,AT00038683,E00184,2026-08-25,Night,8,-4,0,Absent
+38751,Invalid Foreign Key: Employee_ID,AT00038750,E00251,2025-10-31,Night,8,8,0,Present
+38785,Negative Value: Worked_Hours,AT00038784,E00285,2025-12-04,Night,8,-4,0,Absent
+38886,Negative Value: Worked_Hours,AT00038885,E00386,2026-03-15,Night,8,-4,0,Absent
+38987,Negative Value: Worked_Hours,AT00038986,E00487,2026-06-24,Night,8,-4,0,Absent
+39014,Invalid Foreign Key: Employee_ID,AT00039013,E99999,2026-07-21,Morning,8,7,0,Present
+39088,Negative Value: Worked_Hours,AT00039087,E00088,2025-10-03,Evening,8,-4,0,Absent
+39189,Negative Value: Worked_Hours,AT00039188,E00189,2026-01-12,Morning,8,-4,0,Absent
+39251,Invalid Foreign Key: Employee_ID,AT00039250,E00251,2026-03-15,Evening,8,8,0,Present
+39290,Negative Value: Worked_Hours,AT00039289,E00290,2026-04-23,Evening,8,-4,0,Absent
+39391,Negative Value: Worked_Hours,AT00039390,E00391,2026-08-02,Night,8,-4,0,Absent
+39492,Negative Value: Worked_Hours,AT00039491,E00492,2025-11-11,Morning,8,-4,0,Absent
+39593,Negative Value: Worked_Hours,AT00039592,E00093,2026-02-20,Evening,8,-4,0,Absent
+39694,Negative Value: Worked_Hours,AT00039693,E00194,2026-06-01,Morning,8,-4,0,Absent
+39751,Invalid Foreign Key: Employee_ID,AT00039750,E00251,2026-07-28,Morning,8,8,0,Present
+39795,Negative Value: Worked_Hours,AT00039794,E00295,2025-09-10,Night,8,-4,0,Absent
+39896,Negative Value: Worked_Hours,AT00039895,E00396,2025-12-20,Night,8,-4,0,Absent
+39997,Negative Value: Worked_Hours,AT00039996,E00497,2026-03-31,Night,8,-4,0,Absent
+40098,Negative Value: Worked_Hours,AT00040097,E00098,2026-07-10,Evening,8,-4,0,Absent
+40199,Negative Value: Worked_Hours,AT00040198,E00199,2025-10-19,Morning,8,-4,0,Absent
+40251,Invalid Foreign Key: Employee_ID,AT00040250,E00251,2025-12-10,Night,8,8,0,Present
+40300,Negative Value: Worked_Hours,AT00040299,E00300,2026-01-28,Morning,8,-4,0,Absent
+40401,Negative Value: Worked_Hours,AT00040400,E00401,2026-05-09,Evening,8,-4,0,Absent
+40502,Negative Value: Worked_Hours,AT00040501,E00002,2026-08-18,Evening,8,-4,0,Absent
+40603,Negative Value: Worked_Hours,AT00040602,E00103,2025-11-27,Evening,8,-4,0,Absent
+40704,Negative Value: Worked_Hours,AT00040703,E00204,2026-03-08,Night,8,-4,0,Absent
+40751,Invalid Foreign Key: Employee_ID,AT00040750,E00251,2026-04-24,Morning,8,8,0,Present
+40805,Negative Value: Worked_Hours,AT00040804,E00305,2026-06-17,Night,8,-4,0,Absent
+40906,Negative Value: Worked_Hours,AT00040905,E00406,2025-09-26,Morning,8,-4,0,Absent
+41007,Negative Value: Worked_Hours,AT00041006,E00007,2026-01-05,Evening,8,-4,0,Absent
+41108,Negative Value: Worked_Hours,AT00041107,E00108,2026-04-16,Night,8,-4,0,Absent
+41209,Negative Value: Worked_Hours,AT00041208,E00209,2026-07-26,Morning,8,-4,0,Absent
+41251,Invalid Foreign Key: Employee_ID,AT00041250,E00251,2025-09-06,Morning,8,8,0,Present
+41310,Negative Value: Worked_Hours,AT00041309,E00310,2025-11-04,Night,8,-4,0,Absent
+41411,Negative Value: Worked_Hours,AT00041410,E00411,2026-02-13,Morning,8,-4,0,Absent
+41512,Negative Value: Worked_Hours,AT00041511,E00012,2026-05-25,Evening,8,-4,0,Absent
+41613,Negative Value: Worked_Hours,AT00041612,E00113,2025-09-03,Evening,8,-4,0,Absent
+41714,Negative Value: Worked_Hours,AT00041713,E00214,2025-12-13,Evening,8,-4,0,Absent
+41751,Invalid Foreign Key: Employee_ID,AT00041750,E00251,2026-01-19,Evening,8,8,0,Present
+41815,Negative Value: Worked_Hours,AT00041814,E00315,2026-03-24,Evening,8,-4,0,Absent
+41916,Negative Value: Worked_Hours,AT00041915,E00416,2026-07-03,Night,8,-4,0,Absent
+42015,Invalid Foreign Key: Employee_ID,AT00042014,E99999,2025-10-10,Morning,8,8,0,Present
+42017,Negative Value: Worked_Hours,AT00042016,E00017,2025-10-12,Night,8,-4,0,Absent
+42118,Negative Value: Worked_Hours,AT00042117,E00118,2026-01-21,Night,8,-4,0,Absent
+42219,Negative Value: Worked_Hours,AT00042218,E00219,2026-05-02,Night,8,-4,0,Absent
+42251,Invalid Foreign Key: Employee_ID,AT00042250,E00251,2026-06-03,Morning,8,8,0,Present
+42320,Negative Value: Worked_Hours,AT00042319,E00320,2026-08-11,Night,8,-4,0,Absent
+42421,Negative Value: Worked_Hours,AT00042420,E00421,2025-11-20,Evening,8,-4,0,Absent
+42522,Negative Value: Worked_Hours,AT00042521,E00022,2026-03-01,Morning,8,-4,0,Absent
+42623,Negative Value: Worked_Hours,AT00042622,E00123,2026-06-10,Morning,8,-4,0,Absent
+42724,Negative Value: Worked_Hours,AT00042723,E00224,2025-09-19,Evening,8,-4,0,Absent
+42751,Invalid Foreign Key: Employee_ID,AT00042750,E00251,2025-10-16,Night,8,8,0,Present
+42825,Negative Value: Worked_Hours,AT00042824,E00325,2025-12-29,Evening,8,-4,0,Absent
+42926,Negative Value: Worked_Hours,AT00042925,E00426,2026-04-09,Night,8,-4,0,Absent
+43027,Negative Value: Worked_Hours,AT00043026,E00027,2026-07-19,Evening,8,-4,0,Absent
+43128,Negative Value: Worked_Hours,AT00043127,E00128,2025-10-28,Morning,8,-4,0,Absent
+43229,Negative Value: Worked_Hours,AT00043228,E00229,2026-02-06,Night,8,-4,0,Absent
+43251,Invalid Foreign Key: Employee_ID,AT00043250,E00251,2026-02-28,Morning,8,8,0,Present
+43330,Negative Value: Worked_Hours,AT00043329,E00330,2026-05-18,Evening,8,-4,0,Absent
+43431,Negative Value: Worked_Hours,AT00043430,E00431,2026-08-27,Night,8,-4,0,Absent
+43532,Negative Value: Worked_Hours,AT00043531,E00032,2025-12-06,Morning,8,-4,0,Absent
+43633,Negative Value: Worked_Hours,AT00043632,E00133,2026-03-17,Night,8,-4,0,Absent
+43734,Negative Value: Worked_Hours,AT00043733,E00234,2026-06-26,Night,8,-4,0,Absent
+43751,Invalid Foreign Key: Employee_ID,AT00043750,E00251,2026-07-13,Evening,8,8,0,Present
+43835,Negative Value: Worked_Hours,AT00043834,E00335,2025-10-05,Night,8,-4,0,Absent
+43936,Negative Value: Worked_Hours,AT00043935,E00436,2026-01-14,Night,8,-4,0,Absent
+44037,Negative Value: Worked_Hours,AT00044036,E00037,2026-04-25,Evening,8,-4,0,Absent
+44138,Negative Value: Worked_Hours,AT00044137,E00138,2026-08-04,Evening,8,-4,0,Absent
+44239,Negative Value: Worked_Hours,AT00044238,E00239,2025-11-13,Night,8,-4,0,Absent
+44251,Invalid Foreign Key: Employee_ID,AT00044250,E00251,2025-11-25,Evening,8,8,0,Present
+44340,Negative Value: Worked_Hours,AT00044339,E00340,2026-02-22,Evening,8,-4,0,Absent
+44441,Negative Value: Worked_Hours,AT00044440,E00441,2026-06-03,Night,8,-4,0,Absent
+44542,Negative Value: Worked_Hours,AT00044541,E00042,2025-09-12,Night,8,-4,0,Absent
+44643,Negative Value: Worked_Hours,AT00044642,E00143,2025-12-22,Evening,8,-4,0,Absent
+44744,Negative Value: Worked_Hours,AT00044743,E00244,2026-04-02,Morning,8,-4,0,Absent
+44751,Invalid Foreign Key: Employee_ID,AT00044750,E00251,2026-04-09,Morning,8,8,0,Present
+44845,Negative Value: Worked_Hours,AT00044844,E00345,2026-07-12,Evening,8,-4,0,Absent
+44946,Negative Value: Worked_Hours,AT00044945,E00446,2025-10-21,Evening,8,-4,0,Absent
+45016,Invalid Foreign Key: Employee_ID,AT00045015,E99999,2025-12-30,Night,8,9,1,Present
+45047,Negative Value: Worked_Hours,AT00045046,E00047,2026-01-30,Morning,8,-4,0,Absent
+45148,Negative Value: Worked_Hours,AT00045147,E00148,2026-05-11,Evening,8,-4,0,Absent
+45249,Negative Value: Worked_Hours,AT00045248,E00249,2026-08-20,Evening,8,-4,0,Absent
+45251,Invalid Foreign Key: Employee_ID,AT00045250,E00251,2026-08-22,Morning,8,8,0,Present
+45350,Negative Value: Worked_Hours,AT00045349,E00350,2025-11-29,Evening,8,-4,0,Absent
+45451,Negative Value: Worked_Hours,AT00045450,E00451,2026-03-10,Morning,8,-4,0,Absent
+45552,Negative Value: Worked_Hours,AT00045551,E00052,2026-06-19,Evening,8,-4,0,Absent
+45653,Negative Value: Worked_Hours,AT00045652,E00153,2025-09-28,Evening,8,-4,0,Absent
+45751,Invalid Foreign Key: Employee_ID,AT00045750,E00251,2026-01-04,Night,8,8,0,Present
+45754,Negative Value: Worked_Hours,AT00045753,E00254,2026-01-07,Evening,8,-4,0,Absent
+45855,Negative Value: Worked_Hours,AT00045854,E00355,2026-04-18,Evening,8,-4,0,Absent
+45956,Negative Value: Worked_Hours,AT00045955,E00456,2026-07-28,Evening,8,-4,0,Absent
+46057,Negative Value: Worked_Hours,AT00046056,E00057,2025-11-06,Morning,8,-4,0,Absent
+46158,Negative Value: Worked_Hours,AT00046157,E00158,2026-02-15,Night,8,-4,0,Absent
+46251,Invalid Foreign Key: Employee_ID,AT00046250,E00251,2026-05-19,Morning,8,8,0,Present
+46259,Negative Value: Worked_Hours,AT00046258,E00259,2026-05-27,Morning,8,-4,0,Absent
+46360,Negative Value: Worked_Hours,AT00046359,E00360,2025-09-05,Night,8,-4,0,Absent
+46461,Negative Value: Worked_Hours,AT00046460,E00461,2025-12-15,Night,8,-4,0,Absent
+46562,Negative Value: Worked_Hours,AT00046561,E00062,2026-03-26,Morning,8,-4,0,Absent
+46663,Negative Value: Worked_Hours,AT00046662,E00163,2026-07-05,Evening,8,-4,0,Absent
+46751,Invalid Foreign Key: Employee_ID,AT00046750,E00251,2025-10-01,Night,8,8,0,Present
+46764,Negative Value: Worked_Hours,AT00046763,E00264,2025-10-14,Morning,8,-4,0,Absent
+46865,Negative Value: Worked_Hours,AT00046864,E00365,2026-01-23,Night,8,-4,0,Absent
+46966,Negative Value: Worked_Hours,AT00046965,E00466,2026-05-04,Morning,8,-4,0,Absent
+47067,Negative Value: Worked_Hours,AT00047066,E00067,2026-08-13,Evening,8,-4,0,Absent
+47168,Negative Value: Worked_Hours,AT00047167,E00168,2025-11-22,Evening,8,-4,0,Absent
+47251,Invalid Foreign Key: Employee_ID,AT00047250,E00251,2026-02-13,Night,8,8,0,Present
+47269,Negative Value: Worked_Hours,AT00047268,E00269,2026-03-03,Night,8,-4,0,Absent
+47370,Negative Value: Worked_Hours,AT00047369,E00370,2026-06-12,Morning,8,-4,0,Absent
+47471,Negative Value: Worked_Hours,AT00047470,E00471,2025-09-21,Night,8,-4,0,Absent
+47572,Negative Value: Worked_Hours,AT00047571,E00072,2025-12-31,Evening,8,-4,0,Absent
+47673,Negative Value: Worked_Hours,AT00047672,E00173,2026-04-11,Morning,8,-4,0,Absent
+47751,Invalid Foreign Key: Employee_ID,AT00047750,E00251,2026-06-28,Morning,8,8,0,Present
+47774,Negative Value: Worked_Hours,AT00047773,E00274,2026-07-21,Night,8,-4,0,Absent
+47875,Negative Value: Worked_Hours,AT00047874,E00375,2025-10-30,Night,8,-4,0,Absent
+47976,Negative Value: Worked_Hours,AT00047975,E00476,2026-02-08,Night,8,-4,0,Absent
+48017,Invalid Foreign Key: Employee_ID,AT00048016,E99999,2026-03-21,Morning,8,6,0,Present
+48077,Negative Value: Worked_Hours,AT00048076,E00077,2026-05-20,Night,8,-4,0,Absent
+48178,Negative Value: Worked_Hours,AT00048177,E00178,2026-08-29,Evening,8,-4,0,Absent
+48251,Invalid Foreign Key: Employee_ID,AT00048250,E00251,2025-11-10,Morning,8,8,0,Present
+48279,Negative Value: Worked_Hours,AT00048278,E00279,2025-12-08,Night,8,-4,0,Absent
+48380,Negative Value: Worked_Hours,AT00048379,E00380,2026-03-19,Evening,8,-4,0,Absent
+48481,Negative Value: Worked_Hours,AT00048480,E00481,2026-06-28,Morning,8,-4,0,Absent
+48582,Negative Value: Worked_Hours,AT00048581,E00082,2025-10-07,Evening,8,-4,0,Absent
+48683,Negative Value: Worked_Hours,AT00048682,E00183,2026-01-16,Evening,8,-4,0,Absent
+48751,Invalid Foreign Key: Employee_ID,AT00048750,E00251,2026-03-25,Morning,8,8,0,Present
+48784,Negative Value: Worked_Hours,AT00048783,E00284,2026-04-27,Evening,8,-4,0,Absent
+48885,Negative Value: Worked_Hours,AT00048884,E00385,2026-08-06,Morning,8,-4,0,Absent
+48986,Negative Value: Worked_Hours,AT00048985,E00486,2025-11-15,Evening,8,-4,0,Absent
+49087,Negative Value: Worked_Hours,AT00049086,E00087,2026-02-24,Morning,8,-4,0,Absent
+49188,Negative Value: Worked_Hours,AT00049187,E00188,2026-06-05,Night,8,-4,0,Absent
+49251,Invalid Foreign Key: Employee_ID,AT00049250,E00251,2026-08-07,Evening,8,8,0,Present
+49289,Negative Value: Worked_Hours,AT00049288,E00289,2025-09-14,Morning,8,-4,0,Absent
+49390,Negative Value: Worked_Hours,AT00049389,E00390,2025-12-24,Morning,8,-4,0,Absent
+49491,Negative Value: Worked_Hours,AT00049490,E00491,2026-04-04,Morning,8,-4,0,Absent
+49592,Negative Value: Worked_Hours,AT00049591,E00092,2026-07-14,Night,8,-4,0,Absent
+49693,Negative Value: Worked_Hours,AT00049692,E00193,2025-10-23,Night,8,-4,0,Absent
+49751,Invalid Foreign Key: Employee_ID,AT00049750,E00251,2025-12-20,Night,8,8,0,Present
+49794,Negative Value: Worked_Hours,AT00049793,E00294,2026-02-01,Morning,8,-4,0,Absent
+49895,Negative Value: Worked_Hours,AT00049894,E00395,2026-05-13,Evening,8,-4,0,Absent
+49996,Negative Value: Worked_Hours,AT00049995,E00496,2026-08-22,Evening,8,-4,0,Absent

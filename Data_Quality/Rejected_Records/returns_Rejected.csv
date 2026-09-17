@@ -1,0 +1,230 @@
+Source_Row,Reject_Reasons,Return_ID,Order_ID,Order_Item_ID,Customer_ID,Product_ID,Return_Date,Return_Quantity,Refund_Amount,Reason,Status
+125,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0000124,O0001613,OI00001613,C001614,P00614,2026-06-05,1,201.42665347257773,Damaged,Rejected
+174,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0000173,O0002250,OI00002250,C002251,P00251,2026-04-22,1,671.4221782419257,Wrong item,Rejected
+243,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0000242,O0003147,OI00003147,C003148,P00148,2025-12-14,1,633.314432990357,Quality issue,Refunded
+264,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0000263,O0003420,OI00003420,C003421,P00421,2025-10-04,1,290.3447257262381,Wrong item,Refunded
+270,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0000269,O0003498,OI00003498,C003499,P00499,2025-12-27,1,1281.1461022670258,Late delivery,Refunded
+276,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0000275,O0003576,OI00003576,C003577,P00577,2026-03-21,1,1001.6893037555216,Late delivery,Refunded
+411,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0000410,O0005331,OI00005331,C005332,P00332,2026-05-25,1,430.0731249819903,Late delivery,Rejected
+461,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0000460,O0005981,OI00005981,C005982,P00982,2026-04-25,1,1065.2022125081362,Quality issue,Refunded
+486,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0000485,O0006306,OI00006306,C006307,P00307,2026-04-10,1,112.50858121891729,Quality issue,Refunded
+674,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0000673,O0008750,OI00008750,C008751,P00751,2026-06-26,1,671.4221782419257,Quality issue,Rejected
+681,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0000680,O0008841,OI00008841,C008842,P00842,2025-10-02,1,557.0989424872195,Changed mind,Refunded
+693,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0000692,O0008997,OI00008997,C008998,P00998,2026-03-19,1,1268.443520516503,Changed mind,Rejected
+764,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0000763,O0009920,OI00009920,C009921,P00921,2025-12-08,1,290.3447257262381,Changed mind,Pending
+1030,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0001029,O0013378,OI00013378,C013379,P00379,2026-02-20,1,1027.0944672565674,Changed mind,Rejected
+1078,Invalid Foreign Key: Order_Item_ID,RT0001077,O0014002,OI00014002,C014003,P00003,2025-12-24,1,61.69825421682561,Quality issue,Rejected
+1125,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0001124,O0014613,OI00014613,C014614,P00614,2025-10-13,1,201.42665347257773,Damaged,Refunded
+1174,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0001173,O0015250,OI00015250,C015251,P00251,2026-08-30,1,671.4221782419257,Wrong item,Rejected
+1232,Invalid Foreign Key: Order_Item_ID,RT0001231,O0016004,OI00016004,C016005,P00005,2025-11-20,1,87.10341771787145,Quality issue,Refunded
+1264,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0001263,O0016420,OI00016420,C016421,P00421,2026-02-11,1,290.3447257262381,Damaged,Refunded
+1270,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0001269,O0016498,OI00016498,C016499,P00499,2026-05-06,1,1281.1461022670258,Damaged,Rejected
+1276,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0001275,O0016576,OI00016576,C016577,P00577,2026-07-29,1,1001.6893037555216,Late delivery,Rejected
+1458,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0001457,O0018942,OI00018942,C018943,P00943,2026-07-22,1,569.8015242377423,Changed mind,Rejected
+1486,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0001485,O0019306,OI00019306,C019307,P00307,2026-08-18,1,112.50858121891729,Quality issue,Rejected
+1616,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0001615,O0020996,OI00020996,C000997,P00997,2026-08-13,1,1255.74093876598,Damaged,Rejected
+1674,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0001673,O0021750,OI00021750,C001751,P00751,2025-11-03,1,671.4221782419257,Damaged,Rejected
+1681,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0001680,O0021841,OI00021841,C001842,P00842,2026-02-09,1,557.0989424872195,Late delivery,Refunded
+1693,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0001692,O0021997,OI00021997,C001998,P00998,2026-07-27,1,1268.443520516503,Damaged,Rejected
+1694,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0001693,O0022010,OI00022010,C002011,P00011,2026-08-10,1,163.31890822100897,Changed mind,Rejected
+1764,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0001763,O0022920,OI00022920,C002921,P00921,2026-04-17,1,290.3447257262381,Late delivery,Refunded
+1842,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0001841,O0023934,OI00023934,C003935,P00935,2026-04-14,1,468.180870233559,Late delivery,Pending
+1972,Invalid Foreign Key: Order_Item_ID,RT0001971,O0025624,OI00025624,C005625,P00625,2026-04-09,1,341.15505272832985,Late delivery,Pending
+2125,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0002124,O0027613,OI00027613,C007614,P00614,2026-02-20,1,201.42665347257773,Quality issue,Rejected
+2174,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0002173,O0028250,OI00028250,C008251,P00251,2026-01-07,1,671.4221782419257,Late delivery,Rejected
+2188,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0002187,O0028432,OI00028432,C008433,P00433,2026-07-22,1,442.7757067325132,Damaged,Refunded
+2264,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0002263,O0029420,OI00029420,C009421,P00421,2026-06-21,1,290.3447257262381,Quality issue,Refunded
+2270,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0002269,O0029498,OI00029498,C009499,P00499,2025-09-13,1,1281.1461022670258,Changed mind,Refunded
+2276,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0002275,O0029576,OI00029576,C009577,P00577,2025-12-06,1,1001.6893037555216,Late delivery,Refunded
+2307,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0002306,O0029979,OI00029979,C009980,P00980,2026-02-13,1,1039.7970490070904,Late delivery,Rejected
+2310,Invalid Foreign Key: Order_Item_ID,RT0002309,O0030018,OI00030018,C010019,P00019,2026-03-27,1,264.93956222519233,Late delivery,Rejected
+2486,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0002485,O0032306,OI00032306,C012307,P00307,2025-12-26,1,112.50858121891729,Changed mind,Rejected
+2502,Future Date: Return_Date,RT0002501,O0032514,OI00032514,C012515,P00515,2027-05-01,1,214.12923522310064,Wrong item,Pending
+2613,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0002612,O0033957,OI00033957,C013958,P00958,2025-11-09,1,760.3402504955861,Late delivery,Rejected
+2629,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0002628,O0034165,OI00034165,C014166,P00166,2026-06-21,1,861.9609044997695,Quality issue,Rejected
+2674,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0002673,O0034750,OI00034750,C014751,P00751,2026-03-13,1,671.4221782419257,Late delivery,Refunded
+2681,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0002680,O0034841,OI00034841,C014842,P00842,2026-06-19,1,557.0989424872195,Wrong item,Rejected
+2693,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0002692,O0034997,OI00034997,C014998,P00998,2025-12-04,1,1268.443520516503,Wrong item,Rejected
+2764,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0002763,O0035920,OI00035920,C015921,P00921,2026-08-25,1,290.3447257262381,Damaged,Pending
+3002,Duplicate Primary Key,RT0003000,O0039014,OI00039014,C019015,P00015,2025-10-11,1,214.12923522310064,Wrong item,Refunded
+3080,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0003079,O0040028,OI00040028,C000029,P00029,2025-10-08,1,391.9653797304215,Changed mind,Refunded
+3125,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0003124,O0040613,OI00040613,C000614,P00614,2026-06-30,1,201.42665347257773,Damaged,Pending
+3174,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0003173,O0041250,OI00041250,C001251,P00251,2026-05-17,1,671.4221782419257,Changed mind,Refunded
+3264,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0003263,O0042420,OI00042420,C002421,P00421,2025-10-29,1,290.3447257262381,Late delivery,Pending
+3270,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0003269,O0042498,OI00042498,C002499,P00499,2026-01-21,1,1281.1461022670258,Damaged,Rejected
+3276,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0003275,O0042576,OI00042576,C002577,P00577,2026-04-15,1,1001.6893037555216,Wrong item,Rejected
+3441,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0003440,O0044721,OI00044721,C004722,P00722,2026-08-13,1,303.0473074767611,Late delivery,Rejected
+3486,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0003485,O0045306,OI00045306,C005307,P00307,2026-05-05,1,112.50858121891729,Wrong item,Refunded
+3674,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0003673,O0047750,OI00047750,C007751,P00751,2026-07-21,1,671.4221782419257,Quality issue,Pending
+3681,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0003680,O0047841,OI00047841,C007842,P00842,2025-10-27,1,557.0989424872195,Wrong item,Refunded
+3693,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0003692,O0047997,OI00047997,C007998,P00998,2026-04-13,1,1268.443520516503,Damaged,Refunded
+3764,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0003763,O0048920,OI00048920,C008921,P00921,2026-01-02,1,290.3447257262381,Damaged,Refunded
+3768,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0003767,O0048972,OI00048972,C008973,P00973,2026-02-27,1,950.87897675343,Damaged,Refunded
+3895,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0003894,O0050623,OI00050623,C010624,P00624,2026-01-11,1,328.4524709778069,Quality issue,Rejected
+3965,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0003964,O0051533,OI00051533,C011534,P00534,2025-09-18,1,455.4782884830361,Wrong item,Rejected
+4125,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0004124,O0053613,OI00053613,C013614,P00614,2025-11-07,1,201.42665347257773,Quality issue,Pending
+4174,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0004173,O0054250,OI00054250,C014251,P00251,2025-09-24,1,671.4221782419257,Late delivery,Refunded
+4228,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0004227,O0054952,OI00054952,C014953,P00953,2025-10-20,1,696.8273417429716,Damaged,Rejected
+4264,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0004263,O0055420,OI00055420,C015421,P00421,2026-03-08,1,290.3447257262381,Changed mind,Refunded
+4270,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0004269,O0055498,OI00055498,C015499,P00499,2026-05-31,1,1281.1461022670258,Late delivery,Pending
+4276,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0004275,O0055576,OI00055576,C015577,P00577,2026-08-23,1,1001.6893037555216,Quality issue,Pending
+4486,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0004485,O0058306,OI00058306,C018307,P00307,2025-09-12,1,112.50858121891729,Quality issue,Rejected
+4674,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0004673,O0060750,OI00060750,C000751,P00751,2025-11-28,1,671.4221782419257,Late delivery,Pending
+4681,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0004680,O0060841,OI00060841,C000842,P00842,2026-03-06,1,557.0989424872195,Wrong item,Pending
+4693,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0004692,O0060997,OI00060997,C000998,P00998,2026-08-21,1,1268.443520516503,Damaged,Rejected
+4764,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0004763,O0061920,OI00061920,C001921,P00921,2026-05-12,1,290.3447257262381,Late delivery,Rejected
+4923,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0004922,O0063987,OI00063987,C003988,P00988,2026-06-17,1,1141.4177030112735,Quality issue,Refunded
+5003,Future Date: Return_Date,RT0005002,O0065027,OI00065027,C005028,P00028,2027-05-01,1,379.2627979798986,Wrong item,Pending
+5040,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0005039,O0065508,OI00065508,C005509,P00509,2025-12-12,1,137.91374471996312,Wrong item,Pending
+5125,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0005124,O0066613,OI00066613,C006614,P00614,2026-03-17,1,201.42665347257773,Wrong item,Refunded
+5174,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0005173,O0067250,OI00067250,C007251,P00251,2026-02-01,1,671.4221782419257,Quality issue,Refunded
+5175,Invalid Foreign Key: Order_Item_ID,RT0005174,O0067263,OI00067263,C007264,P00264,2026-02-15,1,836.5557409987236,Quality issue,Rejected
+5233,Invalid Foreign Key: Order_Item_ID,RT0005232,O0068017,OI00068017,C008018,P00018,2026-05-08,1,252.2369804746694,Wrong item,Rejected
+5264,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0005263,O0068420,OI00068420,C008421,P00421,2026-07-16,1,290.3447257262381,Wrong item,Pending
+5270,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0005269,O0068498,OI00068498,C008499,P00499,2025-10-08,1,1281.1461022670258,Quality issue,Refunded
+5276,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0005275,O0068576,OI00068576,C008577,P00577,2025-12-31,1,1001.6893037555216,Quality issue,Refunded
+5486,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0005485,O0071306,OI00071306,C011307,P00307,2026-01-20,1,112.50858121891729,Wrong item,Refunded
+5638,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0005637,O0073282,OI00073282,C013283,P00283,2025-11-19,1,1077.9047942586592,Wrong item,Rejected
+5674,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0005673,O0073750,OI00073750,C013751,P00751,2026-04-07,1,671.4221782419257,Late delivery,Refunded
+5681,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0005680,O0073841,OI00073841,C013842,P00842,2026-07-14,1,557.0989424872195,Late delivery,Rejected
+5693,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0005692,O0073997,OI00073997,C013998,P00998,2025-12-29,1,1268.443520516503,Damaged,Rejected
+5742,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0005741,O0074634,OI00074634,C014635,P00635,2025-11-15,1,468.180870233559,Quality issue,Rejected
+5764,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0005763,O0074920,OI00074920,C014921,P00921,2025-09-19,1,290.3447257262381,Wrong item,Rejected
+5827,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0005826,O0075739,OI00075739,C015740,P00740,2026-02-18,1,531.6937789861736,Damaged,Pending
+5920,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0005919,O0076948,OI00076948,C016949,P00949,2025-09-13,1,646.0170147408799,Damaged,Refunded
+6003,Duplicate Primary Key,RT0006001,O0078027,OI00078027,C018028,P00028,2025-11-19,1,379.2627979798986,Quality issue,Pending
+6096,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0006095,O0079236,OI00079236,C019237,P00237,2026-06-14,1,493.5860337346049,Quality issue,Rejected
+6125,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0006124,O0079613,OI00079613,C019614,P00614,2026-07-25,1,201.42665347257773,Damaged,Rejected
+6174,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0006173,O0080250,OI00080250,C000251,P00251,2026-06-11,1,671.4221782419257,Quality issue,Pending
+6264,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0006263,O0081420,OI00081420,C001421,P00421,2025-11-23,1,290.3447257262381,Wrong item,Rejected
+6270,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0006269,O0081498,OI00081498,C001499,P00499,2026-02-15,1,1281.1461022670258,Late delivery,Refunded
+6276,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0006275,O0081576,OI00081576,C001577,P00577,2026-05-10,1,1001.6893037555216,Quality issue,Pending
+6486,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0006485,O0084306,OI00084306,C004307,P00307,2026-05-30,1,112.50858121891729,Wrong item,Refunded
+6639,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0006638,O0086295,OI00086295,C006296,P00296,2026-04-12,1,1243.038357015457,Changed mind,Refunded
+6674,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0006673,O0086750,OI00086750,C006751,P00751,2026-08-15,1,671.4221782419257,Quality issue,Rejected
+6681,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0006680,O0086841,OI00086841,C006842,P00842,2025-11-21,1,557.0989424872195,Wrong item,Refunded
+6693,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0006692,O0086997,OI00086997,C006998,P00998,2026-05-08,1,1268.443520516503,Wrong item,Refunded
+6764,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0006763,O0087920,OI00087920,C007921,P00921,2026-01-27,1,290.3447257262381,Quality issue,Pending
+7075,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0007074,O0091963,OI00091963,C011964,P00964,2026-01-01,1,836.5557409987236,Quality issue,Pending
+7125,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0007124,O0092613,OI00092613,C012614,P00614,2025-12-02,1,201.42665347257773,Wrong item,Refunded
+7174,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0007173,O0093250,OI00093250,C013251,P00251,2025-10-19,1,671.4221782419257,Wrong item,Refunded
+7264,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0007263,O0094420,OI00094420,C014421,P00421,2026-04-02,1,290.3447257262381,Wrong item,Rejected
+7270,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0007269,O0094498,OI00094498,C014499,P00499,2026-06-25,1,1281.1461022670258,Late delivery,Refunded
+7276,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0007275,O0094576,OI00094576,C014577,P00577,2025-09-17,1,1001.6893037555216,Quality issue,Pending
+7313,Invalid Foreign Key: Order_Item_ID,RT0007312,O0095057,OI00095057,C015058,P00058,2026-02-17,1,760.3402504955861,Changed mind,Refunded
+7426,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0007425,O0096526,OI00096526,C016527,P00527,2026-06-19,1,366.56021622937567,Quality issue,Rejected
+7486,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0007485,O0097306,OI00097306,C017307,P00307,2025-10-07,1,112.50858121891729,Damaged,Pending
+7504,Future Date: Return_Date,RT0007503,O0097540,OI00097540,C017541,P00541,2027-05-01,1,544.3963607366966,Damaged,Pending
+7519,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0007518,O0097735,OI00097735,C017736,P00736,2026-01-12,1,480.88345198408194,Quality issue,Pending
+7674,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0007673,O0099750,OI00099750,C019751,P00751,2025-12-23,1,671.4221782419257,Changed mind,Rejected
+7681,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0007680,O0099841,OI00099841,C019842,P00842,2026-03-31,1,557.0989424872195,Late delivery,Pending
+7693,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0007692,O0099997,OI00099997,C019998,P00998,2025-09-15,1,1268.443520516503,Quality issue,Pending
+7764,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0007763,O0000920,OI00100920,C000921,P00921,2026-06-16,1,290.3447257262381,Quality issue,Pending
+8079,Invalid Foreign Key: Order_Item_ID,RT0008078,O0005015,OI00105015,C005016,P00016,2026-07-16,1,226.83181697362355,Quality issue,Refunded
+8125,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0008124,O0005613,OI00105613,C005614,P00614,2026-04-21,1,201.42665347257773,Changed mind,Rejected
+8174,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0008173,O0006250,OI00106250,C006251,P00251,2026-03-08,1,671.4221782419257,Late delivery,Rejected
+8230,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0008229,O0006978,OI00106978,C006979,P00979,2026-05-01,1,1027.0944672565674,Wrong item,Pending
+8238,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0008237,O0007082,OI00107082,C007083,P00083,2026-08-21,1,1077.9047942586592,Wrong item,Refunded
+8240,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0008239,O0007108,OI00107108,C007109,P00109,2025-09-18,1,137.91374471996312,Changed mind,Rejected
+8264,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0008263,O0007420,OI00107420,C007421,P00421,2026-08-20,1,290.3447257262381,Wrong item,Refunded
+8270,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0008269,O0007498,OI00107498,C007499,P00499,2025-11-12,1,1281.1461022670258,Late delivery,Pending
+8276,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0008275,O0007576,OI00107576,C007577,P00577,2026-02-04,1,1001.6893037555216,Wrong item,Refunded
+8378,Invalid Foreign Key: Order_Item_ID,RT0008377,O0008902,OI00108902,C008903,P00903,2026-01-03,1,61.69825421682561,Damaged,Refunded
+8463,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0008462,O0010007,OI00110007,C010008,P00008,2026-04-08,1,125.2111629694402,Late delivery,Pending
+8486,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0008485,O0010306,OI00110306,C010307,P00307,2026-02-24,1,112.50858121891729,Late delivery,Refunded
+8674,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0008673,O0012750,OI00112750,C012751,P00751,2026-05-12,1,671.4221782419257,Wrong item,Pending
+8681,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0008680,O0012841,OI00112841,C012842,P00842,2026-08-18,1,557.0989424872195,Wrong item,Rejected
+8693,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0008692,O0012997,OI00112997,C012998,P00998,2026-02-02,1,1268.443520516503,Wrong item,Pending
+8764,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0008763,O0013920,OI00113920,C013921,P00921,2025-10-24,1,290.3447257262381,Changed mind,Pending
+9004,Duplicate Primary Key,RT0009002,O0017040,OI00117040,C017041,P00041,2026-01-07,1,544.3963607366966,Late delivery,Rejected
+9025,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0009024,O0017313,OI00117313,C017314,P00314,2025-10-28,1,201.42665347257773,Damaged,Rejected
+9125,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0009124,O0018613,OI00118613,C018614,P00614,2026-08-29,1,201.42665347257773,Quality issue,Refunded
+9174,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0009173,O0019250,OI00119250,C019251,P00251,2026-07-16,1,671.4221782419257,Changed mind,Refunded
+9217,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0009216,O0019809,OI00119809,C019810,P00810,2026-03-10,1,150.61632647048603,Quality issue,Pending
+9227,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0009226,O0019939,OI00119939,C019940,P00940,2026-07-28,1,531.6937789861736,Changed mind,Rejected
+9234,Invalid Foreign Key: Order_Item_ID,RT0009233,O0020030,OI00120030,C000031,P00031,2025-11-03,1,417.37054323146737,Damaged,Pending
+9264,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0009263,O0020420,OI00120420,C000421,P00421,2025-12-28,1,290.3447257262381,Quality issue,Rejected
+9270,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0009269,O0020498,OI00120498,C000499,P00499,2026-03-22,1,1281.1461022670258,Damaged,Refunded
+9276,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0009275,O0020576,OI00120576,C000577,P00577,2026-06-14,1,1001.6893037555216,Changed mind,Refunded
+9385,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0009384,O0021993,OI00121993,C001994,P00994,2026-08-19,1,1217.6331935144112,Changed mind,Refunded
+9486,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0009485,O0023306,OI00123306,C003307,P00307,2026-07-04,1,112.50858121891729,Changed mind,Pending
+9674,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0009673,O0025750,OI00125750,C005751,P00751,2025-09-19,1,671.4221782419257,Quality issue,Pending
+9681,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0009680,O0025841,OI00125841,C005842,P00842,2025-12-26,1,557.0989424872195,Quality issue,Rejected
+9693,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0009692,O0025997,OI00125997,C005998,P00998,2026-06-12,1,1268.443520516503,Changed mind,Pending
+9764,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0009763,O0026920,OI00126920,C006921,P00921,2026-03-03,1,290.3447257262381,Late delivery,Refunded
+9837,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0009836,O0027869,OI00127869,C007870,P00870,2025-12-20,1,912.7712315018612,Late delivery,Pending
+10005,Future Date: Return_Date,RT0010004,O0030053,OI00130053,C010054,P00054,2027-05-01,1,709.5299234934945,Changed mind,Refunded
+10017,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0010016,O0030209,OI00130209,C010210,P00210,2025-11-15,1,150.61632647048603,Changed mind,Rejected
+10125,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0010124,O0031613,OI00131613,C011614,P00614,2026-01-06,1,201.42665347257773,Wrong item,Pending
+10174,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0010173,O0032250,OI00132250,C012251,P00251,2025-11-23,1,671.4221782419257,Quality issue,Pending
+10264,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0010263,O0033420,OI00133420,C013421,P00421,2026-05-07,1,290.3447257262381,Changed mind,Pending
+10270,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0010269,O0033498,OI00133498,C013499,P00499,2026-07-30,1,1281.1461022670258,Wrong item,Pending
+10276,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0010275,O0033576,OI00133576,C013577,P00577,2025-10-22,1,1001.6893037555216,Wrong item,Rejected
+10382,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0010381,O0034954,OI00134954,C014955,P00955,2025-11-15,1,722.2325052440174,Changed mind,Refunded
+10486,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0010485,O0036306,OI00136306,C016307,P00307,2025-11-11,1,112.50858121891729,Damaged,Pending
+10624,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0010623,O0038100,OI00138100,C018101,P00101,2026-02-26,1,36.29309071577977,Changed mind,Rejected
+10674,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0010673,O0038750,OI00138750,C018751,P00751,2026-01-27,1,671.4221782419257,Damaged,Pending
+10681,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0010680,O0038841,OI00138841,C018842,P00842,2026-05-05,1,557.0989424872195,Changed mind,Rejected
+10693,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0010692,O0038997,OI00138997,C018998,P00998,2025-10-20,1,1268.443520516503,Wrong item,Pending
+10764,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0010763,O0039920,OI00139920,C019921,P00921,2026-07-11,1,290.3447257262381,Late delivery,Rejected
+10768,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0010767,O0039972,OI00139972,C019973,P00973,2025-09-05,1,950.87897675343,Quality issue,Pending
+11125,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0011124,O0044613,OI00144613,C004614,P00614,2026-05-16,1,201.42665347257773,Changed mind,Refunded
+11174,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0011173,O0045250,OI00145250,C005251,P00251,2026-04-02,1,671.4221782419257,Wrong item,Pending
+11264,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0011263,O0046420,OI00146420,C006421,P00421,2025-09-14,1,290.3447257262381,Late delivery,Pending
+11270,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0011269,O0046498,OI00146498,C006499,P00499,2025-12-07,1,1281.1461022670258,Damaged,Rejected
+11276,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0011275,O0046576,OI00146576,C006577,P00577,2026-03-01,1,1001.6893037555216,Quality issue,Rejected
+11418,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0011417,O0048422,OI00148422,C008423,P00423,2026-08-11,1,315.749889227284,Damaged,Pending
+11436,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0011435,O0048656,OI00148656,C008657,P00657,2026-04-20,1,747.6376687450633,Late delivery,Pending
+11486,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0011485,O0049306,OI00149306,C009307,P00307,2026-03-21,1,112.50858121891729,Changed mind,Refunded
+11537,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0011536,O0049969,OI00149969,C009970,P00970,2026-03-05,1,912.7712315018612,Late delivery,Refunded
+11581,Invalid Foreign Key: Order_Item_ID,RT0011580,O0050541,OI00150541,C010542,P00542,2025-11-11,1,557.0989424872195,Quality issue,Pending
+11674,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0011673,O0051750,OI00151750,C011751,P00751,2026-06-06,1,671.4221782419257,Late delivery,Refunded
+11681,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0011680,O0051841,OI00151841,C011842,P00842,2025-09-12,1,557.0989424872195,Quality issue,Refunded
+11693,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0011692,O0051997,OI00151997,C011998,P00998,2026-02-27,1,1268.443520516503,Damaged,Rejected
+11764,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0011763,O0052920,OI00152920,C012921,P00921,2025-11-18,1,290.3447257262381,Quality issue,Pending
+11794,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0011793,O0053310,OI00153310,C013311,P00311,2026-01-12,1,163.31890822100897,Changed mind,Pending
+12005,Duplicate Primary Key,RT0012003,O0056053,OI00156053,C016054,P00054,2026-02-15,1,709.5299234934945,Wrong item,Rejected
+12125,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0012124,O0057613,OI00157613,C017614,P00614,2025-09-23,1,201.42665347257773,Late delivery,Pending
+12174,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0012173,O0058250,OI00158250,C018251,P00251,2026-08-10,1,671.4221782419257,Damaged,Rejected
+12223,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0012222,O0058887,OI00158887,C018888,P00888,2026-06-27,1,1141.4177030112735,Damaged,Pending
+12264,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0012263,O0059420,OI00159420,C019421,P00421,2026-01-22,1,290.3447257262381,Wrong item,Rejected
+12270,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0012269,O0059498,OI00159498,C019499,P00499,2026-04-16,1,1281.1461022670258,Quality issue,Rejected
+12276,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0012275,O0059576,OI00159576,C019577,P00577,2026-07-09,1,1001.6893037555216,Changed mind,Rejected
+12316,Invalid Foreign Key: Order_Item_ID,RT0012315,O0060096,OI00160096,C000097,P00097,2026-01-20,1,1255.74093876598,Late delivery,Rejected
+12486,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0012485,O0062306,OI00162306,C002307,P00307,2026-07-29,1,112.50858121891729,Damaged,Pending
+12506,Future Date: Return_Date,RT0012505,O0062566,OI00162566,C002567,P00567,2027-05-01,1,874.6634862502924,Damaged,Pending
+12674,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0012673,O0064750,OI00164750,C004751,P00751,2025-10-14,1,671.4221782419257,Wrong item,Pending
+12681,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0012680,O0064841,OI00164841,C004842,P00842,2026-01-20,1,557.0989424872195,Damaged,Refunded
+12692,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0012691,O0064984,OI00164984,C004985,P00985,2026-06-23,1,1103.309957759705,Damaged,Rejected
+12693,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0012692,O0064997,OI00164997,C004998,P00998,2026-07-07,1,1268.443520516503,Damaged,Refunded
+12764,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0012763,O0065920,OI00165920,C005921,P00921,2026-03-28,1,290.3447257262381,Damaged,Refunded
+13035,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0013034,O0069443,OI00169443,C009444,P00444,2026-08-19,1,582.5041059882653,Quality issue,Refunded
+13125,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0013124,O0070613,OI00170613,C010614,P00614,2026-01-31,1,201.42665347257773,Wrong item,Refunded
+13174,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0013173,O0071250,OI00171250,C011251,P00251,2025-12-18,1,671.4221782419257,Late delivery,Pending
+13235,Invalid Foreign Key: Order_Item_ID,RT0013234,O0072043,OI00172043,C012044,P00044,2026-04-21,1,582.5041059882653,Quality issue,Pending
+13264,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0013263,O0072420,OI00172420,C012421,P00421,2026-06-01,1,290.3447257262381,Changed mind,Rejected
+13270,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0013269,O0072498,OI00172498,C012499,P00499,2026-08-24,1,1281.1461022670258,Changed mind,Rejected
+13276,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0013275,O0072576,OI00172576,C012577,P00577,2025-11-16,1,1001.6893037555216,Late delivery,Pending
+13486,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0013485,O0075306,OI00175306,C015307,P00307,2025-12-06,1,112.50858121891729,Wrong item,Refunded
+13571,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0013570,O0076411,OI00176411,C016412,P00412,2026-03-11,1,176.02148997153188,Wrong item,Pending
+13619,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0013618,O0077035,OI00177035,C017036,P00036,2026-01-12,1,480.88345198408194,Late delivery,Pending
+13674,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0013673,O0077750,OI00177750,C017751,P00751,2026-02-21,1,671.4221782419257,Changed mind,Rejected
+13681,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0013680,O0077841,OI00177841,C017842,P00842,2026-05-30,1,557.0989424872195,Damaged,Pending
+13689,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0013688,O0077945,OI00177945,C017946,P00946,2025-09-19,1,607.9092694893111,Late delivery,Refunded
+13693,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0013692,O0077997,OI00177997,C017998,P00998,2025-11-14,1,1268.443520516503,Changed mind,Rejected
+13764,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0013763,O0078920,OI00178920,C018921,P00921,2026-08-05,1,290.3447257262381,Wrong item,Rejected
+13822,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0013821,O0079674,OI00179674,C019675,P00675,2025-10-26,1,976.2841402544758,Late delivery,Pending
+14099,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0014098,O0083275,OI00183275,C003276,P00276,2026-06-11,1,988.9867220049988,Late delivery,Pending
+14125,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0014124,O0083613,OI00183613,C003614,P00614,2026-06-10,1,201.42665347257773,Wrong item,Rejected
+14174,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0014173,O0084250,OI00184250,C004251,P00251,2026-04-27,1,671.4221782419257,Changed mind,Pending
+14264,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0014263,O0085420,OI00185420,C005421,P00421,2025-10-09,1,290.3447257262381,Changed mind,Pending
+14270,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0014269,O0085498,OI00185498,C005499,P00499,2026-01-01,1,1281.1461022670258,Late delivery,Pending
+14276,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0014275,O0085576,OI00185576,C005577,P00577,2026-03-26,1,1001.6893037555216,Changed mind,Pending
+14486,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0014485,O0088306,OI00188306,C008307,P00307,2026-04-15,1,112.50858121891729,Wrong item,Pending
+14634,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0014633,O0090230,OI00190230,C010231,P00231,2025-12-18,1,417.37054323146737,Wrong item,Rejected
+14674,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID,RT0014673,O0090750,OI00190750,C010751,P00751,2026-07-01,1,671.4221782419257,Wrong item,Rejected
+14681,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0014680,O0090841,OI00190841,C010842,P00842,2025-10-07,1,557.0989424872195,Wrong item,Pending
+14693,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0014692,O0090997,OI00190997,C010998,P00998,2026-03-24,1,1268.443520516503,Wrong item,Rejected
+14764,Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Product_ID,RT0014763,O0091920,OI00191920,C011921,P00921,2025-12-13,1,290.3447257262381,Wrong item,Rejected
+14784,Invalid Foreign Key: Order_Item_ID,RT0014783,O0092180,OI00192180,C012181,P00181,2025-09-19,1,1052.4996307576132,Changed mind,Pending
+14844,Invalid Foreign Key: Order_ID; Invalid Foreign Key: Order_Item_ID; Invalid Foreign Key: Customer_ID,RT0014843,O0092960,OI00192960,C012961,P00961,2026-01-07,1,798.4479957471549,Changed mind,Pending

@@ -1,0 +1,9 @@
+Reconciliation_Component,Amount_INR,Amount_Crore,Explanation
+Management Revenue,520000000.8,52.00000008,Revenue reported by management.
+Database Gross Sales,499235746.94,49.923574694,Gross sales value recorded in the sales database.
+Returns,14976750.82,1.497675082,Returned sales deducted from database gross sales.
+Database Revenue After Returns,484259046.67,48.425904667000005,Database sales revenue after return adjustments.
+Refunds,3249066.95,0.324906695,Customer refunds deducted from revenue.
+Adjusted Database Revenue,481009979.72,48.100997972,Database revenue after returns and refunds.
+Unmatched Transaction Amount,3511040.84,0.351104084,Value associated with 798 unmatched transactions.
+Final Reconciliation Difference,38990021.07999998,3.899002107999998,Difference between management revenue and adjusted database revenue.

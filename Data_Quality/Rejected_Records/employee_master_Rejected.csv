@@ -1,0 +1,2 @@
+Source_Row,Reject_Reasons,Employee_ID,Employee_Name,Department,Manager_ID,Region_ID,Hire_Date,Monthly_Salary,Status
+252,Missing Primary Key,,Priya Nair,Finance,E00002,R012,2026-05-10,52500,Active

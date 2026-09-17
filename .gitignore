@@ -1,0 +1,8 @@
+*.zip
+.env
+.env.*
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+_Executive_Report_Charts/

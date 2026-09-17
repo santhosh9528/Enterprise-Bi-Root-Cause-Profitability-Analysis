@@ -1,0 +1,201 @@
+Supplier_ID,Supplier_Name,Category,Region_ID,Contract_Start,Standard_Lead_Days,Quality_Target,Status
+S00001,Supplier 001,Furniture,R002,2025-09-02,8,95,Active
+S00002,Supplier 002,Office Supplies,R003,2025-09-03,9,95,Active
+S00003,Supplier 003,Home Appliances,R004,2025-09-04,10,95,Active
+S00004,Supplier 004,Accessories,R005,2025-09-05,11,95,Active
+S00005,Supplier 005,IT Equipment,R006,2025-09-06,12,95,Active
+S00006,Supplier 006,Electronics,R007,2025-09-07,13,95,Active
+S00007,Supplier 007,Furniture,R008,2025-09-08,14,95,Active
+S00008,Supplier 008,Office Supplies,R009,2025-09-09,15,95,Active
+S00009,Supplier 009,Home Appliances,R010,2025-09-10,16,95,Active
+S00010,Supplier 010,Accessories,R011,2025-09-11,17,95,Active
+S00011,Supplier 011,IT Equipment,R012,2025-09-12,18,95,Active
+S00012,Supplier 012,Electronics,R013,2025-09-13,19,95,Active
+S00013,Supplier 013,Furniture,R014,2025-09-14,20,95,Active
+S00014,Supplier 014,Office Supplies,R015,2025-09-15,21,95,Active
+S00015,Supplier 015,Home Appliances,R016,2025-09-16,22,95,Active
+S00016,Supplier 016,Accessories,R017,2025-09-17,23,95,Active
+S00017,Supplier 017,IT Equipment,R018,2025-09-18,24,95,Active
+S00018,Supplier 018,Electronics,R019,2025-09-19,25,95,Active
+S00019,Supplier 019,Furniture,R020,2025-09-20,26,95,Active
+S00020,Supplier 020,Office Supplies,R001,2025-09-21,27,95,Active
+S00021,Supplier 021,Home Appliances,R002,2025-09-22,28,95,Active
+S00022,Supplier 022,Accessories,R003,2025-09-23,29,95,Active
+S00023,Supplier 023,IT Equipment,R004,2025-09-24,30,95,Active
+S00024,Supplier 024,Electronics,R005,2025-09-25,31,95,Active
+S00025,Supplier 025,Furniture,R006,2025-09-26,32,95,Active
+S00026,Supplier 026,Office Supplies,R007,2025-09-27,33,95,Active
+S00027,Supplier 027,Home Appliances,R008,2025-09-28,34,95,Active
+S00028,Supplier 028,Accessories,R009,2025-09-29,35,95,Active
+S00029,Supplier 029,IT Equipment,R010,2025-09-30,36,95,Review
+S00030,Supplier 030,Electronics,R011,2025-10-01,37,95,Active
+S00031,Supplier 031,Furniture,R012,2025-10-02,38,95,Active
+S00032,Supplier 032,Office Supplies,R013,2025-10-03,39,95,Active
+S00033,Supplier 033,Home Appliances,R014,2025-10-04,40,95,Active
+S00034,Supplier 034,Accessories,R015,2025-10-05,41,95,Active
+S00035,Supplier 035,IT Equipment,R016,2025-10-06,42,95,Active
+S00036,Supplier 036,Electronics,R017,2025-10-07,43,95,Active
+S00037,Supplier 037,Furniture,R018,2025-10-08,44,95,Active
+S00038,Supplier 038,Office Supplies,R019,2025-10-09,45,95,Active
+S00039,Supplier 039,Home Appliances,R020,2025-10-10,46,95,Active
+S00040,Supplier 040,Accessories,R001,2025-10-11,47,95,Active
+S00041,Supplier 041,IT Equipment,R002,2025-10-12,48,95,Active
+S00042,Supplier 042,Electronics,R003,2025-10-13,49,95,Active
+S00043,Supplier 043,Furniture,R004,2025-10-14,50,95,Active
+S00044,Supplier 044,Office Supplies,R005,2025-10-15,51,95,Active
+S00045,Supplier 045,Home Appliances,R006,2025-10-16,7,95,Active
+S00046,Supplier 046,Accessories,R007,2025-10-17,8,95,Active
+S00047,Supplier 047,IT Equipment,R008,2025-10-18,9,95,Active
+S00048,Supplier 048,Electronics,R009,2025-10-19,10,95,Active
+S00049,Supplier 049,Furniture,R010,2025-10-20,11,95,Active
+S00050,Supplier 050,Office Supplies,R011,2025-10-21,12,95,Active
+S00051,Supplier 051,Home Appliances,R012,2025-10-22,13,95,Active
+S00052,Supplier 052,Accessories,R013,2025-10-23,14,95,Active
+S00053,Supplier 053,IT Equipment,R014,2025-10-24,15,95,Active
+S00054,Supplier 054,Electronics,R015,2025-10-25,16,95,Active
+S00055,Supplier 055,Furniture,R016,2025-10-26,17,95,Active
+S00056,Supplier 056,Office Supplies,R017,2025-10-27,18,95,Active
+S00057,Supplier 057,Home Appliances,R018,2025-10-28,19,95,Active
+S00058,Supplier 058,Accessories,R019,2025-10-29,20,95,Review
+S00059,Supplier 059,IT Equipment,R020,2025-10-30,21,95,Active
+S00060,Supplier 060,Electronics,R001,2025-10-31,22,95,Active
+S00061,Supplier 061,Furniture,R002,2025-11-01,23,95,Active
+S00062,Supplier 062,Office Supplies,R003,2025-11-02,24,95,Active
+S00063,Supplier 063,Home Appliances,R004,2025-11-03,25,95,Active
+S00064,Supplier 064,Accessories,R005,2025-11-04,26,95,Active
+S00065,Supplier 065,IT Equipment,R006,2025-11-05,27,95,Active
+S00066,Supplier 066,Electronics,R007,2025-11-06,28,95,Active
+S00067,Supplier 067,Furniture,R008,2025-11-07,29,95,Active
+S00068,Supplier 068,Office Supplies,R009,2025-11-08,30,95,Active
+S00069,Supplier 069,Home Appliances,R010,2025-11-09,31,95,Active
+S00070,Supplier 070,Accessories,R011,2025-11-10,32,95,Active
+S00071,Supplier 071,IT Equipment,R012,2025-11-11,33,95,Active
+S00072,Supplier 072,Electronics,R013,2025-11-12,34,95,Active
+S00073,Supplier 073,Furniture,R014,2025-11-13,35,95,Active
+S00074,Supplier 074,Office Supplies,R015,2025-11-14,36,95,Active
+S00075,Supplier 075,Home Appliances,R016,2025-11-15,37,95,Active
+S00076,Supplier 076,Accessories,R017,2025-11-16,38,95,Active
+S00077,Supplier 077,IT Equipment,R018,2025-11-17,39,95,Active
+S00078,Supplier 078,Electronics,R019,2025-11-18,40,95,Active
+S00079,Supplier 079,Furniture,R020,2025-11-19,41,95,Active
+S00080,Supplier 080,Office Supplies,R001,2025-11-20,42,95,Active
+S00081,Supplier 081,Home Appliances,R002,2025-11-21,43,95,Active
+S00082,Supplier 082,Accessories,R003,2025-11-22,44,95,Active
+S00083,Supplier 083,IT Equipment,R004,2025-11-23,45,95,Active
+S00084,Supplier 084,Electronics,R005,2025-11-24,46,95,Active
+S00085,Supplier 085,Furniture,R006,2025-11-25,47,95,Active
+S00086,Supplier 086,Office Supplies,R007,2025-11-26,48,95,Active
+S00087,Supplier 087,Home Appliances,R008,2025-11-27,49,95,Review
+S00088,Supplier 088,Accessories,R009,2025-11-28,50,95,Active
+S00089,Supplier 089,IT Equipment,R010,2025-11-29,51,95,Active
+S00090,Supplier 090,Electronics,R011,2025-11-30,7,95,Active
+S00091,Supplier 091,Furniture,R012,2025-12-01,8,95,Active
+S00092,Supplier 092,Office Supplies,R013,2025-12-02,9,95,Active
+S00093,Supplier 093,Home Appliances,R014,2025-12-03,10,95,Active
+S00094,Supplier 094,Accessories,R015,2025-12-04,11,95,Active
+S00095,Supplier 095,IT Equipment,R016,2025-12-05,12,95,Active
+S00096,Supplier 096,Electronics,R017,2025-12-06,13,95,Active
+S00097,Supplier 097,Furniture,R018,2025-12-07,14,95,Active
+S00098,Supplier 098,Office Supplies,R019,2025-12-08,15,95,Active
+S00099,Supplier 099,Home Appliances,R020,2025-12-09,16,95,Active
+S00100,Supplier 100,Accessories,R001,2025-12-10,17,95,Active
+S00101,Supplier 101,IT Equipment,R002,2025-12-11,18,95,Active
+S00102,Supplier 102,Electronics,R003,2025-12-12,19,95,Active
+S00103,Supplier 103,Furniture,R004,2025-12-13,20,95,Active
+S00104,Supplier 104,Office Supplies,R005,2025-12-14,21,95,Active
+S00105,Supplier 105,Home Appliances,R006,2025-12-15,22,95,Active
+S00106,Supplier 106,Accessories,R007,2025-12-16,23,95,Active
+S00107,Supplier 107,IT Equipment,R008,2025-12-17,24,95,Active
+S00108,Supplier 108,Electronics,R009,2025-12-18,25,95,Active
+S00109,Supplier 109,Furniture,R010,2025-12-19,26,95,Active
+S00110,Supplier 110,Office Supplies,R011,2025-12-20,27,95,Active
+S00111,Supplier 111,Home Appliances,R012,2025-12-21,28,95,Active
+S00112,Supplier 112,Accessories,R013,2025-12-22,29,95,Active
+S00113,Supplier 113,IT Equipment,R014,2025-12-23,30,95,Active
+S00114,Supplier 114,Electronics,R015,2025-12-24,31,95,Active
+S00115,Supplier 115,Furniture,R016,2025-12-25,32,95,Active
+S00116,Supplier 116,Office Supplies,R017,2025-12-26,33,95,Review
+S00117,Supplier 117,Home Appliances,R018,2025-12-27,34,95,Active
+S00118,Supplier 118,Accessories,R019,2025-12-28,35,95,Active
+S00119,Supplier 119,IT Equipment,R020,2025-12-29,36,95,Active
+S00120,Supplier 120,Electronics,R001,2025-12-30,37,95,Active
+S00121,Supplier 121,Furniture,R002,2025-12-31,38,95,Active
+S00122,Supplier 122,Office Supplies,R003,2026-01-01,39,95,Active
+S00123,Supplier 123,Home Appliances,R004,2026-01-02,40,95,Active
+S00124,Supplier 124,Accessories,R005,2026-01-03,41,95,Active
+S00125,Supplier 125,IT Equipment,R006,2026-01-04,42,95,Active
+S00126,Supplier 126,Electronics,R007,2026-01-05,43,95,Active
+S00127,Supplier 127,Furniture,R008,2026-01-06,44,95,Active
+S00128,Supplier 128,Office Supplies,R009,2026-01-07,45,95,Active
+S00129,Supplier 129,Home Appliances,R010,2026-01-08,46,95,Active
+S00130,Supplier 130,Accessories,R011,2026-01-09,47,95,Active
+S00131,Supplier 131,IT Equipment,R012,2026-01-10,48,95,Active
+S00132,Supplier 132,Electronics,R013,2026-01-11,49,95,Active
+S00133,Supplier 133,Furniture,R014,2026-01-12,50,95,Active
+S00134,Supplier 134,Office Supplies,R015,2026-01-13,51,95,Active
+S00135,Supplier 135,Home Appliances,R016,2026-01-14,7,95,Active
+S00136,Supplier 136,Accessories,R017,2026-01-15,8,95,Active
+S00137,Supplier 137,IT Equipment,R018,2026-01-16,9,95,Active
+S00138,Supplier 138,Electronics,R019,2026-01-17,10,95,Active
+S00139,Supplier 139,Furniture,R020,2026-01-18,11,95,Active
+S00140,Supplier 140,Office Supplies,R001,2026-01-19,12,95,Active
+S00141,Supplier 141,Home Appliances,R002,2026-01-20,13,95,Active
+S00142,Supplier 142,Accessories,R003,2026-01-21,14,95,Active
+S00143,Supplier 143,IT Equipment,R004,2026-01-22,15,95,Active
+S00144,Supplier 144,Electronics,R005,2026-01-23,16,95,Active
+S00145,Supplier 145,Furniture,R006,2026-01-24,17,95,Review
+S00146,Supplier 146,Office Supplies,R007,2026-01-25,18,95,Active
+S00147,Supplier 147,Home Appliances,R008,2026-01-26,19,95,Active
+S00148,Supplier 148,Accessories,R009,2026-01-27,20,95,Active
+S00149,Supplier 149,IT Equipment,R010,2026-01-28,21,95,Active
+S00150,Supplier 150,Electronics,R011,2026-01-29,22,95,Active
+S00151,Supplier 151,Furniture,R012,2026-01-30,23,95,Active
+S00152,Supplier 152,Office Supplies,R013,2026-01-31,24,95,Active
+S00153,Supplier 153,Home Appliances,R014,2026-02-01,25,95,Active
+S00154,Supplier 154,Accessories,R015,2026-02-02,26,95,Active
+S00155,Supplier 155,IT Equipment,R016,2026-02-03,27,95,Active
+S00156,Supplier 156,Electronics,R017,2026-02-04,28,95,Active
+S00157,Supplier 157,Furniture,R018,2026-02-05,29,95,Active
+S00158,Supplier 158,Office Supplies,R019,2026-02-06,30,95,Active
+S00159,Supplier 159,Home Appliances,R020,2026-02-07,31,95,Active
+S00160,Supplier 160,Accessories,R001,2026-02-08,32,95,Active
+S00161,Supplier 161,IT Equipment,R002,2026-02-09,33,95,Active
+S00162,Supplier 162,Electronics,R003,2026-02-10,34,95,Active
+S00163,Supplier 163,Furniture,R004,2026-02-11,35,95,Active
+S00164,Supplier 164,Office Supplies,R005,2026-02-12,36,95,Active
+S00165,Supplier 165,Home Appliances,R006,2026-02-13,37,95,Active
+S00166,Supplier 166,Accessories,R007,2026-02-14,38,95,Active
+S00167,Supplier 167,IT Equipment,R008,2026-02-15,39,95,Active
+S00168,Supplier 168,Electronics,R009,2026-02-16,40,95,Active
+S00169,Supplier 169,Furniture,R010,2026-02-17,41,95,Active
+S00170,Supplier 170,Office Supplies,R011,2026-02-18,42,95,Active
+S00171,Supplier 171,Home Appliances,R012,2026-02-19,43,95,Active
+S00172,Supplier 172,Accessories,R013,2026-02-20,44,95,Active
+S00173,Supplier 173,IT Equipment,R014,2026-02-21,45,95,Active
+S00174,Supplier 174,Electronics,R015,2026-02-22,46,95,Review
+S00175,Supplier 175,Furniture,R016,2026-02-23,47,95,Active
+S00176,Supplier 176,Office Supplies,R017,2026-02-24,48,95,Active
+S00177,Supplier 177,Home Appliances,R018,2026-02-25,49,95,Active
+S00178,Supplier 178,Accessories,R019,2026-02-26,50,95,Active
+S00179,Supplier 179,IT Equipment,R020,2026-02-27,51,95,Active
+S00180,Supplier 180,Electronics,R001,2026-02-28,7,95,Active
+S00181,Supplier 181,Furniture,R002,2026-03-01,8,95,Active
+S00182,Supplier 182,Office Supplies,R003,2026-03-02,9,95,Active
+S00183,Supplier 183,Home Appliances,R004,2026-03-03,10,95,Active
+S00184,Supplier 184,Accessories,R005,2026-03-04,11,95,Active
+S00185,Supplier 185,IT Equipment,R006,2026-03-05,12,95,Active
+S00186,Supplier 186,Electronics,R007,2026-03-06,13,95,Active
+S00187,Supplier 187,Furniture,R008,2026-03-07,14,95,Active
+S00188,Supplier 188,Office Supplies,R009,2026-03-08,15,95,Active
+S00189,Supplier 189,Home Appliances,R010,2026-03-09,16,95,Active
+S00190,Supplier 190,Accessories,R011,2026-03-10,17,95,Active
+S00191,Supplier 191,IT Equipment,R012,2026-03-11,18,95,Active
+S00192,Supplier 192,Electronics,R013,2026-03-12,19,95,Active
+S00193,Supplier 193,Furniture,R014,2026-03-13,20,95,Active
+S00194,Supplier 194,Office Supplies,R015,2026-03-14,21,95,Active
+S00195,Supplier 195,Home Appliances,R016,2026-03-15,22,95,Active
+S00196,Supplier 196,Accessories,R017,2026-03-16,23,95,Active
+S00197,Supplier 197,IT Equipment,R018,2026-03-17,24,95,Active
+S00198,Supplier 198,Electronics,R019,2026-03-18,25,95,Active
+S00199,Supplier 199,Furniture,R020,2026-03-19,26,95,Active
+S00200,Supplier 200,Office Supplies,R001,2026-03-20,27,95,Active

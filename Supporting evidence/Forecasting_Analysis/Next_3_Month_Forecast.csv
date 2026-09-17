@@ -1,0 +1,4 @@
+Month,Revenue_Forecast,Revenue_CI_Lower,Revenue_CI_Upper,Revenue_Target,Orders_Forecast,Orders_CI_Lower,Orders_CI_Upper,Order_Target,Demand_Forecast_Units,Demand_CI_Lower,Demand_CI_Upper,Units_Target,Revenue_Target_Achievement_Percentage,Order_Target_Achievement_Percentage,Demand_Target_Achievement_Percentage,Revenue_Target_Status,Order_Target_Status,Demand_Target_Status
+2026-09-01,40970849.07,38987553.73,42954144.41,43636363.64,12338.79,11888.84,12788.74,87272.73,62657.94,59582.02,65733.86,65790.84,93.89,14.14,95.24,At Risk,Unlikely to Achieve,At Risk
+2026-10-01,41046028.73,38241225.56,43850831.9,41818181.82,12349.34,11713.01,12985.66,83636.36,62766.18,58416.18,67116.18,65904.49,98.15,14.77,95.24,At Risk,Unlikely to Achieve,At Risk
+2026-11-01,41120832.49,37685664.19,44556000.79,40000000.0,12359.83,11580.5,13139.17,80000.0,62873.87,57546.23,68201.52,66017.57,102.8,15.45,95.24,Possible - Forecast Above Target,Unlikely to Achieve,At Risk

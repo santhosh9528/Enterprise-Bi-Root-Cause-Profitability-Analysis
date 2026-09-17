@@ -1,0 +1,66 @@
+Source_Row,Reject_Reasons,Customer_ID,Customer_Name,Email,Phone,Join_Date,City,State,Region_ID,Customer_Type,Credit_Limit,Status
+788,Future Date: Join_Date,C000787,Priya Nair,customer787@example.com,9000000787,2027-01-15,City 67,Kerala,R008,Enterprise,225000,Active
+998,Missing Primary Key,,Aarav Sharma,customer997@example.com,9000000997,2026-05-26,City 37,Kerala,R018,Retail,475000,Active
+1575,Future Date: Join_Date,C001574,Karthik Raj,customer1574@example.com,9000001574,2027-01-15,City 14,West Bengal,R015,Enterprise,400000,Active
+1995,Missing Primary Key,,Anitha Iyer,customer1994@example.com,9000001994,2026-02-17,City 74,West Bengal,R015,Retail,400000,Active
+2362,Future Date: Join_Date,C002361,Rahul Verma,customer2361@example.com,9000002361,2027-01-15,City 81,Tamil Nadu,R002,Enterprise,75000,Active
+2992,Missing Primary Key,,Arjun Rao,customer2991@example.com,9000002991,2025-11-11,City 111,Tamil Nadu,R012,Retail,325000,Active
+3149,Future Date: Join_Date,C003148,Karthik Raj,customer3148@example.com,9000003148,2027-01-15,City 28,Rajasthan,R009,Enterprise,250000,Active
+3936,Future Date: Join_Date,C003935,Vijay Kumar,customer3935@example.com,9000003935,2027-01-15,City 95,Telangana,R016,Retail,425000,Active
+3989,Missing Primary Key,,Anitha Iyer,customer3988@example.com,9000003988,2026-08-05,City 28,Rajasthan,R009,SMB,250000,Active
+4723,Future Date: Join_Date,C004722,Aarav Sharma,customer4722@example.com,9000004722,2027-01-15,City 42,Maharashtra,R003,SMB,100000,Active
+4986,Missing Primary Key,,Rahul Verma,customer4985@example.com,9000004985,2026-04-29,City 65,Telangana,R006,Retail,175000,Active
+5510,Future Date: Join_Date,C005509,Anitha Iyer,customer5509@example.com,9000005509,2027-01-15,City 109,Uttar Pradesh,R010,Enterprise,275000,Active
+5983,Missing Primary Key,,Rahul Verma,customer5982@example.com,9000005982,2026-01-21,City 102,Maharashtra,R003,Enterprise,100000,Active
+6297,Future Date: Join_Date,C006296,Neha Singh,customer6296@example.com,9000006296,2027-01-15,City 56,Gujarat,R017,Retail,450000,Active
+6980,Missing Primary Key,,Priya Nair,customer6979@example.com,9000006979,2025-10-15,City 19,Uttar Pradesh,R020,SMB,525000,Active
+7084,Future Date: Join_Date,C007083,Meera Patel,customer7083@example.com,9000007083,2027-01-15,City 3,Delhi,R004,Enterprise,125000,Active
+7871,Future Date: Join_Date,C007870,Divya Menon,customer7870@example.com,9000007870,2027-01-15,City 70,Karnataka,R011,SMB,300000,Active
+7977,Missing Primary Key,,Divya Menon,customer7976@example.com,9000007976,2026-07-09,City 56,Gujarat,R017,SMB,450000,Active
+8658,Future Date: Join_Date,C008657,Meera Patel,customer8657@example.com,9000008657,2027-01-15,City 17,Kerala,R018,SMB,475000,Active
+8974,Missing Primary Key,,Meera Patel,customer8973@example.com,9000008973,2026-04-02,City 93,Delhi,R014,SMB,375000,Active
+9445,Future Date: Join_Date,C009444,Divya Menon,customer9444@example.com,9000009444,2027-01-15,City 84,West Bengal,R005,Enterprise,150000,Active
+9971,Missing Primary Key,,Aarav Sharma,customer9970@example.com,9000009970,2025-12-25,City 10,Karnataka,R011,Enterprise,300000,Active
+10232,Future Date: Join_Date,C010231,Vijay Kumar,customer10231@example.com,9000010231,2027-01-15,City 31,Tamil Nadu,R012,Enterprise,325000,Active
+10968,Missing Primary Key,,Arjun Rao,customer10967@example.com,9000010967,2025-09-18,City 47,Kerala,R008,Enterprise,225000,Active
+11019,Future Date: Join_Date,C011018,Aarav Sharma,customer11018@example.com,9000011018,2027-01-15,City 98,Rajasthan,R019,SMB,500000,Active
+11806,Future Date: Join_Date,C011805,Rahul Verma,customer11805@example.com,9000011805,2027-01-15,City 45,Telangana,R006,Retail,175000,Active
+11965,Missing Primary Key,,Divya Menon,customer11964@example.com,9000011964,2026-06-12,City 84,West Bengal,R005,Retail,150000,Active
+12593,Future Date: Join_Date,C012592,Divya Menon,customer12592@example.com,9000012592,2027-01-15,City 112,Maharashtra,R013,Retail,350000,Active
+12962,Missing Primary Key,,Karthik Raj,customer12961@example.com,9000012961,2026-03-06,City 1,Tamil Nadu,R002,SMB,75000,Active
+13380,Future Date: Join_Date,C013379,Vijay Kumar,customer13379@example.com,9000013379,2027-01-15,City 59,Uttar Pradesh,R020,Enterprise,525000,Active
+13959,Missing Primary Key,,Divya Menon,customer13958@example.com,9000013958,2025-11-28,City 38,Rajasthan,R019,Enterprise,500000,Active
+14167,Future Date: Join_Date,C014166,Karthik Raj,customer14166@example.com,9000014166,2027-01-15,City 6,Gujarat,R007,SMB,200000,Active
+14954,Future Date: Join_Date,C014953,Divya Menon,customer14953@example.com,9000014953,2027-01-15,City 73,Delhi,R014,Retail,375000,Active
+14956,Missing Primary Key,,Anitha Iyer,customer14955@example.com,9000014955,2026-08-22,City 75,Telangana,R016,Enterprise,425000,Active
+15741,Future Date: Join_Date,C015740,Aarav Sharma,customer15740@example.com,9000015740,2027-01-15,City 20,Karnataka,R001,Enterprise,50000,Active
+15953,Missing Primary Key,,Priya Nair,customer15952@example.com,9000015952,2026-05-16,City 112,Maharashtra,R013,Retail,350000,Active
+16528,Future Date: Join_Date,C016527,Priya Nair,customer16527@example.com,9000016527,2027-01-15,City 87,Kerala,R008,SMB,225000,Active
+16950,Missing Primary Key,,Priya Nair,customer16949@example.com,9000016949,2026-02-07,City 29,Uttar Pradesh,R010,Enterprise,275000,Active
+17315,Future Date: Join_Date,C017314,Neha Singh,customer17314@example.com,9000017314,2027-01-15,City 34,West Bengal,R015,SMB,400000,Active
+17947,Missing Primary Key,,Aarav Sharma,customer17946@example.com,9000017946,2025-11-01,City 66,Gujarat,R007,Enterprise,200000,Active
+18102,Future Date: Join_Date,C018101,Aarav Sharma,customer18101@example.com,9000018101,2027-01-15,City 101,Tamil Nadu,R002,SMB,75000,Active
+18889,Future Date: Join_Date,C018888,Priya Nair,customer18888@example.com,9000018888,2027-01-15,City 48,Rajasthan,R009,Enterprise,250000,Active
+18944,Missing Primary Key,,Neha Singh,customer18943@example.com,9000018943,2026-07-26,City 103,Delhi,R004,Enterprise,125000,Active
+19676,Future Date: Join_Date,C019675,Karthik Raj,customer19675@example.com,9000019675,2027-01-15,City 115,Telangana,R016,Enterprise,425000,Active
+19941,Missing Primary Key,,Neha Singh,customer19940@example.com,9000019940,2026-04-19,City 20,Karnataka,R001,SMB,50000,Active
+20002,Duplicate Primary Key,C000001,Priya Nair,duplicate1@example.com,9000000000,2025-09-02,Duplicate City,Tamil Nadu,R002,Retail,50000,Active
+20003,Duplicate Primary Key,C000002,Rahul Verma,duplicate2@example.com,9000000000,2025-09-03,Duplicate City,Maharashtra,R003,Retail,50000,Active
+20004,Duplicate Primary Key,C000003,Karthik Raj,duplicate3@example.com,9000000000,2025-09-04,Duplicate City,Delhi,R004,Retail,50000,Active
+20005,Duplicate Primary Key,C000004,Vijay Kumar,duplicate4@example.com,9000000000,2025-09-05,Duplicate City,West Bengal,R005,Retail,50000,Active
+20006,Duplicate Primary Key,C000005,Neha Singh,duplicate5@example.com,9000000000,2025-09-06,Duplicate City,Telangana,R006,Retail,50000,Active
+20007,Duplicate Primary Key,C000006,Priya Nair,duplicate6@example.com,9000000000,2025-09-07,Duplicate City,Gujarat,R007,Retail,50000,Active
+20008,Duplicate Primary Key,C000007,Priya Nair,duplicate7@example.com,9000000000,2025-09-08,Duplicate City,Kerala,R008,Retail,50000,Active
+20009,Duplicate Primary Key,C000008,Vijay Kumar,duplicate8@example.com,9000000000,2025-09-09,Duplicate City,Rajasthan,R009,Retail,50000,Active
+20010,Duplicate Primary Key,C000009,Arjun Rao,duplicate9@example.com,9000000000,2025-09-10,Duplicate City,Uttar Pradesh,R010,Retail,50000,Active
+20011,Duplicate Primary Key,C000010,Neha Singh,duplicate10@example.com,9000000000,2025-09-11,Duplicate City,Karnataka,R011,Retail,50000,Active
+20012,Duplicate Primary Key,C000011,Rahul Verma,duplicate11@example.com,9000000000,2025-09-12,Duplicate City,Tamil Nadu,R012,Retail,50000,Active
+20013,Duplicate Primary Key,C000012,Priya Nair,duplicate12@example.com,9000000000,2025-09-13,Duplicate City,Maharashtra,R013,Retail,50000,Active
+20014,Duplicate Primary Key,C000013,Rahul Verma,duplicate13@example.com,9000000000,2025-09-14,Duplicate City,Delhi,R014,Retail,50000,Active
+20015,Duplicate Primary Key,C000014,Vijay Kumar,duplicate14@example.com,9000000000,2025-09-15,Duplicate City,West Bengal,R015,Retail,50000,Active
+20016,Duplicate Primary Key,C000015,Neha Singh,duplicate15@example.com,9000000000,2025-09-16,Duplicate City,Telangana,R016,Retail,50000,Active
+20017,Duplicate Primary Key,C000016,Aarav Sharma,duplicate16@example.com,9000000000,2025-09-17,Duplicate City,Gujarat,R017,Retail,50000,Active
+20018,Duplicate Primary Key,C000017,Neha Singh,duplicate17@example.com,9000000000,2025-09-18,Duplicate City,Kerala,R018,Retail,50000,Active
+20019,Duplicate Primary Key,C000018,Anitha Iyer,duplicate18@example.com,9000000000,2025-09-19,Duplicate City,Rajasthan,R019,Retail,50000,Active
+20020,Duplicate Primary Key,C000019,Rahul Verma,duplicate19@example.com,9000000000,2025-09-20,Duplicate City,Uttar Pradesh,R020,Retail,50000,Active
+20021,Duplicate Primary Key,C000020,Divya Menon,duplicate20@example.com,9000000000,2025-09-21,Duplicate City,Karnataka,R001,Retail,50000,Active

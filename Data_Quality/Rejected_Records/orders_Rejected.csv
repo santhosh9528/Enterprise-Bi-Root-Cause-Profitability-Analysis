@@ -1,0 +1,566 @@
+Source_Row,Reject_Reasons,Order_ID,Customer_ID,Order_Date,Region_ID,Sales_Employee_ID,Channel,Order_Status,Management_Order_Value
+251,Invalid Foreign Key: Sales_Employee_ID,O0000250,C000251,2026-05-09,R011,E00251,Referral,Completed,2073.46
+751,Invalid Foreign Key: Sales_Employee_ID,O0000750,C000751,2025-09-21,R011,E00251,Instagram,Completed,2059.21
+787,Invalid Foreign Key: Customer_ID,O0000786,C000787,2025-10-27,R007,E00287,Organic Search,Completed,7019.23
+997,Invalid Foreign Key: Customer_ID,O0000996,C000997,2026-05-25,R017,E00497,Organic Search,Completed,7809.17
+1251,Invalid Foreign Key: Sales_Employee_ID,O0001250,C001251,2026-02-03,R011,E00251,Organic Search,Completed,2094.84
+1574,Invalid Foreign Key: Customer_ID,O0001573,C001574,2025-12-23,R014,E00074,Google Ads,Returned,11902.79
+1751,Invalid Foreign Key: Sales_Employee_ID,O0001750,C001751,2026-06-18,R011,E00251,Email,Completed,2080.59
+1778,Invalid Foreign Key: Sales_Employee_ID,O0001777,C001778,2026-07-15,R018,E99999,Organic Search,Completed,9300.94
+1994,Invalid Foreign Key: Customer_ID,O0001993,C001994,2026-02-16,R014,E00494,Referral,Completed,15041.0
+2202,Invalid Foreign Key: Customer_ID,O0002201,C999999,2025-09-12,R002,E00202,Organic Search,Completed,301.57
+2251,Invalid Foreign Key: Sales_Employee_ID,O0002250,C002251,2025-10-31,R011,E00251,Email,Completed,2066.34
+2361,Invalid Foreign Key: Customer_ID,O0002360,C002361,2026-02-18,R001,E00361,Organic Search,Completed,2448.79
+2751,Invalid Foreign Key: Sales_Employee_ID,O0002750,C002751,2026-03-15,R011,E00251,Email,Completed,2052.09
+2991,Invalid Foreign Key: Customer_ID,O0002990,C002991,2025-11-10,R011,E00491,Referral,Returned,3617.53
+3148,Invalid Foreign Key: Customer_ID,O0003147,C003148,2026-04-16,R008,E00148,Instagram,Completed,5927.82
+3251,Invalid Foreign Key: Sales_Employee_ID,O0003250,C003251,2026-07-28,R011,E00251,Instagram,Returned,2087.71
+3332,Future Date: Order_Date,O0003331,C003332,2027-02-01,R012,E00332,Google Ads,Completed,2628.89
+3555,Invalid Foreign Key: Sales_Employee_ID,O0003554,C003555,2026-05-28,R015,E99999,Referral,Completed,11151.86
+3751,Invalid Foreign Key: Sales_Employee_ID,O0003750,C003751,2025-12-10,R011,E00251,Organic Search,Completed,2073.46
+3935,Invalid Foreign Key: Customer_ID,O0003934,C003935,2026-06-12,R015,E00435,Instagram,Completed,7253.94
+3988,Invalid Foreign Key: Customer_ID,O0003987,C003988,2026-08-04,R008,E00488,Google Ads,Completed,10683.67
+4251,Invalid Foreign Key: Sales_Employee_ID,O0004250,C004251,2026-04-24,R011,E00251,Email,Completed,2059.21
+4403,Invalid Foreign Key: Customer_ID,O0004402,C999999,2025-09-23,R003,E00403,Referral,Completed,565.71
+4722,Invalid Foreign Key: Customer_ID,O0004721,C004722,2026-08-08,R002,E00222,Google Ads,Completed,1865.29
+4751,Invalid Foreign Key: Sales_Employee_ID,O0004750,C004751,2025-09-06,R011,E00251,Referral,Cancelled,2094.84
+4985,Invalid Foreign Key: Customer_ID,O0004984,C004985,2026-04-28,R005,E00485,Referral,Completed,17094.55
+5251,Invalid Foreign Key: Sales_Employee_ID,O0005250,C005251,2026-01-19,R011,E00251,Organic Search,Completed,2080.59
+5332,Invalid Foreign Key: Sales_Employee_ID,O0005331,C005332,2026-04-10,R012,E99999,Organic Search,Completed,2683.66
+5509,Invalid Foreign Key: Customer_ID,O0005508,C005509,2025-10-04,R009,E00009,Referral,Completed,1686.04
+5751,Invalid Foreign Key: Sales_Employee_ID,O0005750,C005751,2026-06-03,R011,E00251,Email,Completed,2066.34
+5982,Invalid Foreign Key: Customer_ID,O0005981,C005982,2026-01-20,R002,E00482,Email,Completed,6556.43
+6251,Invalid Foreign Key: Sales_Employee_ID,O0006250,C006251,2025-10-16,R011,E00251,Referral,Completed,2052.09
+6296,Invalid Foreign Key: Customer_ID,O0006295,C006296,2025-11-30,R016,E00296,Instagram,Completed,3865.09
+6604,Invalid Foreign Key: Customer_ID,O0006603,C999999,2025-10-04,R004,E00104,Instagram,Completed,925.36
+6663,Future Date: Order_Date,O0006662,C006663,2027-02-01,R003,E00163,Instagram,Completed,7632.58
+6751,Invalid Foreign Key: Sales_Employee_ID,O0006750,C006751,2026-02-28,R011,E00251,Google Ads,Completed,2087.71
+6979,Invalid Foreign Key: Customer_ID,O0006978,C006979,2025-10-14,R019,E00479,Instagram,Completed,12556.54
+7083,Invalid Foreign Key: Customer_ID,O0007082,C007083,2026-01-26,R003,E00083,Instagram,Completed,9986.24
+7109,Invalid Foreign Key: Sales_Employee_ID,O0007108,C007109,2026-02-21,R009,E99999,Email,Completed,1697.75
+7251,Invalid Foreign Key: Sales_Employee_ID,O0007250,C007251,2026-07-13,R011,E00251,Organic Search,Completed,2073.46
+7751,Invalid Foreign Key: Sales_Employee_ID,O0007750,C007751,2025-11-25,R011,E00251,Email,Completed,2059.21
+7870,Invalid Foreign Key: Customer_ID,O0007869,C007870,2026-03-24,R010,E00370,Google Ads,Completed,13997.07
+7976,Invalid Foreign Key: Customer_ID,O0007975,C007976,2026-07-08,R016,E00476,Referral,Completed,3075.14
+8251,Invalid Foreign Key: Sales_Employee_ID,O0008250,C008251,2026-04-09,R011,E00251,Organic Search,Completed,2094.84
+8657,Invalid Foreign Key: Customer_ID,O0008656,C008657,2026-05-20,R017,E00157,Referral,Completed,4665.26
+8751,Invalid Foreign Key: Sales_Employee_ID,O0008750,C008751,2026-08-22,R011,E00251,Email,Completed,2080.59
+8805,Invalid Foreign Key: Customer_ID,O0008804,C999999,2025-10-15,R005,E00305,Google Ads,Completed,1344.95
+8886,Invalid Foreign Key: Sales_Employee_ID,O0008885,C008886,2026-01-04,R006,E99999,Organic Search,Completed,3470.12
+8973,Invalid Foreign Key: Customer_ID,O0008972,C008973,2026-04-01,R013,E00473,Instagram,Completed,8809.41
+9251,Invalid Foreign Key: Sales_Employee_ID,O0009250,C009251,2026-01-04,R011,E00251,Instagram,Completed,2066.34
+9444,Invalid Foreign Key: Customer_ID,O0009443,C009444,2026-07-16,R004,E00444,Organic Search,Cancelled,7220.2
+9751,Invalid Foreign Key: Sales_Employee_ID,O0009750,C009751,2026-05-19,R011,E00251,Instagram,Returned,2052.09
+9970,Invalid Foreign Key: Customer_ID,O0009969,C009970,2025-12-24,R010,E00470,Email,Completed,13997.07
+9994,Future Date: Order_Date,O0009993,C009994,2027-02-01,R014,E00494,Email,Completed,15196.06
+10008,Duplicate Primary Key,O0010006,C010008,2026-01-31,R008,E00008,Google Ads,Completed,1171.98
+10231,Invalid Foreign Key: Customer_ID,O0010230,C010231,2025-09-11,R011,E00231,Instagram,Completed,1284.48
+10251,Invalid Foreign Key: Sales_Employee_ID,O0010250,C010251,2025-10-01,R011,E00251,Referral,Completed,2087.71
+10663,Invalid Foreign Key: Sales_Employee_ID,O0010662,C010663,2025-11-17,R003,E99999,Referral,Completed,7580.12
+10751,Invalid Foreign Key: Sales_Employee_ID,O0010750,C010751,2026-02-13,R011,E00251,Referral,Completed,2073.46
+10967,Invalid Foreign Key: Customer_ID,O0010966,C010967,2025-09-17,R007,E00467,Instagram,Completed,5457.9
+11006,Invalid Foreign Key: Customer_ID,O0011005,C999999,2025-10-26,R006,E00006,Instagram,Completed,306.1
+11018,Invalid Foreign Key: Customer_ID,O0011017,C011018,2025-11-07,R018,E00018,Email,Completed,2312.76
+11251,Invalid Foreign Key: Sales_Employee_ID,O0011250,C011251,2026-06-28,R011,E00251,Instagram,Completed,2059.21
+11751,Invalid Foreign Key: Sales_Employee_ID,O0011750,C011751,2025-11-10,R011,E00251,Instagram,Completed,2094.84
+11805,Invalid Foreign Key: Customer_ID,O0011804,C011805,2026-01-03,R005,E00305,Organic Search,Returned,1354.19
+11964,Invalid Foreign Key: Customer_ID,O0011963,C011964,2026-06-11,R004,E00464,Email,Completed,10369.19
+12251,Invalid Foreign Key: Sales_Employee_ID,O0012250,C012251,2026-03-25,R011,E00251,Referral,Completed,2080.59
+12440,Invalid Foreign Key: Sales_Employee_ID,O0012439,C012440,2025-09-30,R020,E99999,Referral,Completed,8238.0
+12592,Invalid Foreign Key: Customer_ID,O0012591,C012592,2026-03-01,R012,E00092,Google Ads,Completed,7363.59
+12751,Invalid Foreign Key: Sales_Employee_ID,O0012750,C012751,2026-08-07,R011,E00251,Organic Search,Completed,2066.34
+12961,Invalid Foreign Key: Customer_ID,O0012960,C012961,2026-03-05,R001,E00461,Instagram,Completed,2457.26
+13207,Invalid Foreign Key: Customer_ID,O0013206,C999999,2025-11-06,R007,E00207,Instagram,Completed,702.05
+13251,Invalid Foreign Key: Sales_Employee_ID,O0013250,C013251,2025-12-20,R011,E00251,Instagram,Completed,2052.09
+13325,Future Date: Order_Date,O0013324,C013325,2027-02-01,R005,E00325,Referral,Completed,5249.61
+13379,Invalid Foreign Key: Customer_ID,O0013378,C013379,2026-04-27,R019,E00379,Referral,Completed,12600.14
+13751,Invalid Foreign Key: Sales_Employee_ID,O0013750,C013751,2026-05-04,R011,E00251,Organic Search,Completed,2087.71
+13958,Invalid Foreign Key: Customer_ID,O0013957,C013958,2025-11-27,R018,E00458,Google Ads,Completed,6971.54
+14166,Invalid Foreign Key: Customer_ID,O0014165,C014166,2026-06-23,R006,E00166,Google Ads,Completed,2689.32
+14217,Invalid Foreign Key: Sales_Employee_ID,O0014216,C014217,2026-08-13,R017,E99999,Google Ads,Completed,1464.19
+14251,Invalid Foreign Key: Sales_Employee_ID,O0014250,C014251,2025-09-16,R011,E00251,Referral,Cancelled,2073.46
+14751,Invalid Foreign Key: Sales_Employee_ID,O0014750,C014751,2026-01-29,R011,E00251,Organic Search,Completed,2059.21
+14953,Invalid Foreign Key: Customer_ID,O0014952,C014953,2026-08-19,R013,E00453,Organic Search,Completed,6477.93
+14955,Invalid Foreign Key: Customer_ID,O0014954,C014955,2026-08-21,R015,E00455,Organic Search,Completed,11228.5
+15251,Invalid Foreign Key: Sales_Employee_ID,O0015250,C015251,2026-06-13,R011,E00251,Referral,Completed,2094.84
+15408,Invalid Foreign Key: Customer_ID,O0015407,C999999,2025-11-17,R008,E00408,Organic Search,Completed,1164.0
+15740,Invalid Foreign Key: Customer_ID,O0015739,C015740,2025-10-15,R020,E00240,Referral,Completed,8181.57
+15751,Invalid Foreign Key: Sales_Employee_ID,O0015750,C015751,2025-10-26,R011,E00251,Instagram,Completed,2080.59
+15952,Invalid Foreign Key: Customer_ID,O0015951,C015952,2026-05-15,R012,E00452,Instagram,Returned,4225.38
+15994,Invalid Foreign Key: Sales_Employee_ID,O0015993,C015994,2026-06-26,R014,E99999,Google Ads,Completed,15041.0
+16251,Invalid Foreign Key: Sales_Employee_ID,O0016250,C016251,2026-03-10,R011,E00251,Google Ads,Returned,2066.34
+16527,Invalid Foreign Key: Customer_ID,O0016526,C016527,2025-12-11,R007,E00027,Referral,Completed,2240.66
+16656,Future Date: Order_Date,O0016655,C016656,2027-02-01,R016,E00156,Google Ads,Completed,2285.2
+16751,Invalid Foreign Key: Sales_Employee_ID,O0016750,C016751,2026-07-23,R011,E00251,Instagram,Completed,2052.09
+16949,Invalid Foreign Key: Customer_ID,O0016948,C016949,2026-02-06,R009,E00449,Organic Search,Cancelled,7925.18
+17251,Invalid Foreign Key: Sales_Employee_ID,O0017250,C017251,2025-12-05,R011,E00251,Referral,Completed,2087.71
+17314,Invalid Foreign Key: Customer_ID,O0017313,C017314,2026-02-06,R014,E00314,Google Ads,Completed,2505.25
+17609,Invalid Foreign Key: Customer_ID,O0017608,C999999,2025-11-28,R009,E00109,Google Ads,Completed,1697.75
+17751,Invalid Foreign Key: Sales_Employee_ID,O0017750,C017751,2026-04-19,R011,E00251,Referral,Completed,2073.46
+17771,Invalid Foreign Key: Sales_Employee_ID,O0017770,C017771,2026-05-09,R011,E99999,Referral,Completed,2887.48
+17946,Invalid Foreign Key: Customer_ID,O0017945,C017946,2025-10-31,R006,E00446,Instagram,Completed,1896.68
+18101,Invalid Foreign Key: Customer_ID,O0018100,C018101,2026-04-04,R001,E00101,Instagram,Completed,112.08
+18251,Invalid Foreign Key: Sales_Employee_ID,O0018250,C018251,2025-09-01,R011,E00251,Organic Search,Completed,2059.21
+18751,Invalid Foreign Key: Sales_Employee_ID,O0018750,C018751,2026-01-14,R011,E00251,Instagram,Completed,2094.84
+18888,Invalid Foreign Key: Customer_ID,O0018887,C018888,2026-05-31,R008,E00388,Referral,Completed,10501.97
+18943,Invalid Foreign Key: Customer_ID,O0018942,C018943,2026-07-25,R003,E00443,Instagram,Completed,5297.06
+19251,Invalid Foreign Key: Sales_Employee_ID,O0019250,C019251,2026-05-29,R011,E00251,Google Ads,Completed,2080.59
+19548,Invalid Foreign Key: Sales_Employee_ID,O0019547,C019548,2026-03-22,R008,E99999,Organic Search,Completed,5847.17
+19675,Invalid Foreign Key: Customer_ID,O0019674,C019675,2026-07-27,R015,E00175,Organic Search,Completed,15230.03
+19751,Invalid Foreign Key: Sales_Employee_ID,O0019750,C019751,2025-10-11,R011,E00251,Instagram,Completed,2066.34
+19810,Invalid Foreign Key: Customer_ID,O0019809,C999999,2025-12-09,R010,E00310,Organic Search,Completed,2301.66
+19940,Invalid Foreign Key: Customer_ID,O0019939,C019940,2026-04-18,R020,E00440,Referral,Completed,8181.57
+19987,Future Date: Order_Date,O0019986,C019987,2027-02-01,R007,E00487,Referral,Completed,6923.4
+20015,Duplicate Primary Key,O0020013,C000015,2026-07-02,R015,E00015,Instagram,Completed,3283.61
+20251,Invalid Foreign Key: Sales_Employee_ID,O0020250,C000251,2026-02-23,R011,E00251,Referral,Completed,2052.09
+20751,Invalid Foreign Key: Sales_Employee_ID,O0020750,C000751,2026-07-08,R011,E00251,Email,Completed,2087.71
+20787,Invalid Foreign Key: Customer_ID,O0020786,C000787,2026-08-13,R007,E00287,Email,Cancelled,6947.36
+20997,Invalid Foreign Key: Customer_ID,O0020996,C000997,2026-03-11,R017,E00497,Instagram,Completed,7729.21
+21251,Invalid Foreign Key: Sales_Employee_ID,O0021250,C001251,2025-11-20,R011,E00251,Instagram,Completed,2073.46
+21325,Invalid Foreign Key: Sales_Employee_ID,O0021324,C001325,2026-02-02,R005,E99999,Google Ads,Completed,5303.92
+21574,Invalid Foreign Key: Customer_ID,O0021573,C001574,2025-10-09,R014,E00074,Instagram,Completed,11780.08
+21751,Invalid Foreign Key: Sales_Employee_ID,O0021750,C001751,2026-04-04,R011,E00251,Google Ads,Completed,2059.21
+21994,Invalid Foreign Key: Customer_ID,O0021993,C001994,2025-12-03,R014,E00494,Email,Completed,14885.94
+22011,Invalid Foreign Key: Customer_ID,O0022010,C999999,2025-12-20,R011,E00011,Email,Completed,507.82
+22251,Invalid Foreign Key: Sales_Employee_ID,O0022250,C002251,2026-08-17,R011,E00251,Email,Completed,2094.84
+22361,Invalid Foreign Key: Customer_ID,O0022360,C002361,2025-12-05,R001,E00361,Google Ads,Returned,2482.68
+22751,Invalid Foreign Key: Sales_Employee_ID,O0022750,C002751,2025-12-30,R011,E00251,Referral,Returned,2080.59
+22991,Invalid Foreign Key: Customer_ID,O0022990,C002991,2026-08-27,R011,E00491,Organic Search,Cancelled,3667.6
+23102,Invalid Foreign Key: Sales_Employee_ID,O0023101,C003102,2025-12-16,R002,E99999,Organic Search,Returned,300.53
+23148,Invalid Foreign Key: Customer_ID,O0023147,C003148,2026-01-31,R008,E00148,Google Ads,Completed,5867.34
+23251,Invalid Foreign Key: Sales_Employee_ID,O0023250,C003251,2026-05-14,R011,E00251,Referral,Completed,2066.34
+23318,Future Date: Order_Date,O0023317,C003318,2027-02-01,R018,E00318,Email,Completed,2344.88
+23751,Invalid Foreign Key: Sales_Employee_ID,O0023750,C003751,2025-09-26,R011,E00251,Organic Search,Cancelled,2052.09
+23935,Invalid Foreign Key: Customer_ID,O0023934,C003935,2026-03-29,R015,E00435,Google Ads,Completed,7179.41
+23988,Invalid Foreign Key: Customer_ID,O0023987,C003988,2026-05-21,R008,E00488,Email,Completed,10574.65
+24212,Invalid Foreign Key: Customer_ID,O0024211,C999999,2025-12-31,R012,E00212,Email,Completed,1087.17
+24251,Invalid Foreign Key: Sales_Employee_ID,O0024250,C004251,2026-02-08,R011,E00251,Referral,Completed,2087.71
+24722,Invalid Foreign Key: Customer_ID,O0024721,C004722,2026-05-25,R002,E00222,Google Ads,Completed,1891.02
+24751,Invalid Foreign Key: Sales_Employee_ID,O0024750,C004751,2026-06-23,R011,E00251,Google Ads,Completed,2073.46
+24879,Invalid Foreign Key: Sales_Employee_ID,O0024878,C004879,2025-10-29,R019,E99999,Referral,Completed,12730.94
+24985,Invalid Foreign Key: Customer_ID,O0024984,C004985,2026-02-12,R005,E00485,Referral,Completed,16918.92
+25251,Invalid Foreign Key: Sales_Employee_ID,O0025250,C005251,2025-11-05,R011,E00251,Organic Search,Completed,2059.21
+25509,Invalid Foreign Key: Customer_ID,O0025508,C005509,2026-07-21,R009,E00009,Email,Completed,1709.45
+25751,Invalid Foreign Key: Sales_Employee_ID,O0025750,C005751,2026-03-20,R011,E00251,Instagram,Completed,2094.84
+25982,Invalid Foreign Key: Customer_ID,O0025981,C005982,2025-11-06,R002,E00482,Instagram,Completed,6646.86
+26251,Invalid Foreign Key: Sales_Employee_ID,O0026250,C006251,2026-08-02,R011,E00251,Organic Search,Completed,2080.59
+26296,Invalid Foreign Key: Customer_ID,O0026295,C006296,2025-09-16,R016,E00296,Referral,Completed,3825.51
+26413,Invalid Foreign Key: Customer_ID,O0026412,C999999,2026-01-11,R013,E00413,Instagram,Completed,1736.42
+26649,Future Date: Order_Date,O0026648,C006649,2027-02-01,R009,E00149,Organic Search,Completed,7897.76
+26656,Invalid Foreign Key: Sales_Employee_ID,O0026655,C006656,2025-09-11,R016,E99999,Email,Completed,2246.2
+26751,Invalid Foreign Key: Sales_Employee_ID,O0026750,C006751,2025-12-15,R011,E00251,Referral,Completed,2066.34
+26979,Invalid Foreign Key: Customer_ID,O0026978,C006979,2026-07-31,R019,E00479,Referral,Completed,12730.94
+27083,Invalid Foreign Key: Customer_ID,O0027082,C007083,2025-11-12,R003,E00083,Organic Search,Completed,9883.29
+27251,Invalid Foreign Key: Sales_Employee_ID,O0027250,C007251,2026-04-29,R011,E00251,Instagram,Completed,2052.09
+27751,Invalid Foreign Key: Sales_Employee_ID,O0027750,C007751,2025-09-11,R011,E00251,Organic Search,Completed,2087.71
+27870,Invalid Foreign Key: Customer_ID,O0027869,C007870,2026-01-08,R010,E00370,Google Ads,Completed,14190.8
+27976,Invalid Foreign Key: Customer_ID,O0027975,C007976,2026-04-24,R016,E00476,Organic Search,Completed,3043.66
+28251,Invalid Foreign Key: Sales_Employee_ID,O0028250,C008251,2026-01-24,R011,E00251,Email,Completed,2073.46
+28433,Invalid Foreign Key: Sales_Employee_ID,O0028432,C008433,2026-07-25,R013,E99999,Email,Completed,4102.09
+28614,Invalid Foreign Key: Customer_ID,O0028613,C999999,2026-01-22,R014,E00114,Referral,Returned,2513.8
+28657,Invalid Foreign Key: Customer_ID,O0028656,C008657,2026-03-06,R017,E00157,Referral,Completed,4617.65
+28751,Invalid Foreign Key: Sales_Employee_ID,O0028750,C008751,2026-06-08,R011,E00251,Google Ads,Completed,2059.21
+28973,Invalid Foreign Key: Customer_ID,O0028972,C008973,2026-01-16,R013,E00473,Google Ads,Completed,8718.59
+29251,Invalid Foreign Key: Sales_Employee_ID,O0029250,C009251,2025-10-21,R011,E00251,Google Ads,Returned,2094.84
+29444,Invalid Foreign Key: Customer_ID,O0029443,C009444,2026-05-02,R004,E00444,Instagram,Completed,7146.02
+29751,Invalid Foreign Key: Sales_Employee_ID,O0029750,C009751,2026-03-05,R011,E00251,Instagram,Completed,2080.59
+29970,Invalid Foreign Key: Customer_ID,O0029969,C009970,2025-10-10,R010,E00470,Email,Completed,14190.8
+29980,Future Date: Order_Date,O0029979,C009980,2027-02-01,R020,E00480,Instagram,Completed,16055.32
+30022,Duplicate Primary Key,O0030020,C010022,2025-12-01,R002,E00022,Organic Search,Completed,1871.72
+30210,Invalid Foreign Key: Sales_Employee_ID,O0030209,C010210,2026-06-07,R010,E99999,Instagram,Completed,2349.61
+30231,Invalid Foreign Key: Customer_ID,O0030230,C010231,2026-06-28,R011,E00231,Organic Search,Completed,1302.2
+30251,Invalid Foreign Key: Sales_Employee_ID,O0030250,C010251,2026-07-18,R011,E00251,Google Ads,Completed,2066.34
+30751,Invalid Foreign Key: Sales_Employee_ID,O0030750,C010751,2025-11-30,R011,E00251,Email,Completed,2052.09
+30815,Invalid Foreign Key: Customer_ID,O0030814,C999999,2026-02-02,R015,E00315,Email,Completed,3317.69
+30967,Invalid Foreign Key: Customer_ID,O0030966,C010967,2026-07-04,R007,E00467,Organic Search,Returned,5402.21
+31018,Invalid Foreign Key: Customer_ID,O0031017,C011018,2026-08-24,R018,E00018,Google Ads,Completed,2344.88
+31251,Invalid Foreign Key: Sales_Employee_ID,O0031250,C011251,2026-04-14,R011,E00251,Referral,Completed,2087.71
+31751,Invalid Foreign Key: Sales_Employee_ID,O0031750,C011751,2026-08-27,R011,E00251,Instagram,Completed,2073.46
+31805,Invalid Foreign Key: Customer_ID,O0031804,C011805,2025-10-20,R005,E00305,Referral,Completed,1340.33
+31964,Invalid Foreign Key: Customer_ID,O0031963,C011964,2026-03-28,R004,E00464,Email,Completed,10262.66
+31987,Invalid Foreign Key: Sales_Employee_ID,O0031986,C011987,2026-04-20,R007,E99999,Organic Search,Completed,6947.36
+32251,Invalid Foreign Key: Sales_Employee_ID,O0032250,C012251,2026-01-09,R011,E00251,Referral,Completed,2059.21
+32592,Invalid Foreign Key: Customer_ID,O0032591,C012592,2025-12-16,R012,E00092,Organic Search,Returned,7287.68
+32751,Invalid Foreign Key: Sales_Employee_ID,O0032750,C012751,2026-05-24,R011,E00251,Referral,Completed,2094.84
+32961,Invalid Foreign Key: Customer_ID,O0032960,C012961,2025-12-20,R001,E00461,Email,Completed,2491.16
+33016,Invalid Foreign Key: Customer_ID,O0033015,C999999,2026-02-13,R016,E00016,Organic Search,Completed,698.09
+33251,Invalid Foreign Key: Sales_Employee_ID,O0033250,C013251,2025-10-06,R011,E00251,Google Ads,Cancelled,2080.59
+33311,Future Date: Order_Date,O0033310,C013311,2027-02-01,R011,E00311,Google Ads,Completed,509.55
+33379,Invalid Foreign Key: Customer_ID,O0033378,C013379,2026-02-11,R019,E00379,Organic Search,Completed,12774.54
+33751,Invalid Foreign Key: Sales_Employee_ID,O0033750,C013751,2026-02-18,R011,E00251,Referral,Completed,2066.34
+33764,Invalid Foreign Key: Sales_Employee_ID,O0033763,C013764,2026-03-03,R004,E99999,Google Ads,Cancelled,10404.7
+33958,Invalid Foreign Key: Customer_ID,O0033957,C013958,2025-09-13,R018,E00458,Google Ads,Completed,7068.37
+34166,Invalid Foreign Key: Customer_ID,O0034165,C014166,2026-04-09,R006,E00166,Organic Search,Completed,2661.88
+34251,Invalid Foreign Key: Sales_Employee_ID,O0034250,C014251,2026-07-03,R011,E00251,Google Ads,Completed,2052.09
+34751,Invalid Foreign Key: Sales_Employee_ID,O0034750,C014751,2025-11-15,R011,E00251,Google Ads,Completed,2087.71
+34953,Invalid Foreign Key: Customer_ID,O0034952,C014953,2026-06-05,R013,E00453,Organic Search,Completed,6411.38
+34955,Invalid Foreign Key: Customer_ID,O0034954,C014955,2026-06-07,R015,E00455,Instagram,Completed,11113.54
+35217,Invalid Foreign Key: Customer_ID,O0035216,C999999,2026-02-24,R017,E00217,Instagram,Completed,1464.19
+35251,Invalid Foreign Key: Sales_Employee_ID,O0035250,C015251,2026-03-30,R011,E00251,Instagram,Completed,2073.46
+35541,Invalid Foreign Key: Sales_Employee_ID,O0035540,C015541,2026-01-14,R001,E99999,Instagram,Completed,1669.63
+35740,Invalid Foreign Key: Customer_ID,O0035739,C015740,2026-08-01,R020,E00240,Organic Search,Cancelled,8294.42
+35751,Invalid Foreign Key: Sales_Employee_ID,O0035750,C015751,2026-08-12,R011,E00251,Instagram,Returned,2059.21
+35952,Invalid Foreign Key: Customer_ID,O0035951,C015952,2026-03-01,R012,E00452,Email,Completed,4181.82
+36251,Invalid Foreign Key: Sales_Employee_ID,O0036250,C016251,2025-12-25,R011,E00251,Organic Search,Completed,2094.84
+36527,Invalid Foreign Key: Customer_ID,O0036526,C016527,2025-09-27,R007,E00027,Referral,Completed,2271.78
+36642,Future Date: Order_Date,O0036641,C016642,2027-02-01,R002,E00142,Referral,Completed,3429.0
+36751,Invalid Foreign Key: Sales_Employee_ID,O0036750,C016751,2026-05-09,R011,E00251,Referral,Completed,2080.59
+36949,Invalid Foreign Key: Customer_ID,O0036948,C016949,2025-11-23,R009,E00449,Google Ads,Completed,8034.87
+37251,Invalid Foreign Key: Sales_Employee_ID,O0037250,C017251,2025-09-21,R011,E00251,Email,Completed,2066.34
+37314,Invalid Foreign Key: Customer_ID,O0037313,C017314,2025-11-23,R014,E00314,Organic Search,Completed,2479.6
+37318,Invalid Foreign Key: Sales_Employee_ID,O0037317,C017318,2025-11-27,R018,E99999,Email,Completed,2344.88
+37418,Invalid Foreign Key: Customer_ID,O0037417,C999999,2026-03-07,R018,E00418,Organic Search,Completed,2352.91
+37751,Invalid Foreign Key: Sales_Employee_ID,O0037750,C017751,2026-02-03,R011,E00251,Instagram,Completed,2052.09
+37946,Invalid Foreign Key: Customer_ID,O0037945,C017946,2026-08-17,R006,E00446,Email,Completed,1877.32
+38101,Invalid Foreign Key: Customer_ID,O0038100,C018101,2026-01-19,R001,E00101,Instagram,Completed,110.92
+38251,Invalid Foreign Key: Sales_Employee_ID,O0038250,C018251,2026-06-18,R011,E00251,Organic Search,Completed,2087.71
+38751,Invalid Foreign Key: Sales_Employee_ID,O0038750,C018751,2025-10-31,R011,E00251,Organic Search,Completed,2073.46
+38888,Invalid Foreign Key: Customer_ID,O0038887,C018888,2026-03-17,R008,E00388,Referral,Completed,10647.33
+38943,Invalid Foreign Key: Customer_ID,O0038942,C018943,2026-05-11,R003,E00443,Instagram,Completed,5242.64
+39095,Invalid Foreign Key: Sales_Employee_ID,O0039094,C019095,2025-10-10,R015,E99999,Email,Completed,18801.54
+39251,Invalid Foreign Key: Sales_Employee_ID,O0039250,C019251,2026-03-15,R011,E00251,Google Ads,Completed,2059.21
+39619,Invalid Foreign Key: Customer_ID,O0039618,C999999,2026-03-18,R019,E00119,Referral,Completed,3272.71
+39675,Invalid Foreign Key: Customer_ID,O0039674,C019675,2026-05-13,R015,E00175,Organic Search,Completed,15074.62
+39751,Invalid Foreign Key: Sales_Employee_ID,O0039750,C019751,2026-07-28,R011,E00251,Referral,Completed,2094.84
+39940,Invalid Foreign Key: Customer_ID,O0039939,C019940,2026-02-02,R020,E00440,Referral,Completed,8294.42
+39973,Future Date: Order_Date,O0039972,C019973,2027-02-01,R013,E00473,Email,Completed,8869.95
+40029,Duplicate Primary Key,O0040027,C000029,2026-05-02,R009,E00029,Organic Search,Completed,4875.09
+40251,Invalid Foreign Key: Sales_Employee_ID,O0040250,C000251,2025-12-10,R011,E00251,Google Ads,Completed,2080.59
+40751,Invalid Foreign Key: Sales_Employee_ID,O0040750,C000751,2026-04-24,R011,E00251,Google Ads,Completed,2066.34
+40787,Invalid Foreign Key: Customer_ID,O0040786,C000787,2026-05-30,R007,E00287,Email,Completed,7043.18
+40872,Invalid Foreign Key: Sales_Employee_ID,O0040871,C000872,2026-08-23,R012,E99999,Organic Search,Completed,5794.48
+40997,Invalid Foreign Key: Customer_ID,O0040996,C000997,2025-12-26,R017,E00497,Email,Completed,7835.82
+41251,Invalid Foreign Key: Sales_Employee_ID,O0041250,C001251,2025-09-06,R011,E00251,Email,Completed,2052.09
+41574,Invalid Foreign Key: Customer_ID,O0041573,C001574,2026-07-26,R014,E00074,Instagram,Completed,11943.69
+41751,Invalid Foreign Key: Sales_Employee_ID,O0041750,C001751,2026-01-19,R011,E00251,Email,Completed,2087.71
+41820,Invalid Foreign Key: Customer_ID,O0041819,C999999,2026-03-29,R020,E00320,Instagram,Cancelled,4257.56
+41994,Invalid Foreign Key: Customer_ID,O0041993,C001994,2025-09-19,R014,E00494,Organic Search,Completed,15092.69
+42251,Invalid Foreign Key: Sales_Employee_ID,O0042250,C002251,2026-06-03,R011,E00251,Google Ads,Returned,2073.46
+42361,Invalid Foreign Key: Customer_ID,O0042360,C002361,2025-09-21,R001,E00361,Email,Completed,2457.26
+42649,Invalid Foreign Key: Sales_Employee_ID,O0042648,C002649,2026-07-06,R009,E99999,Google Ads,Completed,8062.29
+42751,Invalid Foreign Key: Sales_Employee_ID,O0042750,C002751,2025-10-16,R011,E00251,Instagram,Cancelled,2059.21
+42991,Invalid Foreign Key: Customer_ID,O0042990,C002991,2026-06-13,R011,E00491,Referral,Completed,3630.05
+43148,Invalid Foreign Key: Customer_ID,O0043147,C003148,2025-11-17,R008,E00148,Organic Search,Returned,5806.85
+43251,Invalid Foreign Key: Sales_Employee_ID,O0043250,C003251,2026-02-28,R011,E00251,Instagram,Completed,2094.84
+43304,Future Date: Order_Date,O0043303,C003304,2027-02-01,R004,E00304,Instagram,Returned,912.73
+43751,Invalid Foreign Key: Sales_Employee_ID,O0043750,C003751,2026-07-13,R011,E00251,Referral,Completed,2080.59
+43935,Invalid Foreign Key: Customer_ID,O0043934,C003935,2026-01-13,R015,E00435,Instagram,Completed,7278.78
+43988,Invalid Foreign Key: Customer_ID,O0043987,C003988,2026-03-07,R008,E00488,Referral,Completed,10465.64
+44021,Invalid Foreign Key: Customer_ID,O0044020,C999999,2026-04-09,R001,E00021,Email,Completed,905.88
+44251,Invalid Foreign Key: Sales_Employee_ID,O0044250,C004251,2025-11-25,R011,E00251,Organic Search,Completed,2066.34
+44426,Invalid Foreign Key: Sales_Employee_ID,O0044425,C004426,2026-05-19,R006,E99999,Organic Search,Completed,1089.01
+44722,Invalid Foreign Key: Customer_ID,O0044721,C004722,2026-03-11,R002,E00222,Organic Search,Completed,1871.72
+44751,Invalid Foreign Key: Sales_Employee_ID,O0044750,C004751,2026-04-09,R011,E00251,Referral,Completed,2052.09
+44985,Invalid Foreign Key: Customer_ID,O0044984,C004985,2025-11-29,R005,E00485,Referral,Completed,17153.09
+45251,Invalid Foreign Key: Sales_Employee_ID,O0045250,C005251,2026-08-22,R011,E00251,Instagram,Completed,2087.71
+45509,Invalid Foreign Key: Customer_ID,O0045508,C005509,2026-05-07,R009,E00009,Referral,Completed,1691.89
+45751,Invalid Foreign Key: Sales_Employee_ID,O0045750,C005751,2026-01-04,R011,E00251,Google Ads,Completed,2073.46
+45982,Invalid Foreign Key: Customer_ID,O0045981,C005982,2026-08-23,R002,E00482,Email,Returned,6579.04
+46203,Invalid Foreign Key: Sales_Employee_ID,O0046202,C006203,2026-04-01,R003,E99999,Google Ads,Returned,575.53
+46222,Invalid Foreign Key: Customer_ID,O0046221,C999999,2026-04-20,R002,E00222,Instagram,Completed,1878.15
+46251,Invalid Foreign Key: Sales_Employee_ID,O0046250,C006251,2026-05-19,R011,E00251,Referral,Completed,2059.21
+46296,Invalid Foreign Key: Customer_ID,O0046295,C006296,2026-07-03,R016,E00296,Organic Search,Completed,3878.28
+46635,Future Date: Order_Date,O0046634,C006635,2027-02-01,R015,E00135,Organic Search,Completed,7253.94
+46751,Invalid Foreign Key: Sales_Employee_ID,O0046750,C006751,2025-10-01,R011,E00251,Organic Search,Completed,2094.84
+46979,Invalid Foreign Key: Customer_ID,O0046978,C006979,2026-05-17,R019,E00479,Google Ads,Completed,12600.14
+47083,Invalid Foreign Key: Customer_ID,O0047082,C007083,2026-08-29,R003,E00083,Referral,Cancelled,10020.55
+47251,Invalid Foreign Key: Sales_Employee_ID,O0047250,C007251,2026-02-13,R011,E00251,Google Ads,Completed,2080.59
+47751,Invalid Foreign Key: Sales_Employee_ID,O0047750,C007751,2026-06-28,R011,E00251,Organic Search,Completed,2066.34
+47870,Invalid Foreign Key: Customer_ID,O0047869,C007870,2025-10-25,R010,E00370,Instagram,Completed,14045.5
+47976,Invalid Foreign Key: Customer_ID,O0047975,C007976,2026-02-08,R016,E00476,Email,Cancelled,3085.64
+47980,Invalid Foreign Key: Sales_Employee_ID,O0047979,C007980,2026-02-12,R020,E99999,Google Ads,Completed,15944.97
+48251,Invalid Foreign Key: Sales_Employee_ID,O0048250,C008251,2025-11-10,R011,E00251,Instagram,Completed,2052.09
+48423,Invalid Foreign Key: Customer_ID,O0048422,C999999,2026-05-01,R003,E00423,Instagram,Completed,2915.21
+48657,Invalid Foreign Key: Customer_ID,O0048656,C008657,2025-12-21,R017,E00157,Instagram,Completed,4570.05
+48751,Invalid Foreign Key: Sales_Employee_ID,O0048750,C008751,2026-03-25,R011,E00251,Email,Returned,2087.71
+48973,Invalid Foreign Key: Customer_ID,O0048972,C008973,2025-11-02,R013,E00473,Organic Search,Completed,8839.68
+49251,Invalid Foreign Key: Sales_Employee_ID,O0049250,C009251,2026-08-07,R011,E00251,Referral,Completed,2073.46
+49444,Invalid Foreign Key: Customer_ID,O0049443,C009444,2026-02-16,R004,E00444,Email,Completed,7244.92
+49751,Invalid Foreign Key: Sales_Employee_ID,O0049750,C009751,2025-12-20,R011,E00251,Organic Search,Completed,2059.21
+49757,Invalid Foreign Key: Sales_Employee_ID,O0049756,C009757,2025-12-26,R017,E99999,Referral,Completed,4633.52
+49966,Future Date: Order_Date,O0049965,C009966,2027-02-01,R006,E00466,Referral,Completed,2634.43
+49970,Invalid Foreign Key: Customer_ID,O0049969,C009970,2026-07-27,R010,E00470,Google Ads,Completed,14045.5
+50036,Duplicate Primary Key,O0050034,C010036,2025-10-01,R016,E00036,Referral,Completed,969.62
+50231,Invalid Foreign Key: Customer_ID,O0050230,C010231,2026-04-14,R011,E00231,Instagram,Completed,850.41
+50251,Invalid Foreign Key: Sales_Employee_ID,O0050250,C010251,2026-05-04,R011,E00251,Organic Search,Completed,1382.31
+50624,Invalid Foreign Key: Customer_ID,O0050623,C999999,2026-05-12,R004,E00124,Google Ads,Completed,2649.07
+50751,Invalid Foreign Key: Sales_Employee_ID,O0050750,C010751,2025-09-16,R011,E00251,Google Ads,Completed,1389.43
+50967,Invalid Foreign Key: Customer_ID,O0050966,C010967,2026-04-20,R007,E00467,Instagram,Completed,3527.21
+51018,Invalid Foreign Key: Customer_ID,O0051017,C011018,2026-06-10,R018,E00018,Instagram,Completed,1549.87
+51251,Invalid Foreign Key: Sales_Employee_ID,O0051250,C011251,2026-01-29,R011,E00251,Google Ads,Completed,1396.56
+51534,Invalid Foreign Key: Sales_Employee_ID,O0051533,C011534,2025-11-08,R014,E99999,Email,Completed,3673.57
+51751,Invalid Foreign Key: Sales_Employee_ID,O0051750,C011751,2026-06-13,R011,E00251,Referral,Completed,1353.81
+51805,Invalid Foreign Key: Customer_ID,O0051804,C011805,2026-08-06,R005,E00305,Organic Search,Completed,896.63
+51964,Invalid Foreign Key: Customer_ID,O0051963,C011964,2026-01-12,R004,E00464,Google Ads,Completed,7031.17
+52251,Invalid Foreign Key: Sales_Employee_ID,O0052250,C012251,2025-10-26,R011,E00251,Google Ads,Cancelled,1410.81
+52592,Invalid Foreign Key: Customer_ID,O0052591,C012592,2025-10-02,R012,E00092,Email,Completed,4934.36
+52751,Invalid Foreign Key: Sales_Employee_ID,O0052750,C012751,2026-03-10,R011,E00251,Instagram,Completed,1368.06
+52825,Invalid Foreign Key: Customer_ID,O0052824,C999999,2026-05-23,R005,E00325,Instagram,Completed,3584.22
+52961,Invalid Foreign Key: Customer_ID,O0052960,C012961,2025-10-06,R001,E00461,Google Ads,Completed,1626.88
+53251,Invalid Foreign Key: Sales_Employee_ID,O0053250,C013251,2026-07-23,R011,E00251,Organic Search,Completed,1375.18
+53297,Future Date: Order_Date,O0053296,C013297,2027-02-01,R017,E00297,Email,Completed,5117.27
+53311,Invalid Foreign Key: Sales_Employee_ID,O0053310,C013311,2025-09-21,R011,E99999,Referral,Completed,332.77
+53379,Invalid Foreign Key: Customer_ID,O0053378,C013379,2025-11-28,R019,E00379,Google Ads,Returned,8545.43
+53751,Invalid Foreign Key: Sales_Employee_ID,O0053750,C013751,2025-12-05,R011,E00251,Organic Search,Completed,1382.31
+53958,Invalid Foreign Key: Customer_ID,O0053957,C013958,2026-06-30,R018,E00458,Google Ads,Completed,4671.9
+54166,Invalid Foreign Key: Customer_ID,O0054165,C014166,2026-01-24,R006,E00166,Email,Completed,1737.99
+54251,Invalid Foreign Key: Sales_Employee_ID,O0054250,C014251,2026-04-19,R011,E00251,Instagram,Completed,1389.43
+54751,Invalid Foreign Key: Sales_Employee_ID,O0054750,C014751,2025-09-01,R011,E00251,Google Ads,Completed,1396.56
+54953,Invalid Foreign Key: Customer_ID,O0054952,C014953,2026-03-22,R013,E00453,Instagram,Completed,4392.57
+54955,Invalid Foreign Key: Customer_ID,O0054954,C014955,2026-03-24,R015,E00455,Organic Search,Completed,7434.57
+55026,Invalid Foreign Key: Customer_ID,O0055025,C999999,2026-06-03,R006,E00026,Referral,Completed,721.0
+55088,Invalid Foreign Key: Sales_Employee_ID,O0055087,C015088,2026-08-04,R008,E99999,Organic Search,Completed,7049.77
+55251,Invalid Foreign Key: Sales_Employee_ID,O0055250,C015251,2026-01-14,R011,E00251,Google Ads,Returned,1353.81
+55740,Invalid Foreign Key: Customer_ID,O0055739,C015740,2026-05-18,R020,E00240,Google Ads,Completed,5416.77
+55751,Invalid Foreign Key: Sales_Employee_ID,O0055750,C015751,2026-05-29,R011,E00251,Instagram,Completed,1410.81
+55952,Invalid Foreign Key: Customer_ID,O0055951,C015952,2025-12-16,R012,E00452,Referral,Completed,2831.44
+56251,Invalid Foreign Key: Sales_Employee_ID,O0056250,C016251,2025-10-11,R011,E00251,Instagram,Completed,1368.06
+56527,Invalid Foreign Key: Customer_ID,O0056526,C016527,2026-07-14,R007,E00027,Email,Completed,1501.55
+56628,Future Date: Order_Date,O0056627,C016628,2027-02-01,R008,E00128,Google Ads,Completed,2342.45
+56751,Invalid Foreign Key: Sales_Employee_ID,O0056750,C016751,2026-02-23,R011,E00251,Referral,Completed,1375.18
+56865,Invalid Foreign Key: Sales_Employee_ID,O0056864,C016865,2026-06-17,R005,E99999,Email,Completed,8832.29
+56949,Invalid Foreign Key: Customer_ID,O0056948,C016949,2025-09-09,R009,E00449,Referral,Completed,5374.86
+57227,Invalid Foreign Key: Customer_ID,O0057226,C999999,2026-06-14,R007,E00227,Email,Returned,1501.55
+57251,Invalid Foreign Key: Sales_Employee_ID,O0057250,C017251,2026-07-08,R011,E00251,Email,Completed,1382.31
+57314,Invalid Foreign Key: Customer_ID,O0057313,C017314,2025-09-09,R014,E00314,Email,Completed,1658.77
+57751,Invalid Foreign Key: Sales_Employee_ID,O0057750,C017751,2025-11-20,R011,E00251,Google Ads,Completed,1389.43
+57946,Invalid Foreign Key: Customer_ID,O0057945,C017946,2026-06-03,R006,E00446,Referral,Completed,1225.74
+58101,Invalid Foreign Key: Customer_ID,O0058100,C018101,2025-11-05,R001,E00101,Referral,Completed,75.1
+58251,Invalid Foreign Key: Sales_Employee_ID,O0058250,C018251,2026-04-04,R011,E00251,Instagram,Completed,1396.56
+58642,Invalid Foreign Key: Sales_Employee_ID,O0058641,C018642,2026-04-30,R002,E99999,Referral,Completed,2341.18
+58751,Invalid Foreign Key: Sales_Employee_ID,O0058750,C018751,2026-08-17,R011,E00251,Email,Completed,1353.81
+58888,Invalid Foreign Key: Customer_ID,O0058887,C018888,2026-01-01,R008,E00388,Google Ads,Completed,7122.45
+58943,Invalid Foreign Key: Customer_ID,O0058942,C018943,2026-02-25,R003,E00443,Google Ads,Returned,3591.84
+59251,Invalid Foreign Key: Sales_Employee_ID,O0059250,C019251,2025-12-30,R011,E00251,Google Ads,Completed,1410.81
+59428,Invalid Foreign Key: Customer_ID,O0059427,C999999,2026-06-25,R008,E00428,Referral,Completed,2342.45
+59675,Invalid Foreign Key: Customer_ID,O0059674,C019675,2026-02-27,R015,E00175,Google Ads,Completed,9842.54
+59751,Invalid Foreign Key: Sales_Employee_ID,O0059750,C019751,2026-05-14,R011,E00251,Instagram,Completed,1368.06
+59940,Invalid Foreign Key: Customer_ID,O0059939,C019940,2025-11-19,R020,E00440,Google Ads,Completed,5416.77
+59959,Future Date: Order_Date,O0059958,C019959,2027-02-01,R019,E00459,Google Ads,Completed,6431.72
+60043,Duplicate Primary Key,O0060041,C000043,2026-03-02,R003,E00043,Instagram,Completed,3555.56
+60251,Invalid Foreign Key: Sales_Employee_ID,O0060250,C000251,2025-09-26,R011,E00251,Organic Search,Completed,1375.18
+60419,Invalid Foreign Key: Sales_Employee_ID,O0060418,C000419,2026-03-13,R019,E99999,Instagram,Completed,2170.56
+60751,Invalid Foreign Key: Sales_Employee_ID,O0060750,C000751,2026-02-08,R011,E00251,Google Ads,Completed,1382.31
+60787,Invalid Foreign Key: Customer_ID,O0060786,C000787,2026-03-16,R007,E00287,Referral,Completed,4599.63
+60997,Invalid Foreign Key: Customer_ID,O0060996,C000997,2025-10-12,R017,E00497,Organic Search,Returned,5117.27
+61251,Invalid Foreign Key: Sales_Employee_ID,O0061250,C001251,2026-06-23,R011,E00251,Email,Completed,1389.43
+61574,Invalid Foreign Key: Customer_ID,O0061573,C001574,2026-05-12,R014,E00074,Instagram,Completed,7894.29
+61629,Invalid Foreign Key: Customer_ID,O0061628,C999999,2026-07-06,R009,E00129,Instagram,Completed,3244.51
+61751,Invalid Foreign Key: Sales_Employee_ID,O0061750,C001751,2025-11-05,R011,E00251,Google Ads,Cancelled,1396.56
+61994,Invalid Foreign Key: Customer_ID,O0061993,C001994,2026-07-06,R014,E00494,Instagram,Completed,9975.65
+62196,Invalid Foreign Key: Sales_Employee_ID,O0062195,C002196,2026-01-24,R016,E99999,Referral,Completed,2572.33
+62251,Invalid Foreign Key: Sales_Employee_ID,O0062250,C002251,2026-03-20,R011,E00251,Instagram,Completed,1353.81
+62361,Invalid Foreign Key: Customer_ID,O0062360,C002361,2026-07-08,R001,E00361,Referral,Completed,1643.83
+62751,Invalid Foreign Key: Sales_Employee_ID,O0062750,C002751,2026-08-02,R011,E00251,Referral,Completed,1410.81
+62991,Invalid Foreign Key: Customer_ID,O0062990,C002991,2026-03-30,R011,E00491,Email,Completed,2428.38
+63148,Invalid Foreign Key: Customer_ID,O0063147,C003148,2025-09-03,R008,E00148,Google Ads,Completed,3931.72
+63251,Invalid Foreign Key: Sales_Employee_ID,O0063250,C003251,2025-12-15,R011,E00251,Instagram,Completed,1368.06
+63290,Future Date: Order_Date,O0063289,C003290,2027-02-01,R010,E00290,Instagram,Cancelled,12258.78
+63751,Invalid Foreign Key: Sales_Employee_ID,O0063750,C003751,2026-04-29,R011,E00251,Google Ads,Completed,1375.18
+63830,Invalid Foreign Key: Customer_ID,O0063829,C999999,2026-07-17,R010,E00330,Organic Search,Completed,4208.55
+63935,Invalid Foreign Key: Customer_ID,O0063934,C003935,2025-10-30,R015,E00435,Organic Search,Returned,4869.08
+63973,Invalid Foreign Key: Sales_Employee_ID,O0063972,C003973,2025-12-07,R013,E99999,Referral,Completed,5751.85
+63988,Invalid Foreign Key: Customer_ID,O0063987,C003988,2025-12-22,R008,E00488,Organic Search,Completed,7086.11
+64251,Invalid Foreign Key: Sales_Employee_ID,O0064250,C004251,2025-09-11,R011,E00251,Email,Completed,1382.31
+64722,Invalid Foreign Key: Customer_ID,O0064721,C004722,2025-12-26,R002,E00222,Google Ads,Completed,1222.08
+64751,Invalid Foreign Key: Sales_Employee_ID,O0064750,C004751,2026-01-24,R011,E00251,Email,Completed,1389.43
+64985,Invalid Foreign Key: Customer_ID,O0064984,C004985,2025-09-15,R005,E00485,Referral,Completed,11474.42
+65251,Invalid Foreign Key: Sales_Employee_ID,O0065250,C005251,2026-06-08,R011,E00251,Google Ads,Completed,1396.56
+65509,Invalid Foreign Key: Customer_ID,O0065508,C005509,2026-02-21,R009,E00009,Email,Completed,1159.15
+65750,Invalid Foreign Key: Sales_Employee_ID,O0065749,C005750,2025-10-20,R010,E99999,Email,Completed,6710.87
+65751,Invalid Foreign Key: Sales_Employee_ID,O0065750,C005751,2025-10-21,R011,E00251,Organic Search,Completed,1353.81
+65982,Invalid Foreign Key: Customer_ID,O0065981,C005982,2026-06-09,R002,E00482,Google Ads,Completed,4295.59
+66031,Invalid Foreign Key: Customer_ID,O0066030,C999999,2026-07-28,R011,E00031,Referral,Completed,841.56
+66251,Invalid Foreign Key: Sales_Employee_ID,O0066250,C006251,2026-03-05,R011,E00251,Google Ads,Completed,1410.81
+66296,Invalid Foreign Key: Customer_ID,O0066295,C006296,2026-04-19,R016,E00296,Organic Search,Completed,2532.75
+66621,Future Date: Order_Date,O0066620,C006621,2027-02-01,R001,E00121,Referral,Completed,594.67
+66751,Invalid Foreign Key: Sales_Employee_ID,O0066750,C006751,2026-07-18,R011,E00251,Organic Search,Completed,1368.06
+66979,Invalid Foreign Key: Customer_ID,O0066978,C006979,2026-03-03,R019,E00479,Organic Search,Completed,8632.62
+67083,Invalid Foreign Key: Customer_ID,O0067082,C007083,2026-06-15,R003,E00083,Organic Search,Completed,6623.18
+67251,Invalid Foreign Key: Sales_Employee_ID,O0067250,C007251,2025-11-30,R011,E00251,Google Ads,Completed,1375.18
+67527,Invalid Foreign Key: Sales_Employee_ID,O0067526,C007527,2025-09-02,R007,E99999,Email,Cancelled,1509.33
+67751,Invalid Foreign Key: Sales_Employee_ID,O0067750,C007751,2026-04-14,R011,E00251,Referral,Completed,1382.31
+67870,Invalid Foreign Key: Customer_ID,O0067869,C007870,2026-08-11,R010,E00370,Referral,Completed,9395.96
+67976,Invalid Foreign Key: Customer_ID,O0067975,C007976,2025-11-25,R016,E00476,Organic Search,Completed,2015.11
+68232,Invalid Foreign Key: Customer_ID,O0068231,C999999,2026-08-08,R012,E00232,Google Ads,Completed,1807.36
+68251,Invalid Foreign Key: Sales_Employee_ID,O0068250,C008251,2026-08-27,R011,E00251,Email,Returned,1389.43
+68657,Invalid Foreign Key: Customer_ID,O0068656,C008657,2025-10-07,R017,E00157,Email,Completed,3094.3
+68751,Invalid Foreign Key: Sales_Employee_ID,O0068750,C008751,2026-01-09,R011,E00251,Google Ads,Completed,1396.56
+68973,Invalid Foreign Key: Customer_ID,O0068972,C008973,2026-08-19,R013,E00473,Email,Completed,5842.67
+69251,Invalid Foreign Key: Sales_Employee_ID,O0069250,C009251,2026-05-24,R011,E00251,Organic Search,Completed,1353.81
+69304,Invalid Foreign Key: Sales_Employee_ID,O0069303,C009304,2026-07-16,R004,E99999,Organic Search,Returned,619.01
+69444,Invalid Foreign Key: Customer_ID,O0069443,C009444,2025-12-03,R004,E00444,Instagram,Completed,4846.43
+69751,Invalid Foreign Key: Sales_Employee_ID,O0069750,C009751,2025-10-06,R011,E00251,Instagram,Completed,1410.81
+69952,Future Date: Order_Date,O0069951,C009952,2027-02-01,R012,E00452,Referral,Completed,2831.44
+69970,Invalid Foreign Key: Customer_ID,O0069969,C009970,2026-05-13,R010,E00470,Instagram,Completed,9395.96
+70050,Duplicate Primary Key,O0070048,C010050,2026-08-01,R010,E00050,Instagram,Completed,6815.73
+70231,Invalid Foreign Key: Customer_ID,O0070230,C010231,2026-01-29,R011,E00231,Instagram,Completed,841.56
+70251,Invalid Foreign Key: Sales_Employee_ID,O0070250,C010251,2026-02-18,R011,E00251,Organic Search,Completed,1368.06
+70433,Invalid Foreign Key: Customer_ID,O0070432,C999999,2026-08-19,R013,E00433,Referral,Completed,2706.53
+70751,Invalid Foreign Key: Sales_Employee_ID,O0070750,C010751,2026-07-03,R011,E00251,Email,Completed,1375.18
+70967,Invalid Foreign Key: Customer_ID,O0070966,C010967,2026-02-04,R007,E00467,Instagram,Completed,3620.04
+71018,Invalid Foreign Key: Customer_ID,O0071017,C011018,2026-03-27,R018,E00018,Google Ads,Completed,1590.02
+71081,Invalid Foreign Key: Sales_Employee_ID,O0071080,C011081,2026-05-29,R001,E99999,Referral,Completed,2211.54
+71251,Invalid Foreign Key: Sales_Employee_ID,O0071250,C011251,2025-11-15,R011,E00251,Email,Cancelled,1382.31
+71751,Invalid Foreign Key: Sales_Employee_ID,O0071750,C011751,2026-03-30,R011,E00251,Referral,Completed,1389.43
+71805,Invalid Foreign Key: Customer_ID,O0071804,C011805,2026-05-23,R005,E00305,Referral,Completed,887.39
+71964,Invalid Foreign Key: Customer_ID,O0071963,C011964,2025-10-29,R004,E00464,Google Ads,Completed,6960.14
+72251,Invalid Foreign Key: Sales_Employee_ID,O0072250,C012251,2026-08-12,R011,E00251,Referral,Completed,1396.56
+72592,Invalid Foreign Key: Customer_ID,O0072591,C012592,2026-07-19,R012,E00092,Email,Completed,4883.76
+72634,Invalid Foreign Key: Customer_ID,O0072633,C999999,2026-08-30,R014,E00134,Instagram,Completed,3731.58
+72751,Invalid Foreign Key: Sales_Employee_ID,O0072750,C012751,2025-12-25,R011,E00251,Referral,Completed,1353.81
+72858,Invalid Foreign Key: Sales_Employee_ID,O0072857,C012858,2026-04-11,R018,E99999,Email,Completed,4671.9
+72961,Invalid Foreign Key: Customer_ID,O0072960,C012961,2026-07-23,R001,E00461,Referral,Cancelled,1609.93
+73251,Invalid Foreign Key: Sales_Employee_ID,O0073250,C013251,2026-05-09,R011,E00251,Email,Completed,1410.81
+73283,Future Date: Order_Date,O0073282,C013283,2027-02-01,R003,E00283,Email,Completed,6520.22
+73379,Invalid Foreign Key: Customer_ID,O0073378,C013379,2025-09-14,R019,E00379,Referral,Cancelled,8458.23
+73751,Invalid Foreign Key: Sales_Employee_ID,O0073750,C013751,2025-09-21,R011,E00251,Organic Search,Completed,1368.06
+73958,Invalid Foreign Key: Customer_ID,O0073957,C013958,2026-04-16,R018,E00458,Referral,Returned,4792.94
+74166,Invalid Foreign Key: Customer_ID,O0074165,C014166,2025-11-10,R006,E00166,Organic Search,Returned,1783.73
+74251,Invalid Foreign Key: Sales_Employee_ID,O0074250,C014251,2026-02-03,R011,E00251,Instagram,Completed,1375.18
+74635,Invalid Foreign Key: Sales_Employee_ID,O0074634,C014635,2026-02-22,R015,E99999,Instagram,Completed,4844.24
+74751,Invalid Foreign Key: Sales_Employee_ID,O0074750,C014751,2026-06-18,R011,E00251,Organic Search,Returned,1382.31
+74835,Invalid Foreign Key: Customer_ID,O0074834,C999999,2025-09-10,R015,E00335,Google Ads,Completed,4819.4
+74953,Invalid Foreign Key: Customer_ID,O0074952,C014953,2026-01-06,R013,E00453,Email,Completed,4348.2
+74955,Invalid Foreign Key: Customer_ID,O0074954,C014955,2026-01-08,R015,E00455,Google Ads,Completed,7357.93
+75251,Invalid Foreign Key: Sales_Employee_ID,O0075250,C015251,2025-10-31,R011,E00251,Organic Search,Completed,1389.43
+75740,Invalid Foreign Key: Customer_ID,O0075739,C015740,2026-03-04,R020,E00240,Google Ads,Completed,5360.34
+75751,Invalid Foreign Key: Sales_Employee_ID,O0075750,C015751,2026-03-15,R011,E00251,Google Ads,Completed,1396.56
+75952,Invalid Foreign Key: Customer_ID,O0075951,C015952,2025-10-02,R012,E00452,Organic Search,Completed,2802.4
+76251,Invalid Foreign Key: Sales_Employee_ID,O0076250,C016251,2026-07-28,R011,E00251,Organic Search,Completed,1353.81
+76412,Invalid Foreign Key: Sales_Employee_ID,O0076411,C016412,2026-01-05,R012,E99999,Instagram,Completed,709.83
+76527,Invalid Foreign Key: Customer_ID,O0076526,C016527,2026-04-30,R007,E00027,Organic Search,Completed,1540.45
+76614,Future Date: Order_Date,O0076613,C016614,2027-02-01,R014,E00114,Organic Search,Completed,1641.67
+76751,Invalid Foreign Key: Sales_Employee_ID,O0076750,C016751,2025-12-10,R011,E00251,Email,Completed,1410.81
+76949,Invalid Foreign Key: Customer_ID,O0076948,C016949,2026-06-26,R009,E00449,Organic Search,Completed,5320.02
+77036,Invalid Foreign Key: Customer_ID,O0077035,C999999,2025-09-21,R016,E00036,Google Ads,Completed,995.13
+77251,Invalid Foreign Key: Sales_Employee_ID,O0077250,C017251,2026-04-24,R011,E00251,Google Ads,Completed,1368.06
+77314,Invalid Foreign Key: Customer_ID,O0077313,C017314,2026-06-26,R014,E00314,Email,Completed,1641.67
+77751,Invalid Foreign Key: Sales_Employee_ID,O0077750,C017751,2025-09-06,R011,E00251,Referral,Completed,1375.18
+77946,Invalid Foreign Key: Customer_ID,O0077945,C017946,2026-03-20,R006,E00446,Email,Completed,1258.0
+78101,Invalid Foreign Key: Customer_ID,O0078100,C018101,2026-08-22,R001,E00101,Email,Completed,74.33
+78189,Invalid Foreign Key: Sales_Employee_ID,O0078188,C018189,2025-11-18,R009,E99999,Referral,Completed,9406.32
+78251,Invalid Foreign Key: Sales_Employee_ID,O0078250,C018251,2026-01-19,R011,E00251,Referral,Completed,1382.31
+78751,Invalid Foreign Key: Sales_Employee_ID,O0078750,C018751,2026-06-03,R011,E00251,Google Ads,Completed,1389.43
+78888,Invalid Foreign Key: Customer_ID,O0078887,C018888,2025-10-18,R008,E00388,Referral,Completed,7049.77
+78943,Invalid Foreign Key: Customer_ID,O0078942,C018943,2025-12-12,R003,E00443,Instagram,Completed,3555.56
+79237,Invalid Foreign Key: Customer_ID,O0079236,C999999,2025-10-02,R017,E00237,Email,Completed,2053.32
+79251,Invalid Foreign Key: Sales_Employee_ID,O0079250,C019251,2025-10-16,R011,E00251,Organic Search,Completed,1396.56
+79675,Invalid Foreign Key: Customer_ID,O0079674,C019675,2025-12-14,R015,E00175,Instagram,Completed,10101.55
+79751,Invalid Foreign Key: Sales_Employee_ID,O0079750,C019751,2026-02-28,R011,E00251,Instagram,Completed,1353.81
+79940,Invalid Foreign Key: Customer_ID,O0079939,C019940,2025-09-05,R020,E00440,Organic Search,Completed,5360.34
+79945,Future Date: Order_Date,O0079944,C019945,2027-02-01,R005,E00445,Referral,Completed,6126.98
+79966,Invalid Foreign Key: Sales_Employee_ID,O0079965,C019966,2025-10-01,R006,E99999,Referral,Completed,1774.58
+80057,Duplicate Primary Key,O0080055,C000057,2025-12-31,R017,E00057,Email,Completed,3078.44
+80251,Invalid Foreign Key: Sales_Employee_ID,O0080250,C000251,2026-07-13,R011,E00251,Organic Search,Completed,1410.81
+80751,Invalid Foreign Key: Sales_Employee_ID,O0080750,C000751,2025-11-25,R011,E00251,Referral,Cancelled,1368.06
+80787,Invalid Foreign Key: Customer_ID,O0080786,C000787,2025-12-31,R007,E00287,Instagram,Completed,4551.72
+80997,Invalid Foreign Key: Customer_ID,O0080996,C000997,2026-07-29,R017,E00497,Organic Search,Completed,5063.97
+81251,Invalid Foreign Key: Sales_Employee_ID,O0081250,C001251,2026-04-09,R011,E00251,Email,Returned,1375.18
+81438,Invalid Foreign Key: Customer_ID,O0081437,C999999,2025-10-13,R018,E00438,Email,Completed,3062.53
+81574,Invalid Foreign Key: Customer_ID,O0081573,C001574,2026-02-26,R014,E00074,Email,Completed,8098.8
+81743,Invalid Foreign Key: Sales_Employee_ID,O0081742,C001743,2026-08-14,R003,E99999,Email,Completed,3555.56
+81751,Invalid Foreign Key: Sales_Employee_ID,O0081750,C001751,2026-08-22,R011,E00251,Instagram,Completed,1382.31
+81994,Invalid Foreign Key: Customer_ID,O0081993,C001994,2026-04-22,R014,E00494,Email,Completed,10234.08
+82251,Invalid Foreign Key: Sales_Employee_ID,O0082250,C002251,2026-01-04,R011,E00251,Instagram,Completed,1389.43
+82361,Invalid Foreign Key: Customer_ID,O0082360,C002361,2026-04-24,R001,E00361,Email,Completed,1626.88
+82751,Invalid Foreign Key: Sales_Employee_ID,O0082750,C002751,2026-05-19,R011,E00251,Email,Completed,1396.56
+82991,Invalid Foreign Key: Customer_ID,O0082990,C002991,2026-01-14,R011,E00491,Referral,Completed,2403.34
+83148,Invalid Foreign Key: Customer_ID,O0083147,C003148,2026-06-20,R008,E00148,Referral,Completed,3891.39
+83251,Invalid Foreign Key: Sales_Employee_ID,O0083250,C003251,2025-10-01,R011,E00251,Referral,Completed,1353.81
+83276,Future Date: Order_Date,O0083275,C003276,2027-02-01,R016,E00276,Organic Search,Completed,2057.09
+83520,Invalid Foreign Key: Sales_Employee_ID,O0083519,C003520,2026-06-27,R020,E99999,Organic Search,Completed,2916.94
+83639,Invalid Foreign Key: Customer_ID,O0083638,C999999,2025-10-24,R019,E00139,Referral,Cancelled,4362.07
+83751,Invalid Foreign Key: Sales_Employee_ID,O0083750,C003751,2026-02-13,R011,E00251,Instagram,Completed,1410.81
+83935,Invalid Foreign Key: Customer_ID,O0083934,C003935,2026-08-16,R015,E00435,Organic Search,Completed,4819.4
+83988,Invalid Foreign Key: Customer_ID,O0083987,C003988,2025-10-08,R008,E00488,Email,Completed,7013.43
+84251,Invalid Foreign Key: Sales_Employee_ID,O0084250,C004251,2026-06-28,R011,E00251,Referral,Completed,1368.06
+84722,Invalid Foreign Key: Customer_ID,O0084721,C004722,2025-10-12,R002,E00222,Referral,Cancelled,1254.24
+84751,Invalid Foreign Key: Sales_Employee_ID,O0084750,C004751,2025-11-10,R011,E00251,Referral,Completed,1375.18
+84985,Invalid Foreign Key: Customer_ID,O0084984,C004985,2026-07-02,R005,E00485,Referral,Completed,11357.34
+85251,Invalid Foreign Key: Sales_Employee_ID,O0085250,C005251,2026-03-25,R011,E00251,Google Ads,Completed,1382.31
+85297,Invalid Foreign Key: Sales_Employee_ID,O0085296,C005297,2026-05-10,R017,E99999,Referral,Completed,5143.92
+85509,Invalid Foreign Key: Customer_ID,O0085508,C005509,2025-12-08,R009,E00009,Organic Search,Completed,1147.44
+85751,Invalid Foreign Key: Sales_Employee_ID,O0085750,C005751,2026-08-07,R011,E00251,Instagram,Completed,1389.43
+85840,Invalid Foreign Key: Customer_ID,O0085839,C999999,2025-11-04,R020,E00340,Google Ads,Returned,5416.77
+85982,Invalid Foreign Key: Customer_ID,O0085981,C005982,2026-03-26,R002,E00482,Email,Completed,4408.63
+86251,Invalid Foreign Key: Sales_Employee_ID,O0086250,C006251,2025-12-20,R011,E00251,Organic Search,Completed,1396.56
+86296,Invalid Foreign Key: Customer_ID,O0086295,C006296,2026-02-03,R016,E00296,Instagram,Completed,2506.37
+86607,Future Date: Order_Date,O0086606,C006607,2027-02-01,R007,E00107,Google Ads,Returned,472.81
+86751,Invalid Foreign Key: Sales_Employee_ID,O0086750,C006751,2026-05-04,R011,E00251,Instagram,Completed,1353.81
+86979,Invalid Foreign Key: Customer_ID,O0086978,C006979,2025-12-18,R019,E00479,Referral,Completed,8545.43
+87074,Invalid Foreign Key: Sales_Employee_ID,O0087073,C007074,2026-03-23,R014,E99999,Instagram,Completed,7976.1
+87083,Invalid Foreign Key: Customer_ID,O0087082,C007083,2026-04-01,R003,E00083,Email,Completed,6794.76
+87251,Invalid Foreign Key: Sales_Employee_ID,O0087250,C007251,2025-09-16,R011,E00251,Email,Completed,1410.81
+87751,Invalid Foreign Key: Sales_Employee_ID,O0087750,C007751,2026-01-29,R011,E00251,Referral,Returned,1368.06
+87870,Invalid Foreign Key: Customer_ID,O0087869,C007870,2026-05-28,R010,E00370,Referral,Completed,9299.09
+87976,Invalid Foreign Key: Customer_ID,O0087975,C007976,2025-09-11,R016,E00476,Google Ads,Completed,1994.12
+88041,Invalid Foreign Key: Customer_ID,O0088040,C999999,2025-11-15,R001,E00041,Google Ads,Completed,1115.01
+88251,Invalid Foreign Key: Sales_Employee_ID,O0088250,C008251,2026-06-13,R011,E00251,Google Ads,Completed,1375.18
+88657,Invalid Foreign Key: Customer_ID,O0088656,C008657,2026-07-24,R017,E00157,Organic Search,Completed,3062.57
+88751,Invalid Foreign Key: Sales_Employee_ID,O0088750,C008751,2025-10-26,R011,E00251,Organic Search,Completed,1382.31
+88851,Invalid Foreign Key: Sales_Employee_ID,O0088850,C008851,2026-02-03,R011,E99999,Organic Search,Completed,1353.81
+88973,Invalid Foreign Key: Customer_ID,O0088972,C008973,2026-06-05,R013,E00473,Organic Search,Returned,5994.03
+89251,Invalid Foreign Key: Sales_Employee_ID,O0089250,C009251,2026-03-10,R011,E00251,Organic Search,Completed,1389.43
+89444,Invalid Foreign Key: Customer_ID,O0089443,C009444,2025-09-19,R004,E00444,Google Ads,Completed,4796.98
+89751,Invalid Foreign Key: Sales_Employee_ID,O0089750,C009751,2026-07-23,R011,E00251,Email,Completed,1396.56
+89938,Future Date: Order_Date,O0089937,C009938,2027-02-01,R018,E00438,Referral,Completed,3110.89
+89970,Invalid Foreign Key: Customer_ID,O0089969,C009970,2026-02-27,R010,E00470,Google Ads,Completed,9299.09
+90064,Duplicate Primary Key,O0090062,C010064,2026-06-01,R004,E00064,Instagram,Completed,6853.61
+90231,Invalid Foreign Key: Customer_ID,O0090230,C010231,2025-11-15,R011,E00231,Referral,Completed,863.7
+90242,Invalid Foreign Key: Customer_ID,O0090241,C999999,2025-11-26,R002,E00242,Instagram,Completed,2293.88
+90251,Invalid Foreign Key: Sales_Employee_ID,O0090250,C010251,2025-12-05,R011,E00251,Referral,Cancelled,1353.81
+90628,Invalid Foreign Key: Sales_Employee_ID,O0090627,C010628,2025-12-17,R008,E99999,Email,Completed,2318.3
+90751,Invalid Foreign Key: Sales_Employee_ID,O0090750,C010751,2026-04-19,R011,E00251,Referral,Completed,1410.81
+90967,Invalid Foreign Key: Customer_ID,O0090966,C010967,2025-11-21,R007,E00467,Google Ads,Completed,3582.91
+91018,Invalid Foreign Key: Customer_ID,O0091017,C011018,2026-01-11,R018,E00018,Instagram,Completed,1573.96
+91251,Invalid Foreign Key: Sales_Employee_ID,O0091250,C011251,2025-09-01,R011,E00251,Email,Completed,1368.06
+91751,Invalid Foreign Key: Sales_Employee_ID,O0091750,C011751,2026-01-14,R011,E00251,Google Ads,Completed,1375.18
+91805,Invalid Foreign Key: Customer_ID,O0091804,C011805,2026-03-09,R005,E00305,Instagram,Completed,878.14
+91964,Invalid Foreign Key: Customer_ID,O0091963,C011964,2026-08-15,R004,E00464,Instagram,Completed,6889.12
+92251,Invalid Foreign Key: Sales_Employee_ID,O0092250,C012251,2026-05-29,R011,E00251,Google Ads,Completed,1382.31
+92405,Invalid Foreign Key: Sales_Employee_ID,O0092404,C012405,2025-10-30,R005,E99999,Referral,Returned,896.63
+92443,Invalid Foreign Key: Customer_ID,O0092442,C999999,2025-12-07,R003,E00443,Organic Search,Completed,3537.42
+92592,Invalid Foreign Key: Customer_ID,O0092591,C012592,2026-05-05,R012,E00092,Organic Search,Completed,5010.28
+92751,Invalid Foreign Key: Sales_Employee_ID,O0092750,C012751,2025-10-11,R011,E00251,Instagram,Completed,1389.43
+92961,Invalid Foreign Key: Customer_ID,O0092960,C012961,2026-05-09,R001,E00461,Google Ads,Completed,1652.3
+93251,Invalid Foreign Key: Sales_Employee_ID,O0093250,C013251,2026-02-23,R011,E00251,Email,Completed,1396.56
+93269,Future Date: Order_Date,O0093268,C013269,2027-02-01,R009,E00269,Referral,Completed,7450.36
+93379,Invalid Foreign Key: Customer_ID,O0093378,C013379,2026-07-01,R019,E00379,Google Ads,Completed,8371.03
+93751,Invalid Foreign Key: Sales_Employee_ID,O0093750,C013751,2026-07-08,R011,E00251,Referral,Completed,1353.81
+93958,Invalid Foreign Key: Customer_ID,O0093957,C013958,2026-01-31,R018,E00458,Organic Search,Completed,4744.52
+94166,Invalid Foreign Key: Customer_ID,O0094165,C014166,2026-08-27,R006,E00166,Instagram,Completed,1765.44
+94182,Invalid Foreign Key: Sales_Employee_ID,O0094181,C014182,2025-09-12,R002,E99999,Google Ads,Completed,4431.24
+94251,Invalid Foreign Key: Sales_Employee_ID,O0094250,C014251,2025-11-20,R011,E00251,Email,Returned,1410.81
+94644,Invalid Foreign Key: Customer_ID,O0094643,C999999,2025-12-18,R004,E00144,Referral,Completed,4846.43
+94751,Invalid Foreign Key: Sales_Employee_ID,O0094750,C014751,2026-04-04,R011,E00251,Referral,Completed,1368.06
+94953,Invalid Foreign Key: Customer_ID,O0094952,C014953,2025-10-23,R013,E00453,Organic Search,Returned,4303.83
+94955,Invalid Foreign Key: Customer_ID,O0094954,C014955,2025-10-25,R015,E00455,Google Ads,Completed,7281.28
+95251,Invalid Foreign Key: Sales_Employee_ID,O0095250,C015251,2026-08-17,R011,E00251,Organic Search,Completed,1375.18
+95740,Invalid Foreign Key: Customer_ID,O0095739,C015740,2025-12-19,R020,E00240,Email,Completed,5501.4
+95751,Invalid Foreign Key: Sales_Employee_ID,O0095750,C015751,2025-12-30,R011,E00251,Instagram,Completed,1382.31
+95952,Invalid Foreign Key: Customer_ID,O0095951,C015952,2026-07-19,R012,E00452,Instagram,Completed,2875.0
+95959,Invalid Foreign Key: Sales_Employee_ID,O0095958,C015959,2026-07-26,R019,E99999,Referral,Completed,6497.35
+96251,Invalid Foreign Key: Sales_Employee_ID,O0096250,C016251,2026-05-14,R011,E00251,Organic Search,Completed,1389.43
+96527,Invalid Foreign Key: Customer_ID,O0096526,C016527,2026-02-14,R007,E00027,Organic Search,Completed,1524.89
+96600,Future Date: Order_Date,O0096599,C016600,2027-02-01,R020,E00100,Google Ads,Completed,13044.11
+96751,Invalid Foreign Key: Sales_Employee_ID,O0096750,C016751,2025-09-26,R011,E00251,Email,Completed,1396.56
+96845,Invalid Foreign Key: Customer_ID,O0096844,C999999,2025-12-29,R005,E00345,Instagram,Completed,6000.66
+96949,Invalid Foreign Key: Customer_ID,O0096948,C016949,2026-04-12,R009,E00449,Organic Search,Completed,5265.17
+97251,Invalid Foreign Key: Sales_Employee_ID,O0097250,C017251,2026-02-08,R011,E00251,Referral,Completed,1353.81
+97314,Invalid Foreign Key: Customer_ID,O0097313,C017314,2026-04-12,R014,E00314,Instagram,Completed,1624.57
+97736,Invalid Foreign Key: Sales_Employee_ID,O0097735,C017736,2026-06-08,R016,E99999,Email,Completed,984.93
+97751,Invalid Foreign Key: Sales_Employee_ID,O0097750,C017751,2026-06-23,R011,E00251,Organic Search,Completed,1410.81
+97946,Invalid Foreign Key: Customer_ID,O0097945,C017946,2026-01-04,R006,E00446,Instagram,Cancelled,1245.1
+98101,Invalid Foreign Key: Customer_ID,O0098100,C018101,2026-06-08,R001,E00101,Email,Completed,76.26
+98251,Invalid Foreign Key: Sales_Employee_ID,O0098250,C018251,2025-11-05,R011,E00251,Instagram,Completed,1368.06
+98751,Invalid Foreign Key: Sales_Employee_ID,O0098750,C018751,2026-03-20,R011,E00251,Referral,Completed,1375.18
+98888,Invalid Foreign Key: Customer_ID,O0098887,C018888,2026-08-04,R008,E00388,Instagram,Completed,6977.09
+98943,Invalid Foreign Key: Customer_ID,O0098942,C018943,2025-09-28,R003,E00443,Instagram,Completed,3519.28
+99046,Invalid Foreign Key: Customer_ID,O0099045,C999999,2026-01-09,R006,E00046,Organic Search,Completed,1277.35
+99251,Invalid Foreign Key: Sales_Employee_ID,O0099250,C019251,2026-08-02,R011,E00251,Email,Completed,1382.31
+99513,Invalid Foreign Key: Sales_Employee_ID,O0099512,C019513,2026-04-21,R013,E99999,Email,Completed,1171.63
+99675,Invalid Foreign Key: Customer_ID,O0099674,C019675,2025-09-30,R015,E00175,Referral,Cancelled,9997.95
+99751,Invalid Foreign Key: Sales_Employee_ID,O0099750,C019751,2025-12-15,R011,E00251,Organic Search,Cancelled,1389.43
+99931,Future Date: Order_Date,O0099930,C019931,2027-02-01,R011,E00431,Email,Completed,850.41
+99940,Invalid Foreign Key: Customer_ID,O0099939,C019940,2026-06-22,R020,E00440,Organic Search,Completed,5501.4

@@ -1,0 +1,9 @@
+Source_Row,Reject_Reasons,Product_ID,Product_Name,Category,Subcategory,Supplier_ID,List_Price,Standard_Cost,Launch_Date,Lead_Time_Days,Status
+308,Negative Value: List_Price,P00307,Furniture Product 0307,Furniture,Subcategory 19,S00108,-999,1070,2026-07-05,37,Active
+422,Invalid Foreign Key: Supplier_ID,P00421,Furniture Product 0421,Furniture,Subcategory 13,S99999,4175,2610,2025-10-27,41,Active
+500,Missing Primary Key,,Furniture Product 0499,Furniture,Subcategory 19,S00100,17825,11190,2026-01-13,9,Active
+578,Future Date: Launch_Date,P00577,Furniture Product 0577,Furniture,Subcategory 1,S00178,13975,8770,2027-03-01,32,Active
+615,Negative Value: List_Price,P00614,Office Supplies Product 0614,Office Supplies,Subcategory 14,S00015,-999,1840,2026-05-08,14,Active
+843,Invalid Foreign Key: Supplier_ID,P00842,Office Supplies Product 0842,Office Supplies,Subcategory 2,S99999,7850,4920,2025-12-22,22,Active
+922,Negative Value: List_Price,P00921,Home Appliances Product 0921,Home Appliances,Subcategory 9,S00122,-999,2610,2026-03-11,46,Active
+999,Missing Primary Key,,Office Supplies Product 0998,Office Supplies,Subcategory 14,S00199,17650,11080,2026-05-27,13,Active

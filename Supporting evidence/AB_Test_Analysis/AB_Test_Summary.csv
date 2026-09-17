@@ -1,0 +1,3 @@
+Experiment_Group,Total_Sessions,Conversions,Unique_Customers,Orders,Non_Conversions,Conversion_Rate,Conversion_Rate_Percentage,CI_Lower_Percentage,CI_Upper_Percentage
+Control,50000,4302,7931,4302,45698,0.086,8.604,8.3582,8.8498
+Treatment,49993,4328,7934,4328,45665,0.0866,8.6572,8.4107,8.9037

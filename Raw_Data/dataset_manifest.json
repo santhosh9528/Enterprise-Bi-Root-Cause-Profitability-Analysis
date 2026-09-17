@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-09-15T06:24:03.470Z",
+  "seed": 20260915,
+  "scale": 1,
+  "period": "2025-09-01 to 2026-08-31",
+  "currency": "INR",
+  "management_revenue": 520000000,
+  "target_sales_database_revenue": 490000000,
+  "known_quality_issues": [
+    "duplicate PKs",
+    "missing PKs/FKs",
+    "invalid and future dates",
+    "negative quantities/prices",
+    "unmatched IDs",
+    "duplicate orders/invoices/payments",
+    "reconciliation mismatch",
+    "stock anomalies"
+  ],
+  "row_counts": {
+    "region_master": 20,
+    "customer_master": 20020,
+    "product_master": 1000,
+    "employee_master": 500,
+    "suppliers": 200,
+    "orders": 100000,
+    "order_items": 250000,
+    "sales": 250000,
+    "returns": 15000,
+    "invoices": 102000,
+    "payments": 110000,
+    "purchases": 25000,
+    "inventory": 120000,
+    "marketing_campaigns": 5000,
+    "website_activity": 200000,
+    "customer_complaints": 10000,
+    "employee_attendance": 50000,
+    "monthly_targets": 240
+  }
+}

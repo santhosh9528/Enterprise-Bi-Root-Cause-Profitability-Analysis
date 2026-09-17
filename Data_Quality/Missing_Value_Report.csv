@@ -1,0 +1,10 @@
+Dataset,Column,Missing_Count,Missing_Percentage
+customer_complaints.csv,Resolution_Date,1250,12.5
+customer_complaints.csv,Satisfaction_Score,1250,12.5
+customer_master.csv,Customer_ID,20,0.1
+customer_master.csv,Email,51,0.25
+employee_master.csv,Employee_ID,1,0.2
+employee_master.csv,Manager_ID,10,2.0
+product_master.csv,Product_ID,2,0.2
+website_activity.csv,Customer_ID,11764,5.88
+website_activity.csv,Order_ID,191305,95.65
